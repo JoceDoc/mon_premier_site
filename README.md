@@ -2,7 +2,7 @@
 Site du CDI
 
 ## Présentation des horaires 
-## [Base documentaire](https://ecmorlaix.basecdi/pmb/opac_css/)
+## [Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
 - Projets pédagogiques
   - Recherche d'information
   - Education aux médias et à l'information
