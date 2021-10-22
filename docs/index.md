@@ -1,13 +1,6 @@
 
 
-
-
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
-
-
-
-# mon_premier_site
-Site du CDI
+# CDI LYCEE NOTRE-DAME-DU-MUR
 
 ## Bienvenue au CDI
 ### Informations pratiques
@@ -15,7 +8,7 @@ Site du CDI
 ## Ressources diverses
 ## Méthodologie
 ## Pédagogie
-## Cutlture
+## Culture
 ## Education aux médias et à l'information
 ## L'oral
 
