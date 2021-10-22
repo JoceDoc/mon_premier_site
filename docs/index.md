@@ -1,4 +1,26 @@
+
+
+
+
 Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
+
+
+
+# mon_premier_site
+Site du CDI
+
+## Bienvenue au CDI
+### Informations pratiques
+### [Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
+## Ressources diverses
+## Méthodologie
+## Pédagogie
+## Cutlture
+## Education aux médias et à l'information
+## L'oral
+
+
+
 
 > Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
 
