@@ -1,6 +1,6 @@
 
 
-# CDI LYCEE NOTRE-DAME-DU-MUR
+# CDI [LYCEE NOTRE-DAME-DU-MUR](https://www.ecmorlaix.fr/themes/eca-morlaix/assets/images/logos/logo-ecam.svg)
 
 # Bienvenue au CDI
 
@@ -13,12 +13,21 @@
 # Ressources diverses
 
 ### [Padlet CDI](https://padlet.com/cdinddmporsmeur/CDI)
+### [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
+#### [SECONDE](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
+#### [PERMIERE](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
+#### [TERMINALE](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
 
 # Méthodologie
+
 # Pédagogie
+
 # Culture
+
 # Education aux médias et à l'information
+
 # L'oral
+
 
 
 
