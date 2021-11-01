@@ -13,6 +13,8 @@ Bienvenue sur notre site. Les documentalistes Jocelyne COZ et Claire LEOST vous 
 				
 
 ## ![illustration mkdocs-material](https://www.ecmorlaix.fr/uploads/2018/09/434-1400x800.jpg)
+## ![illustration mkdocs-material](
+
 
 ## Informations pratiques
 
