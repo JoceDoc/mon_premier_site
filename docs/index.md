@@ -1,8 +1,16 @@
 
 
-# CDI [LYCEE NOTRE-DAME-DU-MUR](https://www.ecmorlaix.fr/themes/eca-morlaix/assets/images/logos/logo-ecam.svg)
+# CDI du LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX
+Bienvenue sur notre site. Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du lundi au vendredi.
 
-# Bienvenue au CDI
+# Horaire d'ouverture
+
+	Lundi - 9h-18h30
+    Mardi - 8h30 - 18h30
+    Mercredi - 8h30 - 18h30
+    Jeudi - 8h30 - 18h30
+    Vendredi 8h30 - 16 h30
+				
 
 ## ![illustration mkdocs-material](https://www.ecmorlaix.fr/uploads/2018/09/434-1400x800.jpg)
 
