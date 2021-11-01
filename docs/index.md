@@ -4,11 +4,16 @@
 
 # Bienvenue au CDI
 
-## ![illustration mkdocs-material] (https://www.ecmorlaix.fr/uploads/2018/09/434-1400x800.jpg)
+## ![illustration mkdocs-material](https://www.ecmorlaix.fr/uploads/2018/09/434-1400x800.jpg)
 
 ## Informations pratiques
-### [Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
+
+## [Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
+
 # Ressources diverses
+
+### [Padlet CDI](https://padlet.com/cdinddmporsmeur/CDI)
+
 # Méthodologie
 # Pédagogie
 # Culture
