@@ -3,6 +3,13 @@
 # CDI du LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX
 Bienvenue sur notre site. Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du lundi au vendredi.
 #### Pourquoi venir au CDI ?
+Travailler dans un endroit agréable et propice à la concentration
+Faire des recherches en lien avec mes disciplines d'enseignement
+Réfléchir et étayer mon projet d'orientation
+Avancer mon travail personnel
+Lire la presse, des fictions ou des documentaires
+Découvrir les nouveautés
+Emprunter des documents
 
 ## ![illustration mkdocs-material](https://www.ecmorlaix.fr/uploads/2018/09/434-1400x800.jpg)
 
