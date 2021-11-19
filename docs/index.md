@@ -20,7 +20,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 
 ![illustration mkdocs-material](https://www.ecmorlaix.fr/uploads/2018/09/434-1400x800.jpg)
-![vue du CDI](./images/undraw_Polaroid.svg.)
+![vue du CDI](./images/CDI01.jpg "info-bulle")
 
 
 ## Informations pratiques
