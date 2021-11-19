@@ -19,7 +19,8 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 * Emprunter des documents
 
 
-![vue du CDI](./images/CDI01.jpg "info-bulle")
+![vue du CDI](./images/CDI01.jpg "info-bulle"){width=20% align=right}
+
 
 
 ## Informations pratiques
