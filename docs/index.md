@@ -38,6 +38,8 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 ## Ressources diverses
 
 ### [Padlet CDI](https://padlet.com/cdinddmporsmeur/CDI)
+
+## Orientation et parcours avenir
 ### [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
 #### [SECONDE](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 #### [PERMIERE](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
