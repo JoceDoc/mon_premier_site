@@ -48,15 +48,12 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 ## Pédagogie
 
 #### Concours de critique
-
-###[site officiel](https://www.bruitdelire.org/concours-de-critique-litteraire/)
-
-
-
-
+####[Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
 
 #### Concours "Si on lisait à voix haute"
-####
+#### Prix folio des lycéens
+####[Prix folio le site](https://www.prixdeslyceensfolio.fr/)
+
 
 ## Culture
 
