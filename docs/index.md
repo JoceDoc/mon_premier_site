@@ -40,6 +40,13 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 ### [Padlet CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
 ## Orientation et parcours avenir
+
+- Vidéo de présentation par M. QUINIO :
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xg6QcfmgYXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ### [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
 #### [SECONDE](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 #### [PERMIERE](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
