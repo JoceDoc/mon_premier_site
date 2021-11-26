@@ -72,7 +72,7 @@ Your browser does not support the video tag.
 </figure>
 
 * **Prix folio des lycéens**
-[Prix folio](https://www.prixdeslyceensfolio.fr/)
+[Site officiel](https://www.prixdeslyceensfolio.fr/)
 
 
 ## Culture
