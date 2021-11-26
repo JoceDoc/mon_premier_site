@@ -45,6 +45,10 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xg6QcfmgYXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<figcaption>
+		Comment utiliser le <a href="https://padlet.com/cdinddmporsmeur/orientation_terminale_2020" target="_blank">padlet</a> ?
+			</figcaption>
+
 </figure>
 
 ### [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
