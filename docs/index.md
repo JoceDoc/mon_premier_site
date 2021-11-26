@@ -22,7 +22,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 
 
-!! Informations pratiques
+## Informations pratiques
 
 #### Horaires d'ouverture du CDI
 	Lundi - 9h-18h30
