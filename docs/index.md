@@ -46,7 +46,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 <figure>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xg6QcfmgYXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>
-		Comment utiliser le <a href="https://padlet.com/cdinddmporsmeur/orientation_terminale_2020" target="_blank">padlet</a> ?
+		Vers le <a href="https://padlet.com/cdinddmporsmeur/orientation_terminale_2020" target="_blank">padlet</a> des terminales
 			</figcaption>
 
 </figure>
@@ -64,6 +64,12 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
 
 * **Concours "Si on lisait à voix haute"**
+<figure>
+<video width="560" height="315" controls>
+  <source src="./videos/Parcoursup.mp4" type="video/mp4">  
+Your browser does not support the video tag.
+</video>
+</figure>
 
 * **Prix folio des lycéens**
 [Prix folio le site](https://www.prixdeslyceensfolio.fr/)
