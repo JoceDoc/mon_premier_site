@@ -40,14 +40,13 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 ### [Padlet CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
 ## Orientation et Parcours avenir
+Ressources pour l'orientation : Liens vers les Padlets par niveau - Actualité de l'orientation - Les incontournables - Salons et forums - Vie étudiante
 
 ### [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
 #### [SECONDE](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 #### [PERMIERE](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
 #### [TERMINALE](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
-
-
-### [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
+#### [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
 
 
 - Vidéo de présentation par M. QUINIO :
