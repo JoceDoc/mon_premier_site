@@ -36,6 +36,8 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 
 ## Ressources diverses
+Accéder aux ressources numériques proposées par les documentalistes :
+* Fiches outils (Elaborer une problématique - prendre des notes - valider les sources d'internet - citer ses sources, rédiger une biblio et une sitographie)
 
 ### [Padlet CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
@@ -80,6 +82,12 @@ Your browser does not support the video tag.
 
 
 ## Culture
+La culture à Morlaix
+[Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/)
+[Sew](https://www.sew-morlaix.com/)
+[La Salamandre](https://cinemalasalamandre.fr/)
+[Cinéma Le Rialto](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html)
+
 
 ## Education aux médias et à l'information
 
