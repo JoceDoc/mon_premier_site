@@ -32,14 +32,17 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
     Vendredi 8h30 - 16 h30
 				
 
-## [Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
+## [Accéder à la Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
 
 
 ## Ressources diverses
 
 ### [Padlet CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
-## Orientation et parcours avenir
+## Orientation et Parcours avenir
+
+### [Site pour les terminales](https://padlet.com/cdinddmporsmeur/CDI)
+
 
 - Vidéo de présentation par M. QUINIO :
 
