@@ -41,7 +41,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 ## Orientation et Parcours avenir
 
-### [Site pour les terminales](https://padlet.com/cdinddmporsmeur/CDI)
+### [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
 
 
 - Vidéo de présentation par M. QUINIO :
