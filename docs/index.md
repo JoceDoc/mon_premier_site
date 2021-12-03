@@ -53,10 +53,10 @@ Accéder aux ressources numériques proposées par les documentalistes :
    + [Padlet du CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
 ???+ info "Orientation et Parcours avenir"
-Ressources pour l'orientation : Liens vers les Padlets par niveau - Actualité de l'orientation - Les incontournables - Salons et forums - Vie étudiante
+Ressources pour l'orientation : Actualité de l'orientation - Sites incontournables - Salons et forums - Vie étudiante
 
 === "Parcours AVENIR"
-    (https://padlet.com/cdinddmporsmeur/ORI_2020)
+    [Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
 === "SECONDE"
     [vers le padlet seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 === "PREMIERE"
