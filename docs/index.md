@@ -24,26 +24,19 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 ???+ info "Informations pratiques"
 
-    |Horaires d'ouverture du CDI|
-    | Lundi   |   9h - 18h30 |
+    * Horaires d'ouverture du CDI
+    | Lundi    |   9h - 18h30 |
     
-    | Mardi   | 8h30 - 18h30 |
+    | Mardi    | 8h30 - 18h30 |
     
-    | Mercredi| 8h30 - 18h30 |
+    | Mercredi | 8h30 - 18h30 |
     
-    | Jeudi   | 8h30 - 18h30 |
+    | Jeudi    | 8h30 - 18h30 |
     
-    | Vendredi| 8h30 - 18h30 |
+    | Vendredi | 8h30 - 18h30 |
   
-    
-Lundi - 9h-18h30
-       Mardi - 8h30 - 18h30
-       Mercredi - 8h30 - 18h30
-       Jeudi - 8h30 - 18h30
-       Vendredi 8h30 - 16 h30
 				
-
-## [Accéder à la Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
+   * [Accéder à la Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
 
 
 ## Ressources diverses
