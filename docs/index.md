@@ -5,20 +5,20 @@
 ![vue du CDI](./images/CDI01.jpg "info-bulle"){width=40% align=left}
 Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du lundi au vendredi.
 -------
-#### Pourquoi venir au CDI ?
-* Travailler dans un endroit agréable et propice à la concentration
+???+ question "Pourquoi venir au CDI ? ..."
+    * Travailler dans un endroit agréable et propice à la concentration
 
-* Faire des recherches en lien avec mes disciplines d'enseignement
+    * Faire des recherches en lien avec mes disciplines d'enseignement
 
-* Réfléchir et étayer mon projet d'orientation
+    * Réfléchir et étayer mon projet d'orientation
 
-* Avancer mon travail personnel
+    * Avancer mon travail personnel
 
-* Lire la presse, des fictions ou des documentaires
+    * Lire la presse, des fictions ou des documentaires
 
-* Découvrir les nouveautés
+    * Découvrir les nouveautés
 
-* Emprunter des documents
+    * Emprunter des documents
 
 
 
