@@ -39,16 +39,16 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
    * [Accéder à la Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
 
 
-## Ressources diverses
+???+ info "Ressources diverses"
 Accéder aux ressources numériques proposées par les documentalistes :
 * Fiches outils (Elaborer une problématique - prendre des notes - valider les sources d'internet - citer ses sources, rédiger une biblio et une sitographie)
 
-### [Padlet CDI](https://padlet.com/cdinddmporsmeur/CDI)
+[Padlet CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
-## Orientation et Parcours avenir
+???+ info "Orientation et Parcours avenir"
 Ressources pour l'orientation : Liens vers les Padlets par niveau - Actualité de l'orientation - Les incontournables - Salons et forums - Vie étudiante
 
-### [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
+     [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
 
 === "SECONDE"
     [vers le padlet seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
@@ -71,9 +71,9 @@ Ressources pour l'orientation : Liens vers les Padlets par niveau - Actualité d
 </figure>
 
 
-## Méthodologie
+???+ tip "Méthodologie"
 
-## Pédagogie
+???+ info "Pédagogie"
 
 * **Concours de critique**
 [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
