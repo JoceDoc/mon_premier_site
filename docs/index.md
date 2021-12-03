@@ -42,6 +42,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 ???+ info "Ressources diverses"
 Accéder aux ressources numériques proposées par les documentalistes :
+   
    * Fiches outils 
     	* Elaborer une problématique
     	* Prendre des notes
