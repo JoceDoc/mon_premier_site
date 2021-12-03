@@ -45,10 +45,13 @@ Accéder aux ressources numériques proposées par les documentalistes :
 Ressources pour l'orientation : Liens vers les Padlets par niveau - Actualité de l'orientation - Les incontournables - Salons et forums - Vie étudiante
 
 ### [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
-#### [SECONDE](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
-#### [PERMIERE](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
-#### [TERMINALE](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
-#### [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
+=== "SECONDE"
+    [orientation_seconde_2020](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
+=== "PREMIERE"
+    [orientation_premiere_2020](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
+=== "TERMINALE"
+    - [orientation_terminale_2020](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
+    - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
 
 
 - Vidéo de présentation par M. QUINIO :
