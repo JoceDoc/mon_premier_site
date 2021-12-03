@@ -45,6 +45,7 @@ Accéder aux ressources numériques proposées par les documentalistes :
 Ressources pour l'orientation : Liens vers les Padlets par niveau - Actualité de l'orientation - Les incontournables - Salons et forums - Vie étudiante
 
 ### [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
+
 === "SECONDE"
     [orientation_seconde_2020](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 === "PREMIERE"
