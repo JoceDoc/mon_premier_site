@@ -47,7 +47,7 @@ Ressources pour l'orientation : Liens vers les Padlets par niveau - Actualité d
 ### [Parcours AVENIR](https://padlet.com/cdinddmporsmeur/ORI_2020)
 
 === "SECONDE"
-    [orientation_seconde_2020](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
+    [vers le padlet seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 === "PREMIERE"
     [orientation_premiere_2020](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
 === "TERMINALE"
