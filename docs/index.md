@@ -51,6 +51,7 @@ Ressources pour l'orientation : Liens vers les Padlets par niveau - Actualité d
 === "PREMIERE"
     [orientation_premiere_2020](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
 === "TERMINALE"
+
     - [orientation_terminale_2020](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
     - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
 
