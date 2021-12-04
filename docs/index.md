@@ -62,7 +62,6 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
     - [vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
     - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
     - Vidéo de présentation par M. QUINIO :
-
 <figure>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xg6QcfmgYXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>
@@ -115,6 +114,6 @@ Your browser does not support the video tag.
 * [La Virgule](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule)
 * [La Salamandre](https://cinemalasalamandre.fr/)
 * [Cinéma Le Rialto](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html)
-
+* [Espace des sciences](https://www.espace-sciences.org/morlaix)
 
 
