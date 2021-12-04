@@ -54,12 +54,12 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 === "Parcours AVENIR"
     [Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
 === "SECONDE"
-    [vers le padlet seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
+    [Vers le padlet seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 === "PREMIERE"
-    [vers le padlet première](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
+    [Vers le padlet première](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
 === "TERMINALE"
 
-    - [vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
+    - [Vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
     - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
     - Vidéo de présentation par M. QUINIO :
 <figure>
