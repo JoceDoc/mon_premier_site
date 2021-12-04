@@ -7,7 +7,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 -------
 ## INFORMATIONS PRATIQUES
 
-??? question "Pourquoi venir au CDI ? ..."
+???+ question "Pourquoi venir au CDI ? ..."
     * Travailler dans un endroit agréable et propice à la concentration
 
     * Faire des recherches en lien avec mes disciplines d'enseignement
@@ -24,7 +24,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
 
 
-??? info "Horaires d'ouverture"
+???+ info "Horaires d'ouverture"
         
     | Lundi    |   9h - 18h30 |
     
@@ -43,7 +43,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
 ## ORIENTATION
 
-???+ info "Orientation et Parcours avenir"
+???+ tip "Orientation et Parcours avenir"
 
     Ressources pour l'orientation par niveau
     Actualité de l'orientation
@@ -81,7 +81,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 ???+ info "Concours de critique"
 [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
 
-???+ "Si on lisait à voix haute"
+???+ info "Si on lisait à voix haute"
 <figure>
 <video width="560" height="315" controls>
   <source src="./videos/Parcoursup.mp4" type="video/mp4">  
@@ -89,7 +89,7 @@ Your browser does not support the video tag.
 </video>
 </figure>
 
-???+ "Prix folio des lycéens"
+???+ info "Prix folio des lycéens"
 [Prix folio](https://www.prixdeslyceensfolio.fr/)
 
 ### METHODOLOGIE
