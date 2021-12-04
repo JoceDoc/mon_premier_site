@@ -8,6 +8,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 ## INFORMATIONS PRATIQUES
 
 ???+ question "Pourquoi venir au CDI ? ..."
+
     * Travailler dans un endroit agréable et propice à la concentration
 
     * Faire des recherches en lien avec mes disciplines d'enseignement
