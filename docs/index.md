@@ -44,10 +44,10 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
 ## ACTUALITES
 ???+ info "Expositions"
-    * Expo : 20 ans après les attentats du 11/09/2001
-  	Réalisée par les élèves de 2nde et 1ère AEPA sur les attentats du 11 septembre 2001.
+    * 20 ans après les attentats du 11/09/2001
+    Exposition réalisée par les élèves de 2nde et 1ère AEPA sur les attentats du 11 septembre 2001.
 
-    * Expo : Ce que j'ai dans la tête
+    * Expo : "Ce que j'ai dans la tête"
     
     
 ## ORIENTATION
