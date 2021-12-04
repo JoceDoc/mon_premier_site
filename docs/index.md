@@ -5,6 +5,8 @@
 ![vue du CDI](./images/CDI01.jpg "info-bulle"){width=40% align=left}
 Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du lundi au vendredi.
 -------
+## Informations pratiques
+
 ???+ question "Pourquoi venir au CDI ? ..."
     * Travailler dans un endroit agréable et propice à la concentration
 
@@ -22,9 +24,8 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 
 
-???+ info "Informations pratiques"
-    * Horaires d'ouverture du CDI
-    
+???+ info "Horaires d'ouverture"
+        
     | Lundi    |   9h - 18h30 |
     
     | Mardi    | 8h30 - 18h30 |
@@ -49,7 +50,9 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
    -
    + [Padlet du CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
-# ???+ info "Orientation et Parcours avenir"
+## ORIENTATION
+
+???+ info "Orientation et Parcours avenir"
 
 Ressources pour l'orientation : Actualité de l'orientation - Sites incontournables - Salons et forums - Vie étudiante
 
@@ -77,14 +80,14 @@ Ressources pour l'orientation : Actualité de l'orientation - Sites incontournab
 </figure>
 
 
-???+ tip "Méthodologie"
 
-???+ info "Pédagogie"
 
-* **Concours de critique**
+## PEDAGOGIE
+### CONCOURS
+???+ info "Concours de critique"
 [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
 
-* **Concours "Si on lisait à voix haute"**
+???+ "Si on lisait à voix haute"
 <figure>
 <video width="560" height="315" controls>
   <source src="./videos/Parcoursup.mp4" type="video/mp4">  
@@ -92,11 +95,13 @@ Your browser does not support the video tag.
 </video>
 </figure>
 
-* **Prix folio des lycéens**
-[Site officiel](https://www.prixdeslyceensfolio.fr/)
+???+ "Prix folio des lycéens"
+[Prix folio](https://www.prixdeslyceensfolio.fr/)
 
+### METHODOLOGIE
+???+ info "Fiches outils"
 
-## Culture
+## CULTURE
 La culture à Morlaix
 [Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/)
 [Sew](https://www.sew-morlaix.com/)
@@ -106,7 +111,7 @@ La culture à Morlaix
 
 ## Education aux médias et à l'information
 
-## L'oral
+## ORAL
 
 
 === "Rendu :"
