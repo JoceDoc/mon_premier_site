@@ -7,7 +7,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 -------
 ## INFORMATIONS PRATIQUES
 
-???+ question "Pourquoi venir au CDI ? ..."
+??? question "Pourquoi venir au CDI ? ..."
     * Travailler dans un endroit agréable et propice à la concentration
 
     * Faire des recherches en lien avec mes disciplines d'enseignement
@@ -24,7 +24,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
 
 
-???+ info "Horaires d'ouverture"
+??? info "Horaires d'ouverture"
         
     | Lundi    |   9h - 18h30 |
     
@@ -75,7 +75,7 @@ Actualité de l'orientation - Sites incontournables - Salons et forums - Vie ét
 
 ## PEDAGOGIE
 
-### CONCOURS
+### CONCOURS SCOLAIRES
 ???+ info "Concours de critique"
 [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
 
@@ -107,11 +107,11 @@ Your browser does not support the video tag.
 
 [Culture&Loisirs à Morlaix](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs)
 
-[Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/)
-[Sew](https://www.sew-morlaix.com/)
-[La Virgule](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule)
-[La Salamandre](https://cinemalasalamandre.fr/)
-[Cinéma Le Rialto](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html)
+* [Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/)
+* [Sew](https://www.sew-morlaix.com/)
+* [La Virgule](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule)
+* [La Salamandre](https://cinemalasalamandre.fr/)
+* [Cinéma Le Rialto](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html)
 
 
 
