@@ -45,8 +45,11 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
 ???+ info "Orientation et Parcours avenir"
 
-Ressources pour l'orientation par niveau.
-Actualité de l'orientation - Sites incontournables - Salons et forums - Vie étudiante.
+    Ressources pour l'orientation par niveau
+    Actualité de l'orientation
+    Sites incontournables
+    Salons et forums
+    Vie étudiante
 
 === "Parcours AVENIR"
     [Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
