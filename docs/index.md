@@ -62,7 +62,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
     Vie étudiante
 
 === "Parcours AVENIR"
-    [Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
+    ![Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
 === "SECONDE"
     [Vers le padlet seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 === "PREMIERE"
