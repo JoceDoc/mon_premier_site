@@ -45,7 +45,8 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
 ???+ info "Orientation et Parcours avenir"
 
-Ressources pour l'orientation : Actualité de l'orientation - Sites incontournables - Salons et forums - Vie étudiante
+Ressources pour l'orientation par niveau.
+Actualité de l'orientation - Sites incontournables - Salons et forums - Vie étudiante.
 
 === "Parcours AVENIR"
     [Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
@@ -72,8 +73,8 @@ Ressources pour l'orientation : Actualité de l'orientation - Sites incontournab
 
 
 
-
 ## PEDAGOGIE
+
 ### CONCOURS
 ???+ info "Concours de critique"
 [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
@@ -97,6 +98,9 @@ Your browser does not support the video tag.
     * Citer ses sources
     * Rédiger une bibliographie, une sitographie
     
+    
+### Education aux médias et à l'information
+
 ## CULTURE
 La culture à Morlaix
 [Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/)
@@ -104,8 +108,6 @@ La culture à Morlaix
 [La Salamandre](https://cinemalasalamandre.fr/)
 [Cinéma Le Rialto](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html)
 
-
-## Education aux médias et à l'information
 
 ## ORAL
 
