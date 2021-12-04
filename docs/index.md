@@ -25,7 +25,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 ???+ info "Informations pratiques"
 
     * Horaires d'ouverture du CDI
-    :---|---:
+    
     | Lundi    |   9h - 18h30 |
     
     | Mardi    | 8h30 - 18h30 |
@@ -41,8 +41,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 
 ???+ info "Ressources diverses"
-Accéder aux ressources numériques proposées par les documentalistes :
-   
+  
    * Fiches outils 
     	* Elaborer une problématique
     	* Prendre des notes
@@ -53,6 +52,8 @@ Accéder aux ressources numériques proposées par les documentalistes :
    + [Padlet du CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
 ???+ info "Orientation et Parcours avenir"
+
+
 Ressources pour l'orientation : Actualité de l'orientation - Sites incontournables - Salons et forums - Vie étudiante
 
 === "Parcours AVENIR"
@@ -60,12 +61,13 @@ Ressources pour l'orientation : Actualité de l'orientation - Sites incontournab
 === "SECONDE"
     [vers le padlet seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 === "PREMIERE"
-    [orientation_premiere_2020](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
+    [vers le padlet première](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
 === "TERMINALE"
 
-    - [orientation_terminale_2020](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
+    - [vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
     - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
-
+    
+![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}
 
 - Vidéo de présentation par M. QUINIO :
 
