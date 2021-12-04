@@ -91,6 +91,8 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
 
 ???+ info "Si on lisait à voix haute"
+[Site du concours](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute)
+
 <figure>
 <video width="560" height="315" controls>
   <source src="./videos/Parcoursup.mp4" type="video/mp4">  
