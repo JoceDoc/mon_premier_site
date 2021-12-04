@@ -23,7 +23,6 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 
 ???+ info "Informations pratiques"
-
     * Horaires d'ouverture du CDI
     
     | Lundi    |   9h - 18h30 |
@@ -41,8 +40,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 
 
 ???+ info "Ressources diverses"
-  
-   * Fiches outils 
+     * Fiches outils 
     	* Elaborer une problématique
     	* Prendre des notes
     	* Valider les sources d'internet
@@ -52,7 +50,6 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
    + [Padlet du CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
 ???+ info "Orientation et Parcours avenir"
-
 
 Ressources pour l'orientation : Actualité de l'orientation - Sites incontournables - Salons et forums - Vie étudiante
 
