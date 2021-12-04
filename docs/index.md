@@ -3,9 +3,9 @@
 # CDI du LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX
 
 ![vue du CDI](./images/CDI01.jpg "info-bulle"){width=40% align=left}
-Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du lundi au vendredi.
+Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du lundi au vendredi.
 -------
-## Informations pratiques
+## INFORMATIONS PRATIQUES
 
 ???+ question "Pourquoi venir au CDI ? ..."
     * Travailler dans un endroit agréable et propice à la concentration
@@ -39,16 +39,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continue du
 				
    * [Accéder à la Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
 
-
-???+ info "Ressources diverses"
-     * Fiches outils 
-    	* Elaborer une problématique
-    	* Prendre des notes
-    	* Valider les sources d'internet
-    	* Citer ses sources
-    	* Rédiger une bibliographie, une sitographie
-   -
-   + [Padlet du CDI](https://padlet.com/cdinddmporsmeur/CDI)
+   * [Padlet du CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
 ## ORIENTATION
 
@@ -100,7 +91,12 @@ Your browser does not support the video tag.
 
 ### METHODOLOGIE
 ???+ info "Fiches outils"
-
+    * Elaborer une problématique
+    * Prendre des notes
+    * Valider les sources d'internet
+    * Citer ses sources
+    * Rédiger une bibliographie, une sitographie
+    
 ## CULTURE
 La culture à Morlaix
 [Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/)
