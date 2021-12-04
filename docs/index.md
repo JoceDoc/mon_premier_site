@@ -41,6 +41,14 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
    * [Padlet du CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
+## ACTUALITES
+???+ info "Expositions"
+    * Expo : 20 ans après les attentats du 11/09/2001
+  	Réalisée par les élèves de 2nde et 1ère AEPA sur les attentats du 11 septembre 2001.
+
+    * Expo : Ce que j'ai dans la tête
+    
+    
 ## ORIENTATION
 
 ???+ tip "Orientation et Parcours avenir"
