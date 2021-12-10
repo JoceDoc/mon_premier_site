@@ -44,7 +44,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
 ## ACTUALITES
 ???+ info "Expositions"
-    * "20 ans après les attentats du 11/09/2001"
+    * "20 ans après les attentats du 11/09/2001"  
     
     Exposition réalisée par les élèves de 2nde et 1ère AEPA sur les attentats du 11 septembre 2001.
 
@@ -55,11 +55,11 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
 ???+ tip "Orientation et Parcours avenir"
 
-    Ressources pour l'orientation par niveau
-    Actualité de l'orientation
-    Sites incontournables
-    Salons et forums
-    Vie étudiante
+    Ressources pour l'orientation par niveau  
+    Actualité de l'orientation  
+    Sites incontournables  
+    Salons et forums  
+    Vie étudiante  
 
 === "Parcours AVENIR"
     [Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
