@@ -55,8 +55,8 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 
 ???+ tip "Orientation et Parcours avenir"
 
-    Ressources pour l'orientation par niveau  
-    Actualité de l'orientation  
+    Ressources pour l'orientation par niveau    
+    Actualité de l'orientation    
     Sites incontournables  
     Salons et forums  
     Vie étudiante  
