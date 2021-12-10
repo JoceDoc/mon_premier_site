@@ -49,7 +49,9 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 	
 ![Exposition 11 septembre 2001](./images/CDI_expo_20ans après_01.jpg "info-bulle"){width=40% align=right}
 
-    * **"Ce que j'ai dans la tête"**
+  
+  
+  * **"Ce que j'ai dans la tête"**
     
     
 ## ORIENTATION
