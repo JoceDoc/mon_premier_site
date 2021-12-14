@@ -47,12 +47,12 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
 ???+ info "Expositions"
     ![Exposition 11 septembre 2001](./images/CDI_expo_20ans après_01.jpg "info-bulle"){width=20% align=left}
 
-    * **"20 ans après les attentats du 11/09/2001"**  
+    - **"20 ans après les attentats du 11/09/2001"**  
         Exposition sur les attentats du 11 septembre 2001, réalisée par les élèves de 2nde et 1ère AEPA.
 	
 
   
-    * **"Ce que j'ai dans la tête"**
+    - **"Ce que j'ai dans la tête"**
     
     
 ## ORIENTATION
@@ -111,11 +111,11 @@ Your browser does not support the video tag.
 
 ### METHODOLOGIE
 ???+ info "Fiches outils"
-    * Elaborer une problématique
-    * Prendre des notes
-    * Valider les sources d'internet
-    * Citer ses sources
-    * Rédiger une bibliographie, une sitographie
+    - Elaborer une problématique
+    - Prendre des notes
+    - Valider les sources d'internet
+    - Citer ses sources
+    - Rédiger une bibliographie, une sitographie
     
     
 ### EMI Education aux médias et à l'information
