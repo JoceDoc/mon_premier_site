@@ -67,10 +67,10 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
     Salons et forums  
     Vie étudiante
     
-    [GUIDE_ENTRER_DANS_LE_SUP_2022](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
-
+   
 === "Parcours AVENIR"
     [Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
+    [GUIDE_ENTRER_DANS_LE_SUP_2022](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
 === "SECONDE"
     [Vers le padlet seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 === "PREMIERE"
