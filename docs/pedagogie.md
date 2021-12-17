@@ -1,0 +1,32 @@
+
+## AP 2nde
+
+## EMI Education aux médias et à l'information
+
+## Concours scolaires
+???+ info "Concours de critique"
+[Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
+
+???+ info "Si on lisait à voix haute"
+[Site du concours](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute)
+
+<figure>
+<video width="560" height="315" controls>
+  <source src="./videos/Parcoursup.mp4" type="video/mp4">  
+Your browser does not support the video tag.
+</video>
+</figure>
+
+???+ info "Prix folio des lycéens"
+[Prix folio](https://www.prixdeslyceensfolio.fr/)
+
+
+## Méthodologie
+???+ info "Fiches outils"
+    - Elaborer une problématique
+    - Prendre des notes
+    - Valider les sources d'internet
+    - Citer ses sources
+    - Rédiger une bibliographie, une sitographie
+    
+## ORAL

@@ -18,8 +18,13 @@ docs_dir: docs
 
 # Menu de navigation
 nav: 
-    - La page d'accueil : index.md
-    - Un notebook jupyter : Notebook.ipynb
+    - Page d'accueil : index.md
+    - Informations pratiques : informations.md
+    - Actualités : actualites.md
+    - Orientation : orientation.md
+    - Pédagogie : pedagogie.md
+    - Culture : culture.md
+
 
 
     # Référencer vos autres pages ci-dessus...
@@ -36,13 +41,13 @@ theme:
 
     palette: # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
       - scheme: default # nom du thème clair
-        primary: lime # couleur primaire des titres, des liens, ..., à prendre dans la liste
-        accent: amber # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+        primary: purple # couleur primaire des titres, des liens, ..., à prendre dans la liste
+        accent: lime # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
         toggle: # définition du bouton pour switcher de palette
           icon: material/weather-sunny # apparence
           name: Basculer en mode sombre # message
       - scheme: slate # nom du thème sombre
-        primary: amber
+        primary: purple
         accent: lime
         toggle:
           icon: material/weather-night
