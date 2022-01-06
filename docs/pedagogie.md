@@ -29,6 +29,7 @@ Your browser does not support the video tag.
     - Faire un exposé
     - Réaliser un diaporama
     - Citer ses sources
+    [Site Savoirs CDI](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
     - Rédiger une bibliographie, une sitographie
     
 ## ORAL
