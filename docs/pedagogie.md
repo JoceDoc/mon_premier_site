@@ -29,7 +29,7 @@ Your browser does not support the video tag.
     - Prendre des notes
     - Valider les sources d'internet
     - Faire un exposé
-     {[Fiche outil](./pdf/Méthodologie_Exposé.pdf){target=_blank}
+     [Fiche outil](./pdf/Méthodologie_Exposé.pdf){target=_blank}
     - Réaliser un diaporama
     - Citer ses sources
     [Site Savoirs CDI](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
