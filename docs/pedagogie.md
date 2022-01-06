@@ -26,6 +26,8 @@ Your browser does not support the video tag.
     - Elaborer une problématique
     - Prendre des notes
     - Valider les sources d'internet
+    - Faire un exposé
+    - Réaliser un diaporama
     - Citer ses sources
     - Rédiger une bibliographie, une sitographie
     
