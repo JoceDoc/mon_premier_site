@@ -9,6 +9,7 @@
 
 ???+ info "Si on lisait à voix haute"
 [Site du concours](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute)
+[Padlet du groupe d'AP](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie)
 
 <figure>
 <video width="560" height="315" controls>
