@@ -31,6 +31,7 @@ Your browser does not support the video tag.
     - Faire un exposé
      [Fiche outil](./pdf/Méthodologie_Exposé.pdf){target=_blank}
     - Réaliser un diaporama
+     [Fiche outil](./pdf/Méthodologie_diaporam.pdf){target=_blank}
     - Citer ses sources
     [Site Savoirs CDI](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
     - Rédiger une bibliographie, une sitographie
