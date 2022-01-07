@@ -24,7 +24,7 @@ Your browser does not support the video tag.
 
 
 ## Méthodologie
-???+ info "Tutoriels et conseils"
+???+ info "Fiches outils, tutoriels et conseils..."
     - Elaborer une problématique
     - Prendre des notes
     - Valider les sources d'internet
