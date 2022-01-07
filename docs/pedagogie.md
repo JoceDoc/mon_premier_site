@@ -26,7 +26,7 @@ Your browser does not support the video tag.
 ## Méthodologie
 ???+ info "Fiches outils, tutoriels et conseils..."
     - Elaborer une problématique
-    - [Prendre des notes](.pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
+    - [Prendre ds notes](.pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     - Valider les sources d'internet
     - [Faire un exposé](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
     - [Réaliser un diaporama](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
