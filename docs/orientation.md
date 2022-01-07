@@ -17,17 +17,19 @@
 === "PREMIERE"
     [Vers le padlet première](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
 === "TERMINALE"
-
-    - [Vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
     - [Calendrier PARCOURSUP](https://www.parcoursup.fr/index.php?desc=calendrier) 
-    - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
-    - Comment utiliser le padlet ? (M. Quinio)
+    - [Vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
     
-	<figure> 
+    <figure> 
 	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xg6QcfmgYXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>
+	  
+   </figure>
+    - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
+  
+    
 	
 
-	</figure>
+	
 
 ![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}
