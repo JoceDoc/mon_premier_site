@@ -28,11 +28,8 @@ Your browser does not support the video tag.
     - Elaborer une problématique
     - Prendre des notes
     - Valider les sources d'internet
-    - Faire un exposé
-     [Fiche outil](./pdf/Méthodologie_Exposé.pdf){target=_blank}
-    - Réaliser un diaporama
-     [Fiche outil](./pdf/Méthodologie_diaporama.pdf){target=_blank}
-    - Citer ses sources
-    [Site Savoirs CDI](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
+    - [Faire un exposé](./pdf/Méthodologie_Exposé.pdf){target=_blank}
+    - [Réaliser un diaporama](./pdf/Méthodologie_diaporama.pdf){target=_blank}
+    - [Citer ses sources](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
     
 ## ORAL
