@@ -19,6 +19,7 @@
 === "TERMINALE"
 
     - [Vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
+    - [Calendrier PARCOURSUP](https://www.parcoursup.fr/index.php?desc=calendrier) 
     - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
     - Comment utiliser le padlet ? (M. Quinio)
     
