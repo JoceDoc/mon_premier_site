@@ -13,9 +13,9 @@ Cette année dans le cadre de l'AP, 19 élèves de seconde générale participen
 
 Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses: pour certains la curiosité, pour d’autres, l’envie de travailler l’oral et de gagner en aisance, pour d’autres encore, aimant déjà lire à voix haute, le désir de participer à un concours national, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.
 
-Ensembles, ils ont choisi de relever le défi proposer par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, s'entraider pour exceller et donner le meilleur d'eux-mêmes.
+Ensembles, ils ont choisi de relever le défi proposer par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
 
-Découvrez sur les modalités du cocnours sur le site officiel, et notre le Padlet de notre AP.
+Découvrez sur les modalités du concours sur le site officiel, et le Padlet de notre groupe d'AP.
 
 [Site du concours](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute)
 
