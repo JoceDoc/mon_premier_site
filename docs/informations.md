@@ -8,12 +8,12 @@ Le CDI est une salle de travail et de lecture commune à tous : élèves, enseig
 Pour le respect du travail de chacun, il est impératif de parler à voix basse et d'éviter les allées et venues.
 Les séances pédagogiques sont prioritaires pour l'occupation de la salle.
 Pendant les séances pédagogiques l'accès aux individuels reste possible en fonction de la place disponible.
-Chacun est invité à respecter le calme exigé par ce lieu sous peine d'en être exclu.
+Chacun est invité à respecter le calme exigé afin de permettre une concentration optimale et un travail de qualité.
 
 
 ???+ info "Prêt des documents"
         
-  Au CDI la plupart des documents (fictions, documentaires, périodiques, DVD) peuvent être  empruntés, jusqu'à 3 documents à la fois.
+La plupart des documents (fictions, documentaires, périodiques, DVD) peuvent être empruntés, jusqu'à 3 documents à la fois.
 Par respect des autres utilisateurs, il est INDISPENSABLE d'en prendre le plus grand soin et de les rapporter dans les délais impartis.
  
 La durée de prêt varie en fonction du type de document.
