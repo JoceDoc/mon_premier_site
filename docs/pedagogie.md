@@ -3,22 +3,25 @@
 
 Les élèves de seconde générale participent dans le cadre de l'accompagnement personnalisé à un projet long et à trois projets courts pendant l'année scolaire.
 L’objectif est de les guider dans leurs choix d'orientation, en leur proposant dans un contexte d’enseignement différent des cours classiques :
+
 - des modules de découverte variés où ils pourront exprimer leurs talents
 - des activités liées à une discipline spécifique
 - des outils pour les aider à surmonter des difficultés 
 
 LISTE DES PROJETS LONGS (27 semaines)
--	Faire des sciences dans le cadre d’une enquête policière.
--	J’aime lire et je participe au « Prix Folio des lycéens ».
--	Ecrire à la façon d’un journaliste pour « Le journal du lycée ».
--	Science-Fiction, Fantasy, Fantastique : si j’écrivais des nouvelles de SFFF.
+
+-	Faire des sciences dans le cadre d’une enquête policière
+-	J’aime lire et je participe au « Prix Folio des lycéens »
+-	Ecrire à la façon d’un journaliste pour « Le journal du lycée »
+-	Science-Fiction, Fantasy, Fantastique : si j’écrivais des nouvelles de SFFF
 -	Les maths, j’adore, je veux approfondir
--	Création et innovation technologique : des idées plein la tête pour des projets concrets.
--	« Et si on lisait à voix haute » un concours pour travailler mon oral.
--	Webradio : créer des émissions de radio à diffuser sur l’ENT.
+-	Création et innovation technologique : des idées plein la tête pour des projets concrets
+-	« Et si on lisait à voix haute » un concours pour travailler mon oral
+-	Webradio : créer des émissions de radio à diffuser sur l’ENT
 -	Une Entreprise dans votre lycée (Inscriptions déjà clôturées)
 
 LISTE DES PROJETS COURTS (9 semaines)
+
 -	Soutien matière : maths (3 groupes)
 -	Soutien matière français 
 -	Prix de l’écoute (Podcast)
@@ -34,12 +37,11 @@ LISTE DES PROJETS COURTS (9 semaines)
 ## Concours scolaires
 ???+ info "Concours de critique"
 
-En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au concours de critique littéraire organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association Bruit de Lire.
+En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au concours de critique littéraire organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/).
 
 L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le Prix Goncourt des Lycéens.
 En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers leur autonomie. Au delà du « j’aime » / « j’aime pas », les élèves apprennent à formuler une appréciation personnelle sur l’œuvre qu’ils ont choisie et à justifier leur avis. En s’exerçant à ce genre particulier, ils développent de véritables compétences d’argumentation.
 
-[Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
 
 ???+ info "Si on lisait à voix haute"
 
