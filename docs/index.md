@@ -34,10 +34,10 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
     
     | Jeudi    | 8h30 - 18h30 |
     
-    | Vendredi | 8h30 - 18h30 |
+    | Vendredi | 8h30 - 16h30 |
   
 				
-   * [Accéder à la Base documentaire](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
+   * [Portail - Base documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
 
    * [Padlet du CDI](https://padlet.com/cdinddmporsmeur/CDI)
 
