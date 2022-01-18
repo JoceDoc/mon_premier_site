@@ -21,7 +21,7 @@ Leurs motivations et leurs attentes au moment de choisir cet atelier étaient di
 
 Ensembles, ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
 
-Découvrez les modalités du concours sur le site officiel, et le Padlet de notre groupe d'AP.
+Découvrez les modalités du concours sur le [Site officiel](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute), et le [Padlet du groupe d'AP](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie).
 
 [Site du concours](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute)
 
