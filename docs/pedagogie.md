@@ -12,7 +12,7 @@ En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent ve
 
 ???+ info "Si on lisait à voix haute"
 
-Cette année dans le cadre de l'AP, 19 élèves de seconde générale participent au concours « Si on lisait à voix haute » organisé par François Busnel et la Grande Librairie.
+Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours « Si on lisait à voix haute » organisé par François Busnel et la Grande Librairie.
 
 Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses: pour certains la curiosité, pour d’autres, l’envie de travailler l’oral et de gagner en aisance, pour d’autres encore, aimant déjà lire à voix haute, le désir de participer à un concours national, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.
 
