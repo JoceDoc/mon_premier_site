@@ -7,6 +7,8 @@
 ???+ info "Concours de critique"
 [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/)
 
+En octobre et nombre, les élèves de 1G1 et 1G3, ont participé au cocnours de critique littéraire 
+
 ???+ info "Si on lisait à voix haute"
 
 Cette année dans le cadre de l'AP, 19 élèves de seconde générale participent au concours « Si on lisait à voix haute » organisé par François Busnel et la Grande Librairie.
@@ -15,7 +17,7 @@ Leurs motivations et leurs attentes au moment de choisir cet atelier étaient di
 
 Ensembles, ils ont choisi de relever le défi proposer par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
 
-Découvrez sur les modalités du concours sur le site officiel, et le Padlet de notre groupe d'AP.
+Découvrez les modalités du concours sur le site officiel, et le Padlet de notre groupe d'AP.
 
 [Site du concours](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute)
 
