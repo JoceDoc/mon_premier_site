@@ -2,8 +2,8 @@
 ## AP 2nde
 
 Les élèves de seconde générale participent dans le cadre de l'accompagnement personnalisé à un projet long et à trois projets courts pendant l'année scolaire.
-L’objectif est de les guider dans leurs choix d'orientation, en vous proposant dans un contexte d’enseignement différent des cours classiques :
-- des modules de découverte variés où vous pourrez exprimer vos talents
+L’objectif est de les guider dans leurs choix d'orientation, en leur proposant dans un contexte d’enseignement différent des cours classiques :
+- des modules de découverte variés où ils pourront exprimer leurs talents
 - des activités liées à une discipline spécifique
 - des outils pour les aider à surmonter des difficultés 
 
