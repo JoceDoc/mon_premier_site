@@ -51,9 +51,6 @@ Ensembles, ils ont choisi de relever le défi proposé par le concours et se son
 
 Découvrez les modalités du concours sur le [Site officiel](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute), et le [Padlet du groupe d'AP](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie).
 
-[Site du concours](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute)
-
-[Padlet du groupe d'AP](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie)
 
 <figure>
 <video width="560" height="315" controls>
