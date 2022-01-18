@@ -1,6 +1,34 @@
 
 ## AP 2nde
 
+Les élèves de seconde générale participent dans le cadre de l'accompagnement personnalisé à un projet long et à trois projets courts pendant l'année scolaire.
+L’objectif est de les guider dans leurs choix d'orientation, en vous proposant dans un contexte d’enseignement différent des cours classiques :
+- des modules de découverte variés où vous pourrez exprimer vos talents
+- des activités liées à une discipline spécifique
+- des outils pour les aider à surmonter des difficultés 
+
+LISTE DES PROJETS LONGS (27 semaines)
+-	Faire des sciences dans le cadre d’une enquête policière.
+-	J’aime lire et je participe au « Prix Folio des lycéens ».
+-	Ecrire à la façon d’un journaliste pour « Le journal du lycée ».
+-	Science-Fiction, Fantasy, Fantastique : si j’écrivais des nouvelles de SFFF.
+-	Les maths, j’adore, je veux approfondir
+-	Création et innovation technologique : des idées plein la tête pour des projets concrets.
+-	« Et si on lisait à voix haute » un concours pour travailler mon oral.
+-	Webradio : créer des émissions de radio à diffuser sur l’ENT.
+-	Une Entreprise dans votre lycée (Inscriptions déjà clôturées)
+
+LISTE DES PROJETS COURTS (9 semaines)
+-	Soutien matière : maths (3 groupes)
+-	Soutien matière français 
+-	Prix de l’écoute (Podcast)
+-	Travailler les compétences de l’oral
+-	S’initier à la philosophie
+-	S’initier aux Sciences de l’ingénieur
+-	S’initier au mangement
+-	Maths approfondies
+
+
 ## EMI Education aux médias et à l'information
 
 ## Concours scolaires
