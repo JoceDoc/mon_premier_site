@@ -56,7 +56,7 @@ Découvrez les modalités du concours sur le [Site officiel](https://www.lumni.f
 
 <figure>
 <video width="560" height="315" controls>
-  <source src="./videos/Parcoursup.mp4" type="video/mp4">  
+  <source src="./videos/Finaliste_2022_compressée.mp4" type="video/mp4">  
 Your browser does not support the video tag.
 </video>
 </figure>
