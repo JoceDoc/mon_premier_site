@@ -25,7 +25,11 @@
 	<figcaption>
 	  
    </figure>
+   
+  
        - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
   	
+	
+	
 
 ![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}
