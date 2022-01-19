@@ -8,7 +8,7 @@ L’objectif est de les guider dans leurs choix d'orientation, en leur proposant
 - des activités liées à une discipline spécifique
 - des outils pour les aider à surmonter des difficultés 
 
-==**LISTE DES PROJETS LONGS**== (*27 semaines*)
+==**PROJETS LONGS**== (*27 semaines*)
 
 -	Faire des sciences dans le cadre d’une enquête policière
 -	J’aime lire et je participe au « Prix Folio des lycéens »
@@ -20,7 +20,7 @@ L’objectif est de les guider dans leurs choix d'orientation, en leur proposant
 -	Webradio : créer des émissions de radio à diffuser sur l’ENT
 -	Une Entreprise dans votre lycée (Inscriptions déjà clôturées)
 
-==**LISTE DES PROJETS COURTS**== (*9 semaines*)
+==**PROJETS COURTS**== (*9 semaines*)
 
 -	Soutien matière : maths (3 groupes)
 -	Soutien matière français 
