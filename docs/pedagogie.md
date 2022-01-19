@@ -1,5 +1,5 @@
 
-## AP 2nde
+???+ info "AP 2nde générale"
 
 Les élèves de seconde générale participent dans le cadre de l'accompagnement personnalisé à un projet long et à trois projets courts pendant l'année scolaire.
 L’objectif est de les guider dans leurs choix d'orientation, en leur proposant dans un contexte d’enseignement différent des cours classiques :
@@ -32,9 +32,9 @@ LISTE DES PROJETS COURTS (9 semaines)
 -	Maths approfondies
 
 
-## EMI Education aux médias et à l'information
+???+ info "EMI"
 
-## Concours scolaires
+
 ???+ info "Concours de critique"
 
 En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au concours de critique littéraire organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/).
@@ -70,8 +70,8 @@ Une manière décontractée de se préparer aux épreuves anticipées de França
 [Prix folio](https://www.prixdeslyceensfolio.fr/)
 
 
-## Méthodologie
-???+ info "Fiches outils, tutoriels et conseils..."
+
+???+ info "Un peu de méthodologie : Fiches outils, tutoriels et conseils..."
     - Elaborer une problématique
     - [Prendre des notes](.pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     - Valider les sources d'internet
@@ -79,4 +79,5 @@ Une manière décontractée de se préparer aux épreuves anticipées de França
     - [Réaliser un diaporama](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
     - [Citer ses sources](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
     
-## ORAL
+???+ info "Se préparer pour l'oral"
+
