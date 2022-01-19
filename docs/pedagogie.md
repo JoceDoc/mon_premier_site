@@ -30,10 +30,10 @@ L’objectif est de les guider dans leurs choix d'orientation, en leur proposant
 -	S’initier aux Sciences de l’ingénieur
 -	S’initier au mangement
 -	Maths approfondies
-
+___
 
 ???+ info "EMI"
-
+___
 
 ???+ info "Concours de critique"
 
@@ -41,7 +41,7 @@ En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au concours d
 
 L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le Prix Goncourt des Lycéens.
 En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers leur autonomie. Au delà du « j’aime » / « j’aime pas », les élèves apprennent à formuler une appréciation personnelle sur l’œuvre qu’ils ont choisie et à justifier leur avis. En s’exerçant à ce genre particulier, ils développent de véritables compétences d’argumentation.
-
+___
 
 ???+ info "Si on lisait à voix haute"
 
@@ -53,13 +53,12 @@ Ensembles, ils ont choisi de relever le défi proposé par le concours et se son
 
 Découvrez les modalités du concours sur le [Site officiel](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute), et le [Padlet du groupe d'AP](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie).
 
-
 <figure>
 <video width="560" height="315" controls>
   <source src="./videos/Finaliste_2022_compressée.mp4" type="video/mp4">  
-Your browser does not support the video tag.
 </video>
 </figure>
+___
 
 ???+ info "Prix folio des lycéens"
 
@@ -68,7 +67,7 @@ Petit parcours vers la littérature contemporaine : à travers des activités va
 Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
 
 [Prix folio](https://www.prixdeslyceensfolio.fr/)
-
+___
 
 
 ???+ info "Un peu de méthodologie : Fiches outils, tutoriels et conseils..."
