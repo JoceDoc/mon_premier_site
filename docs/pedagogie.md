@@ -37,7 +37,7 @@ ___
 
 ???+ info "Concours de critique"
 
-En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au **concours de critique littéraire** organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association [Bruit de lire](https://www.bruitdelire.org/concours-de-critique-litteraire/).
+En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au **concours de critique littéraire** organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association [**Bruit de lire**](https://www.bruitdelire.org/concours-de-critique-litteraire/).
 
 L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le **Prix Goncourt des Lycéens**.
 En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers leur autonomie. Au-delà du « j’aime » / « je n’aime pas », les élèves apprennent à formuler une appréciation personnelle sur l’œuvre qu’ils ont choisie et à justifier leur avis. En s’exerçant à ce genre particulier, ils développent de véritables compétences d’argumentation.
@@ -51,7 +51,7 @@ Leurs motivations et leurs attentes au moment de choisir cet atelier étaient di
 
 Ensembles, ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
 
-Découvrez cet atelier pédagogique sur le [Padlet du groupe d'AP](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie).
+Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie).
 
 <figure>
 <video width="560" height="315" controls>
@@ -62,11 +62,11 @@ ___
 
 ???+ info "Prix folio des lycéens"
 
-Petit parcours vers la littérature contemporaine : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré. 
+Petit parcours vers la **littérature contemporaine** : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré. 
 
 Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
 
-[Prix folio](https://www.prixdeslyceensfolio.fr/)
+[**Prix folio**](https://www.prixdeslyceensfolio.fr/)
 ___
 
 
