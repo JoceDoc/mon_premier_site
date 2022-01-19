@@ -22,6 +22,7 @@
     - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
     
     
+    
     <figure> 
 	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xg6QcfmgYXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>
