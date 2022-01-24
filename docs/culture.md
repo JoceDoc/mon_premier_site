@@ -1,7 +1,7 @@
 
 [Culture&Loisirs à Morlaix](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs)
 
-???+ info Quelques partenaires culturels
+???+ info "Quelques partenaires culturels"
 * [Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/)
 * [Sew](https://www.sew-morlaix.com/)
 * [La Virgule](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule)
