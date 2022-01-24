@@ -1,5 +1,5 @@
 
-???+info "AP 2nde générale"
+!!!+ info "AP 2nde générale"
 Dans le cadre de l'accompagnement personnalisé de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**.
 L’objectif est de les guider dans leurs choix d'orientation, en leur proposant :
 
@@ -31,10 +31,10 @@ L’objectif est de les guider dans leurs choix d'orientation, en leur proposant
 -	Maths approfondies
 ___
 
-???+ info "EMI"
+!!!+ info "EMI"
 ___
 
-???+ info "Concours de critique"
+!!!+ info "Concours de critique"
 
 En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/) organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association **"Bruit de lire"**.
 
@@ -42,7 +42,7 @@ L’objectif pour les élèves est de rédiger une critique sur l’un des roman
 En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers leur autonomie. Au-delà du « j’aime » / « je n’aime pas », les élèves apprennent à formuler une appréciation personnelle sur l’œuvre qu’ils ont choisie et à justifier leur avis. En s’exerçant à ce genre particulier, ils développent de véritables compétences d’argumentation.
 ___
 
-???+ info "Si on lisait à voix haute"
+!!!+ info "Si on lisait à voix haute"
 
 Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours **["Si on lisait à voix haute"](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute)** organisé par François Busnel et la Grande Librairie.
 
@@ -59,7 +59,7 @@ Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://p
 </figure>
 ___
 
-???+ info "Prix folio des lycéens"
+!!!+ info "Prix folio des lycéens"
 
 Petit parcours vers la **littérature contemporaine** : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré. 
 
@@ -69,7 +69,7 @@ Une manière décontractée de se préparer aux épreuves anticipées de França
 ___
 
 
-???+ info "Un peu de méthodologie : Fiches outils, tutoriels et conseils..."
+!!!+ info "Un peu de méthodologie : Fiches outils, tutoriels et conseils..."
     - Elaborer une problématique
     - [Prendre des notes](.pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     - Valider les sources d'internet
@@ -77,5 +77,5 @@ ___
     - [Réaliser un diaporama](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
     - [Citer ses sources](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
     
-???+ info "Se préparer pour l'oral"
+!!!+ info "Se préparer pour l'oral"
 
