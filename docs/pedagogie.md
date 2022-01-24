@@ -52,8 +52,7 @@ ___
 ??? info "Prix folio des lycéens"
     Petit parcours vers la **littérature contemporaine** : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré. 
     Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
-
-[**Prix folio**](https://www.prixdeslyceensfolio.fr/)
+    [**Prix folio**](https://www.prixdeslyceensfolio.fr/)
 ___
 
 
