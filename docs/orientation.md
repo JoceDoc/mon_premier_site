@@ -1,5 +1,5 @@
 
-???+ info "Orientation et Parcours avenir"
+??? info "Orientation et Parcours avenir"
 
     Ressources pour l'orientation par niveau    
     Actualité de l'orientation    
