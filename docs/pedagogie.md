@@ -1,7 +1,7 @@
 
 ??? info "AP 2nde générale"
 
-Dans le cadre de l'accompagnement personnalisé les élèves participent à un **projet long** et trois **projets courts**.
+Dans le cadre de l'accompagnement personnalisé de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**.
 L’objectif est de les guider dans leurs choix d'orientation, en leur proposant :
 
 - des modules de découverte variés où ils pourront exprimer leurs talents
