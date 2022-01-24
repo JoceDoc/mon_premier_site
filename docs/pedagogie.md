@@ -17,8 +17,8 @@ L’objectif est de les guider dans leurs choix d'orientation, en leur proposant
 -	Les maths, j’adore, je veux approfondir
 -	Création et innovation technologique : des idées plein la tête pour des projets concrets
 -	« Et si on lisait à voix haute » un concours pour travailler mon oral
--	Webradio : créer des émissions de radio à diffuser sur l’ENT
--	Une Entreprise dans votre lycée (Inscriptions déjà clôturées)
+-	Webradio-capsules vidéos : créer des mini-reportages à diffuser sur l’ENT
+-	Une Entreprise dans votre lycée
 
 ==**PROJETS COURTS**== (*9 semaines*)
 
