@@ -8,6 +8,7 @@
     
     * **"Frida KAHLO"**  
         Exposition réalisée par les élèves du cours d'Espagnol
+	
 	![Frida Kahlo](./images/expo_FridaKahlo.jpg "info-bulle"){width=20%}
 
 Pour aller plus loin :
