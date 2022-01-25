@@ -4,7 +4,7 @@
 
 
 
-???+ info "Expositions"
+???+ info "Expositions en cours"
     
     * **"Frida KAHLO"**  
         Exposition réalisée par les élèves du cours d'Espagnol
