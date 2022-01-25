@@ -1,13 +1,13 @@
 ??? info "Points de règlement"
 
-Le règlement du lycée s'applique dans son intégralité au CDI.
-    Quelques points spécifiques s'ajoutent pour ce lieu particulier.
+    Le règlement du lycée s'applique dans son intégralité au CDI. Quelques points spécifiques s'ajoutent pour ce lieu particulier.
+
+    Les séances pédagogiques sont prioritaires pour l'occupation de la salle.
+    Pendant les séances pédagogiques l'accès aux individuels reste possible en fonction de la place disponible.
+    
     Lorsque vous venez au CDI pendant un temps de permanence, sur la pause méridienne ou après les cours, vous devez passer votre carte en vie scolaire, puis vous inscrire sur le registre des autonomes à votre arrivée. L'utilisation des postes informatiques doit être justifiée par un projet de recherche lié à une discipline ou à l'orientation.
-    Le CDI est une salle de travail et de lecture commune à tous : élèves, enseignants, personnels.
-Pour le respect du travail de chacun, il est impératif de parler à voix basse et d'éviter les allées et venues.
-Les séances pédagogiques sont prioritaires pour l'occupation de la salle.
-Pendant les séances pédagogiques l'accès aux individuels reste possible en fonction de la place disponible.
-    Chacun est invité à respecter le calme exigé afin de permettre une concentration optimale et un travail de qualité.
+    
+    Le CDI est une salle de travail et de lecture commune à tous : élèves, enseignants, personnels. Pour le respect du travail de chacun, il est impératif de parler à voix basse et d'éviter les allées et venues. Chacun est invité à respecter le calme exigé afin de permettre une concentration optimale et un travail de qualité.
 
 
 ??? info "Prêt des documents"
