@@ -4,7 +4,7 @@ Le règlement du lycée s'applique dans son intégralité au CDI. Quelques **==p
 Les **==séances pédagogiques==** sont **==prioritaires==** pour l'occupation de la salle.
 Pendant les séances pédagogiques l'**==accès aux individuels==** reste possible en fonction de la place disponible.
     
-Lorsque vous venez au CDI pendant un temps de permanence, sur la pause méridienne ou après les cours, vous devez **===passer votre carte en vie scolaire==**, puis vous inscrire sur le **==registre des autonomes==** à votre arrivée. L'utilisation des postes informatiques doit être justifiée par un projet de recherche lié à une discipline ou à l'orientation.
+Lorsque vous venez au CDI pendant un temps de permanence, sur la pause méridienne ou après les cours, vous devez **==passer votre carte en vie scolaire==**, puis vous inscrire sur le **==registre des autonomes==** à votre arrivée. L'utilisation des postes informatiques doit être justifiée par un projet de recherche lié à une discipline ou à l'orientation.
     
 Le CDI est une **==salle de travail==** et **==de lecture==** commune à tous : élèves, enseignants, personnels. Pour le respect du travail de chacun, il est impératif de parler à voix basse et d'éviter les allées et venues.
 
