@@ -10,8 +10,7 @@
         Exposition réalisée par les élèves du cours d'Espagnol
 	
 	![Frida Kahlo](./images/expo_FridaKahlo.jpg "info-bulle"){width=20%}
-
-Pour aller plus loin :
+    Pour aller plus loin :
 [Frida Kahlo - France Culture]( https://www.franceculture.fr/personne-frida-kahlo.html)
   
-    * **"Ce que j'ai dans la tête"**
+   
