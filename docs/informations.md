@@ -1,8 +1,8 @@
 ??? info "Points de règlement"
 
-    Le règlement du lycée s'applique dans son intégralité au CDI.
-Quelques points spécifiques s'ajoutent pour ce lieu particulier.
-Lorsque vous venez au CDI pendant un temps de permanence, sur la pause méridienne ou après les cours, vous devez passer votre carte en vie scolaire, puis vous inscrire sur le registre des autonomes à votre arrivée. L'utilisation des postes informatiques doit être justifiée par un projet de recherche lié à une discipline ou à l'orientation.
+Le règlement du lycée s'applique dans son intégralité au CDI.
+    Quelques points spécifiques s'ajoutent pour ce lieu particulier.
+    Lorsque vous venez au CDI pendant un temps de permanence, sur la pause méridienne ou après les cours, vous devez passer votre carte en vie scolaire, puis vous inscrire sur le registre des autonomes à votre arrivée. L'utilisation des postes informatiques doit être justifiée par un projet de recherche lié à une discipline ou à l'orientation.
     Le CDI est une salle de travail et de lecture commune à tous : élèves, enseignants, personnels.
 Pour le respect du travail de chacun, il est impératif de parler à voix basse et d'éviter les allées et venues.
 Les séances pédagogiques sont prioritaires pour l'occupation de la salle.
@@ -11,8 +11,8 @@ Pendant les séances pédagogiques l'accès aux individuels reste possible en fo
 
 
 ??? info "Prêt des documents"
-        
-    La plupart des documents (fictions, documentaires, périodiques, DVD) peuvent être empruntés, jusqu'à 3 documents à la fois.
+
+La plupart des documents (fictions, documentaires, périodiques, DVD) peuvent être empruntés, jusqu'à 3 documents à la fois.
 Par respect des autres utilisateurs, il est INDISPENSABLE d'en prendre le plus grand soin et de les rapporter dans les délais impartis.
     La durée de prêt varie en fonction du type de document.
      - Fictions : 3 semaines
