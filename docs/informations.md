@@ -1,4 +1,4 @@
-???+ info "Points de règlement"
+??? info "Points de règlement"
 
 Le règlement du lycée s'applique dans son intégralité au CDI.
 Quelques points spécifiques s'ajoutent pour ce lieu particulier.
@@ -12,7 +12,7 @@ Pendant les séances pédagogiques l'accès aux individuels reste possible en fo
 Chacun est invité à respecter le calme exigé afin de permettre une concentration optimale et un travail de qualité.
 
 
-???+ info "Prêt des documents"
+??? info "Prêt des documents"
         
 La plupart des documents (fictions, documentaires, périodiques, DVD) peuvent être empruntés, jusqu'à 3 documents à la fois.
 Par respect des autres utilisateurs, il est INDISPENSABLE d'en prendre le plus grand soin et de les rapporter dans les délais impartis.
