@@ -1,11 +1,16 @@
+??? info "La presse du mois"
+
+
+
+
+
 ???+ info "Expositions"
     
+    * **"Frida KAHLO"**  
+        Exposition réalisée par les élèves du cours d'Espagnol
+	![Frida Kahlo](./images/expo_FridaKahlo.jpg "info-bulle"){width=20%}
 
-    - **"20 ans après les attentats du 11/09/2001"**  
-        Exposition sur les attentats du 11 septembre 2001, réalisée par les élèves de 2nde et 1ère AEPA.  
-	![Exposition 11 septembre 2001](./images/CDI_expo_20ans après_01.jpg "info-bulle"){width=20%}
-	![Exposition 11 septembre 2001](./images/CDI_expo_20ans après_02.jpg "info-bulle"){width=20%}
-	![Exposition 11 septembre 2001](./images/CDI_expo_20ans après_03.jpg "info-bulle"){width=20%}
-
+Pour aller plus loin :
+[Frida Kahlo - France Culture]( https://www.franceculture.fr/personne-frida-kahlo.html)
   
-    - **"Ce que j'ai dans la tête"**
+    * **"Ce que j'ai dans la tête"**
