@@ -43,7 +43,7 @@ ___
     
     Ensembles, ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
 
-Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie).
+    Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie).
 
 <figure>
 <video width="560" height="315" controls>
