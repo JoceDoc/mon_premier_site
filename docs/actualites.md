@@ -8,6 +8,7 @@
    
 
 ??? info "Nouveautés abonnements"
+   
     ![Alternatives Economiques](./images/abonnements/Alternatives Economiques_février 2022_420.jpg "info-bulle"){width=20%}
     ![I love English world](./images/abonnements/IloveEnglishWorld_février-2022.jpg "info-bulle"){width=20%}
     ![Journal de l'animation](./images/abonnements/Journal animation_février 2022_226.jpg "info-bulle"){width=20%}
