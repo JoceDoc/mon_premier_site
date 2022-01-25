@@ -68,4 +68,4 @@ ___
     - [Citer ses sources](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
     
 ??? info "Se préparer pour l'oral"
-[**Padlet de ressources pour le Grand Oral**](https://padlet.com/cdinddmporsmeur/grandoral2021)
+    [**Padlet de ressources pour le Grand Oral**](https://padlet.com/cdinddmporsmeur/grandoral2021)
