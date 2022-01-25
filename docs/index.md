@@ -40,7 +40,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
     
     | Vendredi | 8h30 - 16h30 |
   
-L’accès aux ressources des CDI (ouvrages, articles de périodiques, sites internet et informations diverses) est également facilité grâce aux portails d’information accessibles en ligne.
+L’accès aux ressources des CDI (ouvrages, articles de périodiques, sites internet et informations diverses) est facilité grâce aux portails d’information accessibles en ligne.
 
    * [**Portail - Base documentaire PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
 
