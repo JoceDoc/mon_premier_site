@@ -19,6 +19,8 @@
     ![Science et Vie Junior](./images/abonnements/SVJ_février_2022.jpg "info-bulle"){width=20%}
     ![Vocable Allemand](./images/abonnements/VocableAllemand20012022.jpg "info-bulle"){width=20%}
     ![Vocable Espagnol](./images/abonnements/VocableEspagnol_20012022.jpg "info-bulle"){width=20%}
+    ![Ca m'intéresse](./images/abonnements/Ca m intéresse_février 2022_492.jpg "info-bulle"){width=20%}
+    
     
 
     
