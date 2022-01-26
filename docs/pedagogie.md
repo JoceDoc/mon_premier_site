@@ -65,7 +65,7 @@ ___
 Méthodologie
 ============
 
-??? info "Un peu de méthodologie : Fiches outils, tutoriels et conseils..."
+??? info "Fiches outils, tutoriels et conseils..."
     - Elaborer une problématique
     - [Prendre des notes](.pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     - Valider les sources d'internet
