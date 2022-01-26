@@ -1,4 +1,5 @@
-
+Seconde générale
+================
 
 ??? info "AP 2nde générale"
     Dans le cadre de l'accompagnement personnalisé de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**. L’objectif est de les guider dans leurs choix d'orientation, en leur proposant :
@@ -31,6 +32,9 @@ ___
 
 ??? info "EMI"
 ___
+Concours scolaires
+==================
+
 ??? info "Concours de critique"
     En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/) organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association **"Bruit de lire"**. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le **Prix Goncourt des Lycéens**.
     
@@ -58,7 +62,8 @@ ___
     Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
     [**Prix folio**](https://www.prixdeslyceensfolio.fr/)
 ___
-
+Méthodologie
+============
 
 ??? info "Un peu de méthodologie : Fiches outils, tutoriels et conseils..."
     - Elaborer une problématique
