@@ -1,4 +1,4 @@
-Seconde générale
+# Seconde générale
 ================
 
 ??? info "AP 2nde générale"
@@ -32,7 +32,7 @@ ___
 
 ??? info "EMI"
 ___
-Concours scolaires
+# Concours scolaires
 ==================
 
 ??? info "Concours de critique"
@@ -62,7 +62,7 @@ ___
     Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
     [**Prix folio**](https://www.prixdeslyceensfolio.fr/)
 ___
-Méthodologie
+# Méthodologie
 ============
 
 ??? info "Fiches outils, tutoriels et conseils..."
