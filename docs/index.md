@@ -41,6 +41,7 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
     | Vendredi | 8h30 - 16h30 |
   
 Dans ce site vous trouverez :
+
 - des ressources pour les disciplines que vous apprenez au lycée, pour l'orientation et le parcours avenir
 - des conseils méthodologiques et des tutoriels divers pour vous aider dans votre travail.
     
