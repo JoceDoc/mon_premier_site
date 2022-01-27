@@ -1,8 +1,9 @@
 
 ??? info "Orientation et Parcours avenir"
 
-    L'actualité de l'orientation, les sites incontournables, des ressources par niveau, les salons et forums, la vie étudiante   
-        
+    L'actualité de l'orientation, les sites incontournables, des ressources par niveau, les salons et forums, la vie étudiante...
+    
+        ![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}
     
    
 === "Parcours AVENIR"
@@ -48,4 +49,4 @@
 	
 	
 
-![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}
+
