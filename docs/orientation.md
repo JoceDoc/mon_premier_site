@@ -1,11 +1,11 @@
 
-??? info "Orientation et Parcours avenir"
-
+ 
+   
+  ![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}
+  
+??? info "Orientation et Parcours avenir"  
     L'actualité de l'orientation, les sites incontournables, des ressources par niveau, les salons et forums, la vie étudiante...
     
-        ![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}
-    
-   
 === "Parcours AVENIR"
     - [Réussir au lycée et après](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326)
     - [Ressources communes pour les lycéens](https://padlet.com/cdinddmporsmeur/ORI_2020)
