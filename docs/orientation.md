@@ -18,7 +18,7 @@
 === "PREMIERE"
     [Vers le padlet première](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
 === "TERMINALE"
-    - [Calendrier PARCOURSUP](https://www.parcoursup.fr/index.php?desc=calendrier) 
+    - [Calendrier PARCOURSUP](https://www.parcoursup.fr/index.php?desc=calendrier) - [Vidéo officielle de présentation PARCOURSUP](https://youtu.be/WJzf3wRqcWo)
     - [Vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
     - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
     - [Que faire après un BAC STMG ?](https://padlet.com/cdinddmporsmeur/post_bac_STMG)
