@@ -1,16 +1,13 @@
 
 ??? info "Orientation et Parcours avenir"
 
-    Ressources pour l'orientation par niveau    
-    Actualité de l'orientation    
-    Sites incontournables  
-    Salons et forums  
-    Vie étudiante
+    L'actualité de l'orientation, les sites incontournables, des ressources par niveau, les salons et forums, la vie étudiante   
+        
     
    
 === "Parcours AVENIR"
-    - [Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
     - [Réussir au lycée et après](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326)
+    - [Ressources communes pour les lycéens](https://padlet.com/cdinddmporsmeur/ORI_2020)
     
     - [GUIDE_ENTRER_DANS_LE_SUP_2022](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
 === "SECONDE"
@@ -33,8 +30,12 @@
 	  
    </figure>
    
-  
-  	
+=== "Salons - Forums"
+    - [Azimut](https://www.salon-azimut.com/)
+    - [Salons - Forums de l'orientation](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement)
+
+=== "Vie étudiante"
+    - [
 	
 	
 
