@@ -12,14 +12,14 @@
     
     - [GUIDE Entrer dans le SUP 2022](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
 === "SECONDE"
-    [Vers le padlet seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
+    [Vers le PADLET seconde](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020)
 === "PREMIERE"
-    [Vers le padlet première](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
+    [Vers le PADLET première](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020)
 === "TERMINALE"
     - [PARCOURSUP - Site officiel](https://www.parcoursup.fr/index.php?desc=) 
     - [Vidéo PARCOURSUP - Comment choisir une formation ?](https://youtu.be/WJzf3wRqcWo)
     - [Ensemble des ressources de la DGESIP](https://services.dgesip.fr/T454/S743/ressources)
-    - [Vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
+    - [Vers le PADLET terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
     - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
     - [Que faire après un BAC STMG ?](https://padlet.com/cdinddmporsmeur/post_bac_STMG)
 === "VOIE PRO"
