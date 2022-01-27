@@ -26,5 +26,5 @@
 
 ??? info "Culture et enseignement, les sites incontournables"
     * [Théâtre - Eduscol](https://eduscol.education.fr/2333/theatre)
-    * [Des projets à mener](https://eduscol.education.fr/100/je-mene-un-projet-avec-mes-eleves)
-    * 
+    * [Actions éducatives](https://eduscol.education.fr/100/je-mene-un-projet-avec-mes-eleves)
+    
