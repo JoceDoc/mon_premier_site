@@ -21,7 +21,7 @@
     - [Calendrier PARCOURSUP](https://www.parcoursup.fr/index.php?desc=calendrier) 
     - [Vers le padlet terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020)
     - [Site pour les terminales](https://ericecmorlaix.github.io/TG_VDC_AP/)
-    - [Que faire après un BAC STMG](https://padlet.com/cdinddmporsmeur/post_bac_STMG)
+    - [Que faire après un BAC STMG ?](https://padlet.com/cdinddmporsmeur/post_bac_STMG)
     
     
     
