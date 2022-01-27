@@ -29,13 +29,24 @@
 	<figcaption>
 	  
    </figure>
-   
+
+=== "Voie professionnelle"
+    - [Vers le PADLET voie pro](https://padlet.com/cdinddmporsmeur/LP_2020)
+    - [PARCOURSUP - Site officiel](https://www.parcoursup.fr/index.php?desc=)
+    - [Vidéo PARCOURSUP - Comment choisir une formation ?](https://youtu.be/WJzf3wRqcWo)
+
 === "Salons - Forums"
     - [Azimut](https://www.salon-azimut.com/)
     - [Salons - Forums de l'orientation](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement)
 
 === "Vie étudiante"
-    - [
+    - [FAQ vie étudiante](https://www.etudiant.gouv.fr/fr/rentree2021)
+    - [Vie étudiante : Infos, services, FAQ](https://www.etudiant.gouv.fr/fr)
+    - [Jeunes.gouv.fr](https://jeunes.gouv.fr/)
+    - [CROUS](https://trouverunlogement.lescrous.fr/)
+    - [Mes services étudiants](https://www.messervices.etudiant.gouv.fr/envole/)
+    
+    
 	
 	
 
