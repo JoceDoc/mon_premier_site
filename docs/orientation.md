@@ -10,6 +10,7 @@
    
 === "Parcours AVENIR"
     [Ressources communes](https://padlet.com/cdinddmporsmeur/ORI_2020)
+    [Réussir au lycée et après](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326)
     
     [GUIDE_ENTRER_DANS_LE_SUP_2022](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
 === "SECONDE"
