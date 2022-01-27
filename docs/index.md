@@ -47,7 +47,7 @@ Dans ce site vous trouverez :
     
 Pour voir les dernières nouveautés concernant les abonnements, rendez-vous dans l'onglet "Actualités" du site (Le kiosque, dernières nouveautés abonnements).
 
-Pour découvrir les autres nouveautés du CDI, consultez le Portail de la base documentaire PMB, ci-dessous. Le padlet propose des liens vers d'autres ressources par disciplines.
+Pour découvrir les autres nouveautés du CDI, consultez le Portail de la base documentaire PMB, ci-dessous. Le padlet propose des liens vers d'autres ressources par discipline.
 
    * [**Portail - Base documentaire PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
 
