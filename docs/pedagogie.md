@@ -71,7 +71,7 @@ ___
     - Valider les sources d'internet
     - [Faire un exposé](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
     - [Réaliser un diaporama](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
-    - [Citer_ses_sources - synthèse](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
+    - [Citer ses sources - synthèse](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
     - [Citer ses sources](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
          
     
