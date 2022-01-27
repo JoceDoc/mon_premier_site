@@ -7,7 +7,7 @@
         Pour aller plus loin : [Frida Kahlo - France Culture]( https://www.franceculture.fr/personne-frida-kahlo.html)
    
 
-??? info "Le kiosque : dernières nouveautés abonnements"
+??? info "Le kiosque : dernières nouveautés... à découvrir"
    
     ![Alternatives Economiques](./images/abonnements/Alternatives Economiques_février 2022_420.jpg "info-bulle"){width=20%}
     ![Ca m'intéresse](./images/abonnements/Ca m intéresse_février 2022_492.jpg "info-bulle"){width=20%}
