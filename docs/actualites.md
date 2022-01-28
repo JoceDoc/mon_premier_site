@@ -5,7 +5,12 @@
 	Exposition réalisée par les élèves du cours d'Espagnol
 		
         Pour aller plus loin : [Frida Kahlo - France Culture]( https://www.franceculture.fr/personne-frida-kahlo.html)
-   
+	
+   * **"Projets franco-allemand"**
+       ![expo01](.images/expo_Allemand_20220128_01.jpg "info-bulle"){width=20%}
+       ![expo01](.images/expo_Allemand_20220128_02.jpg "info-bulle"){width=20%}
+       ![expo01](.images/expo_Allemand_20220128_03.jpg "info-bulle"){width=20%}
+       ![expo01](.images/expo_Allemand_20220128_04.jpg "info-bulle"){width=20%}
 
 ???+ info "Le kiosque : dernières nouveautés... à découvrir"
    
