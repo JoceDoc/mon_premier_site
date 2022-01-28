@@ -1,21 +1,27 @@
-???+ info "Exposition en cours"
-    
-    * **"Frida KAHLO"**
-        ![Frida Kahlo](./images/expo_FridaKahlo.jpg "info-bulle"){width=20%}
+## Expositions
+
+???+ info "**Frida KAHLO**"
+     
+    ![Frida Kahlo](./images/expo_FridaKahlo.jpg "info-bulle"){width=30% align=left}
 	Exposition sur **Frida Kahlo** réalisée par les élèves du cours d'Espagnol.
 		
-        Pour aller plus loin : [Frida Kahlo - France Culture]( https://www.franceculture.fr/personne-frida-kahlo.html)
-	
-    * **"Projets franco-allemand"**
-        ![expo01](.images/expo_Allemand_20220128_01.jpg "info-bulle"){width=20%}
-        ![expo02](.images/expo_Allemand_20220128_02.jpg "info-bulle"){width=20%}
-        ![expo03](.images/expo_Allemand_20220128_03.jpg "info-bulle"){width=20%}
-        ![expo04](.images/expo_Allemand_20220128_04.jpg "info-bulle"){width=20%}
+    Pour aller plus loin : [Frida Kahlo - France Culture]( https://www.franceculture.fr/personne-frida-kahlo.html)
 
-???+ info "Le kiosque : dernières nouveautés... à découvrir"
+
+    
+???+ info "**Projets franco-allemand**"
+    
+    
+    ![expo01](./images/expo_Allemand_20220128_01.jpg "info-bulle"){width=25% align=left}
+    ![expo03](./images/expo_Allemand_20220128_02.jpg "info-bulle"){width=30% align=left}
+    ![expo04](./images/expo_Allemand_20220128_03.jpg "info-bulle"){width=30% align=left}
+
+## Le kiosque 
    
+???+ info "**Dernières nouveautés... à découvrir**"
+
     ![Alternatives Economiques](./images/abonnements/Alternatives Economiques_février 2022_420.jpg "info-bulle"){width=20%}
-    [![Ca m'intéresse](./images/abonnements/Ca m intéresse_février 2022_492.jpg "info-bulle"){width=20%}](./images/abonnements/Ca m intéresse_février 2022_492_sommaire.jpg "info-bulle"){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/Ca m intéresse_février 2022_492.jpg "Ca m'intéresse, février 2022, n°492"){width=20%}](./images/abonnements/Ca m intéresse_février 2022_492_sommaire.pdf){target=_blank}
     ![La Croix Campus](./images/abonnements/La Croix Campus_février 2022_242.jpg "info-bulle"){width=20%}
     ![I love English world](./images/abonnements/IloveEnglishWorld_février-2022.jpg "info-bulle"){width=20%}
     ![Journal de l'animation](./images/abonnements/Journal animation_février 2022_226.jpg "info-bulle"){width=20%}
