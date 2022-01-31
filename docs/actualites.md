@@ -20,7 +20,7 @@
    
 ???+ info "**Dernières nouveautés... à découvrir**"
 
-    ![Alternatives Economiques](./images/abonnements/Alternatives Economiques_février 2022_420.jpg "info-bulle"){width=20%}
+    [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_février 2022_420.jpg "info-bulle"){width=20%}](./images/abonnements/Alternatives Economiques_février 2022_420_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m intéresse_février 2022_492.jpg "Ca m'intéresse, février 2022, n°492"){width=20%}](./images/abonnements/Ca m intéresse_février 2022_492_sommaire.pdf){target=_blank}
     ![La Croix Campus](./images/abonnements/La Croix Campus_février 2022_242.jpg "info-bulle"){width=20%}
     ![I love English world](./images/abonnements/IloveEnglishWorld_février-2022.jpg "info-bulle"){width=20%}
