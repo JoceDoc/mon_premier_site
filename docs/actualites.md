@@ -31,7 +31,7 @@
     [![Science et Vie](./images/abonnements/SV_février_2022.jpg "Science et Vie, février 2022,n°1253"){width=20%}](./images/abonnements/SV_février_2022_sommaire.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/SVJ_février_2022.jpg "Science et Vie Junior, février 2022,n°389"){width=20%}](./images/abonnements/SVJ_février_2022_sommaire.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/Sciences et avenir_février_2022_900.jpg "Sciences et avenir, février 2022, n°900"){width=20%}](./images/abonnements/Sciences et avenir_février_2022_900_sommaire.pdf){target=_blank}
-    ![Sciences Ouest](./images/abonnements/Sciences Ouest_janvier 2022_395.jpg "info-bulle"){width=20%}
+    [![Sciences Ouest](./images/abonnements/Sciences Ouest_janvier 2022_395.jpg "Sciences Ouest, janvier 2022,n°395"){width=20%}](./images/abonnements/Sciences Ouest_janvier 2022_395_sommaire.pdf){target=_blank}
     ![Vocable Allemand](./images/abonnements/VocableAllemand20012022.jpg "info-bulle"){width=20%}
     ![Vocable Espagnol](./images/abonnements/VocableEspagnol_20012022.jpg "info-bulle"){width=20%}
     
