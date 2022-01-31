@@ -30,7 +30,7 @@
     ![Que choisir](./images/abonnements/Que choisir_février 2022_610.jpg "info-bulle"){width=20%}
     ![Science & Vie](./images/abonnements/SV_février_2022.jpg "info-bulle"){width=20%}
     ![Science et Vie Junior](./images/abonnements/SVJ_février_2022.jpg "info-bulle"){width=20%}
-    ![Sciences et avenir](./images/abonnements/S&A_février_2022.jpg "info-bulle"){width=20%}
+    [![Sciences et avenir](./images/abonnements/S&A_février_2022_900.jpg "Sciences et avenir, février 2022, n°900"){width=20%}](./images/abonnements/S&A_février_2022_900.pdf){target=_blank}
     ![Sciences Ouest](./images/abonnements/Sciences Ouest_janvier 2022_395.jpg "info-bulle"){width=20%}
     ![Vocable Allemand](./images/abonnements/VocableAllemand20012022.jpg "info-bulle"){width=20%}
     ![Vocable Espagnol](./images/abonnements/VocableEspagnol_20012022.jpg "info-bulle"){width=20%}
