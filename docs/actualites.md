@@ -28,8 +28,8 @@
     [![Phosphore](./images/abonnements/Phosphore_1erfévrier_2022_525.jpg "info-bulle"){width=20%}](./images/abonnements/Phosphore_1erfévrier_2022_525_sommaire.pdf){target=_blank}
     [![Pour l'Eco](./images/abonnements/Pour l'Eco_février 2022_38.jpg "Pour l'Eco, février 2022, n°38"){width=20%}](./images/abonnements/Pour l'Eco_février 2022_38_sommaire.pdf){target=_blank}
     [![Que choisir](./images/abonnements/Que choisir_février 2022_610.jpg "Que choisir, février 2022,n°610"){width=20%}](./images/abonnements/Que choisir_février 2022_610_sommaire.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/SV_février_2022.jpg "Science et Vie, février 2022,n°610"){width=20%}](./images/abonnements/SV_février_2022_sommaire.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/SVJ_février_2022.jpg "info-bulle"){width=20%}](./images/abonnements/SVJ_février_2022_sommaire.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/SV_février_2022.jpg "Science et Vie, février 2022,n°1253"){width=20%}](./images/abonnements/SV_février_2022_sommaire.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/SVJ_février_2022.jpg "Science et Vie Junior, février 2022,n°389"){width=20%}](./images/abonnements/SVJ_février_2022_sommaire.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/Sciences et avenir_février_2022_900.jpg "Sciences et avenir, février 2022, n°900"){width=20%}](./images/abonnements/Sciences et avenir_février_2022_900_sommaire.pdf){target=_blank}
     ![Sciences Ouest](./images/abonnements/Sciences Ouest_janvier 2022_395.jpg "info-bulle"){width=20%}
     ![Vocable Allemand](./images/abonnements/VocableAllemand20012022.jpg "info-bulle"){width=20%}
