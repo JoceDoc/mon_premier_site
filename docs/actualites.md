@@ -16,9 +16,9 @@
     ![expo03](./images/expo_Allemand_20220128_02.jpg "info-bulle"){width=30% align=left}
     ![expo04](./images/expo_Allemand_20220128_03.jpg "info-bulle"){width=30% align=left}
 
-## Le kiosque 
+## Nouveautés 
    
-???+ info "**Dernières nouveautés... à découvrir**"
+???+ info "**Le kiosque du mois**"
 
     [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_février 2022_420.jpg "Alternatives Economiques, février 2022, n°420"){width=20%}](./images/abonnements/Alternatives Economiques_février 2022_420_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m intéresse_février 2022_492.jpg "Ca m'intéresse, février 2022, n°492"){width=20%}](./images/abonnements/Ca m intéresse_février 2022_492_sommaire.pdf){target=_blank}
@@ -36,9 +36,9 @@
     [![Vocable Espagnol](./images/abonnements/VocableEspagnol20220120_849.jpg "Vocable Espagnol, 20 janvier 2022, n°849"){width=20%}](./images/abonnements/VocableEspagnol20220120_849_sommaire.pdf){target=_blank}
     
     
+ ??? info "**Archives**"   
     
-    
-    
+ ## **Coups de coeur**   
 
     
 	
