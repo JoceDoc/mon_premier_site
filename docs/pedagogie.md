@@ -4,9 +4,9 @@
 ??? info "AP 2nde générale"
     Dans le cadre de l'accompagnement personnalisé de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**. L’objectif est de les guider dans leurs choix d'orientation, en leur proposant :
 
-    - des modules de découverte variés où ils pourront exprimer leurs talents
-    - des activités liées à une discipline spécifique
-    - des outils pour les aider à surmonter des difficultés
+    * des modules de découverte variés où ils pourront exprimer leurs talents
+    * des activités liées à une discipline spécifique
+    * des outils pour les aider à surmonter des difficultés
     
         ==**PROJETS LONGS**== (*27 semaines*)
     -	Faire des sciences dans le cadre d’une enquête policière
@@ -63,9 +63,12 @@ ___
     [**Prix folio**](https://www.prixdeslyceensfolio.fr/)
 ___
 ## Méthodologie
+??? info "S'organiser dans son travail"
+
 
 ??? "Recherche d'informations"
-    - Utiliserle logicielElaborer une problématique
+    - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php)
+    - [Elaborer une problématique](
     - [Valider les sources d'internet](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
     - [Prendre des notes](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     
@@ -80,6 +83,12 @@ ___
     
 ??? "Tutoriels d'application en ligne..."
     - [Tutoriel pour une présentation avec PREZI](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/)
+
+## Réviser pour le BAC
+
+??? info "S'organiser"
+
+??? info "Sites pour réviser"
 
 
   
