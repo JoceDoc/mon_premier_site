@@ -22,24 +22,20 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
 ## Plus loin...
 
 ??? info "Finistère"
-
-    * [FHEL - Landerneau](https://www.fonds-culturel-leclerc.fr/)
-    * [Ateliers des Capucins](https://www.ateliersdescapucins.fr/fr)
-    * [Le Quartz](https://www.lequartz.com/)
+   * [FHEL - Landerneau](https://www.fonds-culturel-leclerc.fr/){target=_blank}
+   * [Ateliers des Capucins](https://www.ateliersdescapucins.fr/fr){target=_blank}
+   * [Le Quartz](https://www.lequartz.com/){target=_blank}
     
 ??? info "Bretagne"
-
-    * [Espace des sciences](https://www.espace-sciences.org/)
-    * [Annuaire des salles culturelles](https://www.spectable.com/bretagne/annuaire-culture/salles-spectacles/n_187-l_31.php)
+    * [Espace des sciences](https://www.espace-sciences.org/){target=_blank}
+    * [Annuaire des salles culturelles](https://www.spectable.com/bretagne/annuaire-culture/salles-spectacles/n_187-l_31.php){target=_blank}
 
 ??? note "A vos agendas"
-    
-    * [Agenda des manifestations culturelles](https://www.docpourdocs.fr/spip.php?article520)
+    * [Agenda des manifestations culturelles](https://www.docpourdocs.fr/spip.php?article520){target=_blank}
 
 ## Culture et enseignement
 
 ??? info "Sites incontournables"
-    
-    * [Eduscol](https://eduscol.education.fr/2347/disciplines)
-    * [Actions éducatives](https://eduscol.education.fr/100/je-mene-un-projet-avec-mes-eleves)
+    * [Eduscol](https://eduscol.education.fr/2347/disciplines){target=_blank}
+    * [Actions éducatives](https://eduscol.education.fr/100/je-mene-un-projet-avec-mes-eleves){target=_blank}
     
