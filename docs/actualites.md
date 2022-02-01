@@ -26,7 +26,7 @@
     [![I love English world](./images/abonnements/IloveEnglishWorld_février-2022.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_février-2022_sommaire.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/Journal animation_février 2022_226.jpg "Journal de l'animation"){width=20%}](./images/abonnements/Journal animation_février 2022_226_sommaire.pdf){target=_blank}
     [![Phosphore](./images/abonnements/Phosphore_1erfévrier_2022_525.jpg "Phosphore, 1er février 2022, 525"){width=20%}](./images/abonnements/Phosphore_1erfévrier_2022_525_sommaire.pdf){target=_blank}
-    [![Pour l'Eco](./images/abonnements/Pour l'Eco_février 2022_38.jpg "Pour l'Eco, février 2022, n°38"){width=20%}](./images/abonnements/Pour l'Eco_février 2022_38_sommaire.pdf){target=_blank}
+    [![Pour l'Eco](./images/abonnements/Pour l Eco_février 2022_38.jpg "Pour l'Eco, février 2022, n°38"){width=20%}](./images/abonnements/Pour l Eco_février 2022_38_sommaire.pdf){target=_blank}
     [![Que choisir](./images/abonnements/Que choisir_février 2022_610.jpg "Que choisir, février 2022, n°610"){width=20%}](./images/abonnements/Que choisir_février 2022_610_sommaire.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/SV_février_2022.jpg "Science et Vie, février 2022, n°1253"){width=20%}](./images/abonnements/SV_février_2022_sommaire.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/SVJ_février_2022.jpg "Science et Vie Junior, février 2022, n°389"){width=20%}](./images/abonnements/SVJ_février_2022_sommaire.pdf){target=_blank}
