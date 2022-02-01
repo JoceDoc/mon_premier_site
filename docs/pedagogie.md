@@ -92,9 +92,7 @@ ___
 
 
   
-    
-    
-         
-    
+## Le Grand oral
+   
 ??? info "Se préparer pour l'oral"
     [**Padlet de ressources pour le Grand Oral**](https://padlet.com/cdinddmporsmeur/grandoral2021)
