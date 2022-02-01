@@ -68,13 +68,13 @@ ___
 ??? info "Fiches outils, tutoriels et conseils..."
     - Elaborer une problématique
     - [Prendre des notes](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank} 
-    - Valider les sources d'internet
-    - [Réaliser une revue de presse](./pdf/Méthodologie_)
-    - [Réaliser une affiche]((./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
+    - [Valider les sources d'internet](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
     - [Faire un exposé](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
+    - [Réaliser une revue de presse](./pdf/Méthodologie_Réaliser une revue de presse){target=_blank}
+    - [Réaliser une affiche]((./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
     - [Réaliser un diaporama](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
     - [Citer ses sources - synthèse](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
-    - [Citer ses sources](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html)
+    - [Citer ses sources](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html){target=_blank}
          
     
 ??? info "Se préparer pour l'oral"
