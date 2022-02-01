@@ -64,10 +64,10 @@ ___
 ___
 ## Méthodologie
 ??? info "S'organiser dans son travail"
-
+    - [S'organiser dans son travail](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
 
 ??? "Recherche d'informations"
-    - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php)
+    - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
     - [Elaborer une problématique](
     - [Valider les sources d'internet](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
     - [Prendre des notes](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
