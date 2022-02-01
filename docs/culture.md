@@ -1,19 +1,24 @@
 ## La culture à Morlaix
-[Culture&Loisirs à Morlaix](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs)
 
-??? info "Quelques partenaires culturels"
+La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs) propose une offre culturelle diversifiée. Sur le site, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmation des salle de spectacles, cinémas, bibliothèques...
 
-    * [Association Film&Culture - Brest](https://www.film-et-culture.fr/)
+Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturels.
+
+??? info "Accès direct aux sites"
     * [Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/)
-    * [Le Roudour](https://www.espace-roudour.com/)
-    * [Sew](https://www.sew-morlaix.com/)
+    * [Le Roudour](https://www.espace-roudour.com/)[Sew](https://www.sew-morlaix.com/)
     * [La Virgule](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule)
     * [La Salamandre](https://cinemalasalamandre.fr/)
     * [Cinéma Le Rialto](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html)
     * [Espace des sciences](https://www.espace-sciences.org/morlaix)
     * [Artothèque Les moyens du bord](https://lesmoyensdubord.wordpress.com/)
 
- ## Plus loin...
+??? info "Partenaires culturels"
+    * [Association Film&Culture - Brest](https://www.film-et-culture.fr/)
+
+    
+
+## Plus loin...
 
 ??? info "Finistère"
 
