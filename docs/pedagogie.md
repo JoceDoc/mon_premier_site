@@ -2,32 +2,30 @@
 
 
 ??? info "AP 2nde générale"
-    Dans le cadre de l'accompagnement personnalisé de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**. L’objectif est de les guider dans leurs choix d'orientation, en leur proposant :
-
-    * des modules de découverte variés où ils pourront exprimer leurs talents
-    * des activités liées à une discipline spécifique
-    * des outils pour les aider à surmonter des difficultés
+    Dans le cadre de l'**accompagnement personnalisé** de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**.
+    
+    L’objectif est de les guider dans leurs choix d'orientation, en leur proposant soit des modules de découverte variés où ils pourront exprimer leurs talents, soit des activités liées à une discipline spécifique, ou encore des outils pour les aider à surmonter des difficultés identifiées.
     
         ==**PROJETS LONGS**== (*27 semaines*)
-    -	Faire des sciences dans le cadre d’une enquête policière
-    -	J’aime lire et je participe au « Prix Folio des lycéens »
-    -	Ecrire à la façon d’un journaliste pour « Le journal du lycée »
-    -	Science-Fiction, Fantasy, Fantastique : si j’écrivais des nouvelles de SFFF
-    -	Les maths, j’adore, je veux approfondir
-    -	Création et innovation technologique : des idées plein la tête pour des projets concrets
-    -	« Et si on lisait à voix haute » un concours pour travailler mon oral
-    -	Webradio-capsules vidéos : créer des mini-reportages à diffuser sur l’ENT
-    -	Une Entreprise dans votre lycée
+    *	Faire des sciences dans le cadre d’une enquête policière
+    *	J’aime lire et je participe au « Prix Folio des lycéens »
+    *	Ecrire à la façon d’un journaliste pour « Le journal du lycée »
+    *	Science-Fiction, Fantasy, Fantastique : si j’écrivais des nouvelles de SFFF
+    *	Les maths, j’adore, je veux approfondir
+    *	Création et innovation technologique : des idées plein la tête pour des projets concrets
+    *	« Et si on lisait à voix haute » un concours pour travailler mon oral
+    *	Webradio-capsules vidéos : créer des mini-reportages à diffuser sur l’ENT
+    *	Une Entreprise dans votre lycée
     
         ==**PROJETS COURTS**== (*9 semaines*)
-    -	Soutien matière : maths (3 groupes)
-    -	Soutien matière français 
-    -	Prix de l’écoute (Podcast)
-    -	Travailler les compétences de l’oral
-    -	S’initier à la philosophie
-    -	S’initier aux Sciences de l’ingénieur
-    -	S’initier au mangement
-    -	Maths approfondies
+    *	Soutien matière : maths (3 groupes)
+    *	Soutien matière français 
+    *	Prix de l’écoute (Podcast)
+    *	Travailler les compétences de l’oral
+    *	S’initier à la philosophie
+    *	S’initier aux Sciences de l’ingénieur
+    *	S’initier au mangement
+    *	Maths approfondies
 ___
 
 ??? info "EMI"
