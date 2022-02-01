@@ -1,21 +1,21 @@
 ## La culture à Morlaix
 
-La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs) propose une offre culturelle diversifiée. Sur le site, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmation des salle de spectacles, cinémas, bibliothèques...
+La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs){target=_blank} propose une offre culturelle diversifiée. Sur le site, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmation des salle de spectacles, cinémas, bibliothèques...
 
 Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturels.
 
 ??? info "Accès direct aux sites"
-    * [Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/)
-    * [Le Roudour](https://www.espace-roudour.com/)
-    * [Sew](https://www.sew-morlaix.com/)
-    * [La Virgule](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule)
-    * [La Salamandre](https://cinemalasalamandre.fr/)
-    * [Cinéma Le Rialto](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html)
-    * [Espace des sciences](https://www.espace-sciences.org/morlaix)
-    * [Artothèque Les moyens du bord](https://lesmoyensdubord.wordpress.com/)
+    * [Théâtre du Pays de Morlaix](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank}
+    * [Le Roudour](https://www.espace-roudour.com/){target=_blank}
+    * [Sew](https://www.sew-morlaix.com/){target=_blank}
+    * [La Virgule](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule){target=_blank}
+    * [La Salamandre](https://cinemalasalamandre.fr/){target=_blank}
+    * [Cinéma Le Rialto](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html){target=_blank}
+    * [Espace des sciences](https://www.espace-sciences.org/morlaix){target=_blank}
+    * [Artothèque Les moyens du bord](https://lesmoyensdubord.wordpress.com/){target=_blank}
 
 ??? info "Partenaires culturels"
-    * [Association Film&Culture - Brest](https://www.film-et-culture.fr/)
+    * [Association Film&Culture - Brest](https://www.film-et-culture.fr/){target=_blank}
 
     
 
