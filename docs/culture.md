@@ -15,13 +15,13 @@
 
  ## Plus loin...
 
-??? "Finistère"
+??? info "Finistère"
 
     * [FHEL - Landerneau](https://www.fonds-culturel-leclerc.fr/)
     * [Ateliers des Capucins](https://www.ateliersdescapucins.fr/fr)
     * [Le Quartz](https://www.lequartz.com/)
     
-??? "Bretagne"
+??? info "Bretagne"
 
     * [Espace des sciences](https://www.espace-sciences.org/)
     * [Annuaire des salles culturelles](https://www.spectable.com/bretagne/annuaire-culture/salles-spectacles/n_187-l_31.php)
@@ -30,9 +30,9 @@
     
     * [Agenda des manifestations culturelles](https://www.docpourdocs.fr/spip.php?article520)
 
-## Culture et enseignements
+## Culture et enseignement
 
-??? "Sites incontournables"
+??? info "Sites incontournables"
     
     * [Eduscol](https://eduscol.education.fr/2347/disciplines)
     * [Actions éducatives](https://eduscol.education.fr/100/je-mene-un-projet-avec-mes-eleves)
