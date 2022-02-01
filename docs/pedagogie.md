@@ -82,7 +82,7 @@ ___
     - [Citer ses sources](https://www.reseau-canope.fr/savoirscdi/centre-de-ressources/fonds-documentaire-acquisition-traitement/le-traitement-documentaire/citer-ses-sources-et-presenter-une-bibliographie-lycee.html){target=_blank}
     
 ??? "Tutoriels d'application en ligne..."
-    - [Tutoriel pour une présentation avec PREZI](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/)
+    - [Tutoriel pour une présentation avec PREZI](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
 
 ## Réviser pour le BAC
 
