@@ -24,6 +24,7 @@
 ??? "Bretagne"
 
     * [Espace des sciences](https://www.espace-sciences.org/)
+    * [Annuaire des salles culturelles](https://www.spectable.com/bretagne/annuaire-culture/salles-spectacles/n_187-l_31.php)
 
 ??? note "A vos agendas"
     
