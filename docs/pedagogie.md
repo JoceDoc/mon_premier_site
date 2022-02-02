@@ -33,7 +33,7 @@ ___
 ## Le coin des disciplines
 ### Les langues
 ### Français
-### 
+
 
 ___
 ## Enseignements de spécialité dans notre lycée
