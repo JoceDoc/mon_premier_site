@@ -30,6 +30,27 @@ ___
 
 ??? info "EMI"
 ___
+## Le coin des disciplines
+### Les langues
+### Français
+### 
+
+___
+## Enseignements de spécialité dans notre lycée
+### Histoire géographie, géopolitique et sciences politiques - HGGSP
+### Humanités, Littérature et Philosophie - HLP
+### Langues, Littératures et cultures étrangères - LLCE
+### Mathématiques
+### Numérique et sciences informatiques - NSI
+### Sciences et Vie de la Terre - SVT
+### Sciences de l'ingénieur - SI
+### Sciences économiques et sociales - SES
+### Physique Chimie 
+
+
+
+
+___
 ## Concours scolaires
 
 
