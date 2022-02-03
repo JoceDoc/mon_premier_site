@@ -13,6 +13,7 @@
 ??? info "Plan du CDI"
     [Plan du CDI](./pdf/00_plan_CDI.pdf){target=_blank}
 
+
 ??? info "Prêt des documents"
     La plupart des documents (fictions, documentaires, périodiques, DVD) peuvent être empruntés, jusqu'à 3 documents à la fois.
     Par respect des autres utilisateurs, il est **==INDISPENSABLE==** d'en prendre le plus grand soin et de les rapporter dans les délais impartis.
