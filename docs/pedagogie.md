@@ -36,15 +36,24 @@ ___
 
 
 ___
-## Enseignements de spécialité dans notre lycée
-### Histoire géographie, géopolitique et sciences politiques - HGGSP
-### Humanités, Littérature et Philosophie - HLP
-### Langues, Littératures et cultures étrangères - LLCE
+## Enseignements de spécialité proposés au lycée
+
+### HGGSP
+Histoire géographie, géopolitique sciences politiques
+### HLP
+
+### LLCE
+
 ### Mathématiques
-### Numérique et sciences informatiques - NSI
-### Sciences et Vie de la Terre - SVT
-### Sciences de l'ingénieur - SI
-### Sciences économiques et sociales - SES
+
+### NSI
+
+### SVT
+
+### SI
+
+### SES
+
 ### Physique Chimie 
 
 
