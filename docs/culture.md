@@ -1,6 +1,6 @@
 ## La culture à Morlaix...
 
-La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs){target=_blank} propose une offre culturelle diversifiée. Sur le site, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmation des salles de spectacles, cinémas, bibliothèques...
+La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs){target=_blank} propose une offre culturelle diversifiée. Sur le site, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmations des salles de spectacles, cinémas, bibliothèques...
 
 Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturels.
 
@@ -49,21 +49,22 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
 [Panorama des arts](https://panoramadelart.com/){target=_blank}
 [Culture et patrimoine](https://www.cultureetpatrimoine.com/)
 
-### Musées célèbres
+## Musées célèbres
 
-#### En France
+### En France
 Pour rechercher un musée en France, par régions ou par départements, cet [annuaire des musées](https://www.omusee.com/){target=_blank} est bien utile.
 Tout comme le site des  plus beaux [musées de France](https://www.les-musees-de-france.fr/){target=_blank}.
 
 Autre lien intéressant les [Expositions virtuelles de le BNF](http://expositions.bnf.fr/){target=blank}
 
 ??? "Quelques musées"
-[Le Louvre](https://www.louvre.fr/visites-en-ligne){target=_blank}
-[Musée d'Orsay](https://www.musee-orsay.fr/fr){target=_blank}
+    [Le Louvre](https://www.louvre.fr/visites-en-ligne){target=_blank}
+    [Musée d'Orsay](https://www.musee-orsay.fr/fr){target=_blank}
 
 
-#### A l'étranger
+### A l'étranger
 [British Museum](https://www.britishmuseum.org/){target=_blank}
 
+## Cinéma
 
 
