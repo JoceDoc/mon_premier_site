@@ -58,13 +58,18 @@ Tout comme le site des  plus beaux [musées de France](https://www.les-musees-de
 Autre lien intéressant les [Expositions virtuelles de le BNF](http://expositions.bnf.fr/){target=blank}
 
 ??? "Quelques musées"
-    [Le Louvre](https://www.louvre.fr/visites-en-ligne){target=_blank}
-    [Musée d'Orsay](https://www.musee-orsay.fr/fr){target=_blank}
+    * [Le Louvre](https://www.louvre.fr/visites-en-ligne){target=_blank}
+    * [Musée d'Orsay](https://www.musee-orsay.fr/fr){target=_blank}
 
 
 ### A l'étranger
 [British Museum](https://www.britishmuseum.org/){target=_blank}
 
+## Théâtre
+
 ## Cinéma
+[Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/){target=_blank}
+
+
 
 
