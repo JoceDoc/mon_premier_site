@@ -45,11 +45,14 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
 
 ## Ressources
 
+[Ministère de la culture](https://www.culture.gouv.fr/){target=_blank}
 [Panorama des arts](https://panoramadelart.com/){target=_blank}
+
 
 ### Musées célèbres
 #### En France
 Pour rechercher un musée en France, par régions ou par départements cet [annuaire des musées](https://www.omusee.com/){target=_blank} est bien utile.
+De même que ce site sur [les plus beaux musées de France](https://www.les-musees-de-france.fr/){target=_blank}.
 
 [Le Louvre](https://www.louvre.fr/visites-en-ligne){target=_blank}
 [Musée d'Orsay](https://www.musee-orsay.fr/fr){target=_blank}
