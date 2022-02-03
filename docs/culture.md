@@ -52,11 +52,14 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
 ### Musées célèbres
 #### En France
 Pour rechercher un musée en France, par régions ou par départements cet [annuaire des musées](https://www.omusee.com/){target=_blank} est bien utile.
-De même que ce site sur [les plus beaux musées de France](https://www.les-musees-de-france.fr/){target=_blank}.
+Tout comme le site des [Plus beaux musées de France](https://www.les-musees-de-france.fr/){target=_blank}.
 
+Autre lien intéressant les [Expositions virtuelles de le BNF](http://expositions.bnf.fr/){target=blank}
+
+??? "Quelques musées"
 [Le Louvre](https://www.louvre.fr/visites-en-ligne){target=_blank}
 [Musée d'Orsay](https://www.musee-orsay.fr/fr){target=_blank}
-[Expositions virtuelles de le BNF](http://expositions.bnf.fr/){target=blank}
+
 
 #### A l'étranger
 [British Museum](https://www.britishmuseum.org/){target=_blank}
