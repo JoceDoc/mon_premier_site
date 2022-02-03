@@ -11,6 +11,7 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
     * [La Virgule](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule){target=_blank}
     * [La Salamandre](https://cinemalasalamandre.fr/){target=_blank}
     * [Cinéma Le Rialto](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html){target=_blank}
+    * [Musée de Morlaix](https://musee.ville.morlaix.fr/){target=_blank}
     * [Espace des sciences](https://www.espace-sciences.org/morlaix){target=_blank}
     * [Artothèque Les moyens du bord](https://lesmoyensdubord.wordpress.com/){target=_blank}
 
