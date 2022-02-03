@@ -1,4 +1,4 @@
-## La culture à Morlaix
+## La culture à Morlaix...
 
 La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs){target=_blank} propose une offre culturelle diversifiée. Sur le site, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmation des salles de spectacles, cinémas, bibliothèques...
 
@@ -19,7 +19,7 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
 
     
 
-## Plus loin...
+## Un peu plus loin...
 
 ??? info "Finistère"
    * [FHEL - Landerneau](https://www.fonds-culturel-leclerc.fr/){target=_blank}
