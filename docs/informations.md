@@ -1,4 +1,4 @@
-??? info "Points de règlement"
+??? attention+ "Points de règlement"
     Le règlement du lycée s'applique dans son intégralité au CDI. Quelques **==points spécifiques==** s'ajoutent pour ce lieu particulier.
 
     Les **==séances pédagogiques==** sont **==prioritaires==** pour l'occupation de la salle.
