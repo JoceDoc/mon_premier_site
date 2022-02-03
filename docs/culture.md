@@ -39,6 +39,24 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
 ??? info "Sites incontournables"
     * [Eduscol](https://eduscol.education.fr/2347/disciplines){target=_blank}
     * [Actions éducatives](https://eduscol.education.fr/100/je-mene-un-projet-avec-mes-eleves){target=_blank}
-    
+
+
+
+
 ## Ressources
+
 [Panorama des arts](https://panoramadelart.com/){target=_blank}
+
+### Musées célèbres
+#### En France
+Pour rechercher un musée en France, par régions ou par départements cet [annuaire des musées](https://www.omusee.com/){target=_blank} est bien utile.
+
+[Le Louvre](https://www.louvre.fr/visites-en-ligne){target=_blank}
+[Musée d'Orsay](https://www.musee-orsay.fr/fr){target=_blank}
+[Expositions virtuelles de le BNF](http://expositions.bnf.fr/){target=blank}
+
+#### A l'étranger
+[British Museum](https://www.britishmuseum.org/){target=_blank}
+
+
+
