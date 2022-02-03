@@ -10,6 +10,8 @@
 
     Chacun est invité à respecter le calme exigé afin de permettre une concentration optimale et un travail de qualité.
 
+??? info "Plan du CDI"
+    [Plan du CDI](./pdf/
 
 ??? info "Prêt des documents"
     La plupart des documents (fictions, documentaires, périodiques, DVD) peuvent être empruntés, jusqu'à 3 documents à la fois.
