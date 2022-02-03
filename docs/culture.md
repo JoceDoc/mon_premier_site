@@ -47,11 +47,11 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
 
 [Ministère de la culture](https://www.culture.gouv.fr/){target=_blank}
 [Panorama des arts](https://panoramadelart.com/){target=_blank}
-
+[Culture et patrimoine](https://www.cultureetpatrimoine.com/)
 
 ### Musées célèbres
 #### En France
-Pour rechercher un musée en France, par régions ou par départements cet [annuaire des musées](https://www.omusee.com/){target=_blank} est bien utile.
+Pour rechercher un musée en France, par régions ou par départements, cet [annuaire des musées](https://www.omusee.com/){target=_blank} est bien utile.
 Tout comme le site des [Plus beaux musées de France](https://www.les-musees-de-france.fr/){target=_blank}.
 
 Autre lien intéressant les [Expositions virtuelles de le BNF](http://expositions.bnf.fr/){target=blank}
