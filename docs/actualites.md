@@ -14,13 +14,13 @@
     ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=40% align=left}
     ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=40% align=left}
 
-    Exposition réalisée par les deux groupes de germanistes de Terminale générale et STMG sur le thème des relations franco-allemande : "ennemis bien-aimés" (Axe du programme : Identité et échanges)
+    Exposition réalisée par les deux groupes de germanistes de Terminale générale et STMG sur le thème des **relations franco-allemande** : "ennemis bien-aimés" (Axe du programme : Identité et échanges)
 
     Rappel des grandes dates de cette relation un peu tendue qui a fini, grâce à de Gaulle et Adenauer, par se normaliser. A l’occasion de ce travail les élèves ont lu un extrait du roman célèbre de Erich Maria Remarque "A l'Ouest, rien de nouveau" (1929), ainsi que le récit d'un amour franco-allemand (article extrait de "der Spiegel").
 
     Cette exposition vise à faire connaître l'amitié franco-allemande et les projets et institutions qui en découlent.
     
-    Visible au CDI jusqu'à fin mars.
+    ==**Visible au CDI jusqu'à fin mars**==
 
 
 ## Nouveautés 
