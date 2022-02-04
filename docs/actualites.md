@@ -20,7 +20,7 @@
 
     Cette exposition vise à faire connaître l'amitié franco-allemande et les projets et institutions qui en découlent.
     
-    Visible jusqu'au CDI au mois de mars.
+    Visible au CDI jusqu'à fin mars.
 
 
 ## Nouveautés 
