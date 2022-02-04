@@ -5,8 +5,7 @@
     Dans le cadre de l'**accompagnement personnalisé** de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**.
     
     L’objectif est de les guider dans leurs choix d'orientation, en leur proposant soit des modules de découverte variés où ils pourront exprimer leurs talents, soit des activités liées à une discipline spécifique, ou encore des outils pour les aider à surmonter des difficultés identifiées.
-    
-    ==**PROJETS LONGS**== (*27 semaines*)
+        ==**PROJETS LONGS**== (*27 semaines*)
     *	Faire des sciences dans le cadre d’une enquête policière
     *	J’aime lire et je participe au « Prix Folio des lycéens »
     *	Ecrire à la façon d’un journaliste pour « Le journal du lycée »
