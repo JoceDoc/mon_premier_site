@@ -46,7 +46,7 @@
     [![Sciences Ouest](./images/abonnements/Sciences Ouest_février 2022_396.jpg "Sciences Ouest, janvier 2022, n°396"){width=20%}](./images/abonnements/Sciences Ouest_février 2022_396_sommaire.pdf){target=_blank}
     [![Virgule](./images/abonnements/Virgule_février 2022_203.jpg "Virgule, février 2022, n°203"){width=20%}](./images/abonnements/Virgule_février 2022_203_sommaire.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/Vocable_Allemand_20220203_857.jpg "Vocable Allemand, 03 février 2022, n°857"){width=20%}](./images/abonnements/Vocable_Allemand_20220203_857_sommaire.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol20220203_850.jpg "Vocable Espagnol, 03 février 2022, n°850"){width=20%}](./images/abonnements/Vocable_Espagnol_20220203_850_sommaire.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220203_850.jpg "Vocable Espagnol, 03 février 2022, n°850"){width=20%}](./images/abonnements/Vocable_Espagnol_20220203_850_sommaire.pdf){target=_blank}
     
  
 ???+ info "**Le kiosque du mois dernier**"
