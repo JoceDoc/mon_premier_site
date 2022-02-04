@@ -11,8 +11,8 @@
     
 ???+ info "**Projets franco-allemand**"
     
-    ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=25% align=left}
-    ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=30% align=left}
+    ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=40% align=left}
+    ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=40% align=left}
 
     Exposition réalisée par les deux groupes de germanistes de Terminale générale et STMG sur le thème des relations franco-allemande : "ennemis bien-aimés" (Axe du programme : Identité et échanges)
 
