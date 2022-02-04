@@ -18,7 +18,9 @@
     
     L'Exposition sur le thème des **relations franco-allemande**, "ennemis bien-aimés" (en lien avec l'Axe du programme : Identité et échanges) réalisée par les deux groupes de germanistes de Terminale générale et STMG.
 
-    Rappel des grandes dates de cette relation un peu tendue qui a fini par se normaliser, grâce au couple De Gaulle - Adenauer. A l’occasion de ce travail, les élèves ont lu un extrait du roman célèbre de Erich Maria Remarque "A l'Ouest, rien de nouveau" (1929), ainsi que le récit d'un amour franco-allemand (article extrait de "der Spiegel").
+    Rappel des grandes dates de cette relation un peu tendue qui a fini par se normaliser, grâce au couple De Gaulle - Adenauer.
+    
+    A l’occasion de ce travail, les élèves ont lu un extrait du roman célèbre de Erich Maria Remarque "A l'Ouest, rien de nouveau" (1929), ainsi que le récit d'un amour franco-allemand (article extrait de "der Spiegel").
 
     Cette exposition vise à faire connaître l'amitié franco-allemande et les projets et institutions qui en découlent.
     
@@ -40,7 +42,7 @@
     [![Science et Vie](./images/abonnements/SV_février_2022.jpg "Science et Vie, février 2022, n°1253"){width=20%}](./images/abonnements/SV_février_2022_sommaire.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/SVJ_février_2022.jpg "Science et Vie Junior, février 2022, n°389"){width=20%}](./images/abonnements/SVJ_février_2022_sommaire.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/Sciences et avenir_février_2022_900.jpg "Sciences et avenir, février 2022, n°900"){width=20%}](./images/abonnements/Sciences et avenir_février_2022_900_sommaire.pdf){target=_blank}
-    [![Sciences Ouest](./images/abonnements/Sciences Ouest_février 2022_396.jpg "Sciences Ouest, janvier 2022, n°395"){width=20%}](./images/abonnements/Sciences Ouest_février 2022_396_sommaire.pdf){target=_blank}
+    [![Sciences Ouest](./images/abonnements/Sciences Ouest_février 2022_396.jpg "Sciences Ouest, janvier 2022, n°396"){width=20%}](./images/abonnements/Sciences Ouest_février 2022_396_sommaire.pdf){target=_blank}
     [![Virgule](./images/abonnements/Virgule_février 2022_203.jpg "Virgule, février 2022, n°203"){{width=20%}]((./images/abonnements/Virgule_février 2022_203_sommaire.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/VocableAllemand20220120_856.jpg "Vocable Allemand, 20 janvier 2022, n°856"){width=20%}](./images/abonnements/VocableAllemand20220120_856_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/VocableEspagnol20220120_849.jpg "Vocable Espagnol, 20 janvier 2022, n°849"){width=20%}](./images/abonnements/VocableEspagnol20220120_849_sommaire.pdf){target=_blank}
