@@ -2,7 +2,7 @@
 
 ???+ info "**Frida KAHLO**"
      
-    ![Frida Kahlo](./images/expo_FridaKahlo.jpg "info-bulle"){width=30% align=left}
+    ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
 	Exposition sur **Frida Kahlo** réalisée par les élèves du cours d'Espagnol.
 		
     Pour aller plus loin : [Frida Kahlo - France Culture]( https://www.franceculture.fr/personne-frida-kahlo.html)
@@ -12,9 +12,8 @@
 ???+ info "**Projets franco-allemand**"
     
     
-    ![expo01](./images/expo_Allemand_20220128_01.jpg "info-bulle"){width=25% align=left}
-    ![expo03](./images/expo_Allemand_20220128_02.jpg "info-bulle"){width=30% align=left}
-    ![expo04](./images/expo_Allemand_20220128_03.jpg "info-bulle"){width=30% align=left}
+    ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=25% align=left}
+    ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=30% align=left}
 
 
 ## Nouveautés 
