@@ -49,9 +49,9 @@ Pour voir les dernières nouveautés concernant les abonnements, rendez-vous dan
 
 Pour découvrir les autres nouveautés du CDI, consultez le Portail de la base documentaire PMB, ci-dessous. Le padlet propose des liens vers d'autres ressources par discipline.
 
-   * [**Portail - Base documentaire PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/)
+   * [**Portail - Base documentaire PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank}
 
-   * [**Padlet du CDI**](https://padlet.com/cdinddmporsmeur/CDI)
+   * [**Padlet du CDI**](https://padlet.com/cdinddmporsmeur/CDI){target=_blank}
 
 
  
