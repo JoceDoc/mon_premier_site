@@ -29,13 +29,21 @@ ___
 
 ??? info "EMI"
 ___
-## Enseignement du tronc commun
-### Les langues
-### Français
+## Disciplines
+### Arts plastiques
+### Econome gestion
+### Langues vivantes
+### Lettres
+### EPS
+### Mathématiques
+### Philosophie
+### Physique-Chimie
+### SES
+### SVT
 
 
 ___
-## Enseignements de spécialité du lycée
+## Enseignements de spécialité (au lycée)
 
 ### HGGSP
 Histoire géographie, géopolitique sciences politiques
