@@ -29,13 +29,13 @@ ___
 
 ??? info "EMI"
 ___
-## Le coin des disciplines
+## Enseignement du tronc commun
 ### Les langues
 ### Français
 
 
 ___
-## Enseignements de spécialité proposés au lycée
+## Enseignements de spécialité du lycée
 
 ### HGGSP
 Histoire géographie, géopolitique sciences politiques
@@ -63,19 +63,19 @@ ___
 
 
 ??? info "Concours de critique"
-    En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/) organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association **"Bruit de lire"**. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le **Prix Goncourt des Lycéens**.
+    En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association **"Bruit de lire"**. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le **Prix Goncourt des Lycéens**.
     
     En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers leur autonomie. Au-delà du « j’aime » / « je n’aime pas », les élèves apprennent à formuler une appréciation personnelle sur l’œuvre qu’ils ont choisie et à justifier leur avis. En s’exerçant à ce genre particulier, ils développent de véritables compétences d’argumentation.
 ___
 
 ??? info "Si on lisait à voix haute"
-    Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours **["Si on lisait à voix haute"](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute)** organisé par François Busnel et la Grande Librairie.
+    Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours **["Si on lisait à voix haute"](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank}** organisé par François Busnel et la Grande Librairie.
     
     Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses : pour certains la **curiosité**, pour d’autres, l’**envie de travailler l’oral** et de **gagner en aisance**, pour d’autres encore, aimant déjà lire à voix haute, le **désir de participer à un concours national**, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.
     
     Ensembles, ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
 
-    Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie).
+    Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie){target=_blank}.
 
 <figure>
 <video width="560" height="315" controls>
@@ -87,7 +87,7 @@ ___
 ??? info "Prix folio des lycéens"
     Petit parcours vers la **littérature contemporaine** : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré. 
     Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
-    [**Prix folio**](https://www.prixdeslyceensfolio.fr/)
+    [**Prix folio**](https://www.prixdeslyceensfolio.fr/){target=_blank}
 ___
 ## Méthodologie
 ??? info "S'organiser dans son travail"
