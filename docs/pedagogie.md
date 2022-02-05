@@ -90,8 +90,9 @@ ___
     [**Prix folio**](https://www.prixdeslyceensfolio.fr/){target=_blank}
 ___
 ## Méthodologie
-??? info "S'organiser dans son travail"
+??? info "Information générale"
     - [S'organiser dans son travail](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
+--8<-- "docs/images/00-carte_mentale_tutoriel.jpg" 
 
 ??? "Recherche d'informations"
     - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
