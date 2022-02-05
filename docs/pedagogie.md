@@ -34,11 +34,11 @@ ___
     
     * Développer son esprit critique.
     
-    * Lutter conte la désinformation
+    * Lutter contre la désinformation.
     
     * Gérer ses données personnelles.
     
-    * Maîtriser son temps d'écran
+    * Maîtriser son temps d'écrans.
     
     
 ??? Info "Sites incontournables pour s'informer "
