@@ -7,6 +7,7 @@
     L’objectif est de les guider dans leurs choix d'orientation, en leur proposant soit des modules de découverte variés où ils pourront exprimer leurs talents, soit des activités liées à une discipline spécifique, ou encore des outils pour les aider à surmonter des difficultés identifiées.
      
     ==**PROJETS LONGS**== (*27 semaines*)
+    
     * Faire des sciences dans le cadre d’une enquête policière
     
     * J’aime lire et je participe au « Prix Folio des lycéens »
@@ -117,7 +118,7 @@ ___
 ## Méthodologie
 ??? info "Information générale"
     - [S'organiser dans son travail](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
-    --8<-- "![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){width=30% align=right}"
+    --8<--"![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){width=50% align=right}"
 
 ??? "Recherche d'informations"
     - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
