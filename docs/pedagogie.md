@@ -5,7 +5,8 @@
     Dans le cadre de l'**accompagnement personnalisé** de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**.
     
     L’objectif est de les guider dans leurs choix d'orientation, en leur proposant soit des modules de découverte variés où ils pourront exprimer leurs talents, soit des activités liées à une discipline spécifique, ou encore des outils pour les aider à surmonter des difficultés identifiées.
-        ==**PROJETS LONGS**== (*27 semaines*)
+     
+    ==**PROJETS LONGS**== (*27 semaines*)
     *	Faire des sciences dans le cadre d’une enquête policière
     *	J’aime lire et je participe au « Prix Folio des lycéens »
     *	Ecrire à la façon d’un journaliste pour « Le journal du lycée »
@@ -16,7 +17,7 @@
     *	Webradio-capsules vidéos : créer des mini-reportages à diffuser sur l’ENT
     *	Une Entreprise dans votre lycée
     
-        ==**PROJETS COURTS**== (*9 semaines*)
+    ==**PROJETS COURTS**== (*9 semaines*)
     *	Soutien matière : maths (3 groupes)
     *	Soutien matière français 
     *	Prix de l’écoute (Podcast)
@@ -95,7 +96,7 @@ ___
 
 ??? "Recherche d'informations"
     - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
-    - [Elaborer une problématique](
+    - [Elaborer une problématique]
     - [Valider les sources d'internet](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
     - [Prendre des notes](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     
@@ -122,4 +123,4 @@ ___
 ## Le Grand oral
    
 ??? info "Se préparer pour l'oral"
-    [**Padlet de ressources pour le Grand Oral**](https://padlet.com/cdinddmporsmeur/grandoral2021)
+    [**Padlet de ressources pour le Grand Oral**](https://padlet.com/cdinddmporsmeur/grandoral2021){target=_blank}
