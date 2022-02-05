@@ -1,3 +1,26 @@
+## Méthodologie
+??? info "Information générale"
+    - [S'organiser dans son travail](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
+    --8<--"![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){width=50% align=right}"
+
+??? "Recherche d'informations"
+    - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
+    - [Elaborer une problématique]
+    - [Valider les sources d'internet](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
+    - [Prendre des notes](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
+    
+
+??? "Présentation et restitution, fiches outils et conseils..."
+    - [Faire un exposé](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
+    - [Réaliser une revue de presse](./pdf/Méthodologie_Réaliser une revue de presse){target=_blank}
+    - [Réaliser une affiche](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
+    - [Réaliser un diaporama](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
+    - [Citer ses sources](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
+  
+    
+??? "Tutoriels d'application en ligne..."
+    - [Tutoriel pour une présentation avec PREZI](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
+___
 ## Seconde générale
 
 
@@ -44,8 +67,28 @@
     
     * Maths approfondies
 ___
-
-??? info "EMI"
+## EMI
+??? Pourquoi "Pourquoi et c comment s'informer ?" 
+    * S'informer pour comprendre le monde
+    
+    * Connaître et croiser les sources d'informations
+    
+    * Développer son esprit critique.
+    
+    * Lutter conte la désinformation
+    
+    * Gérer ses données personnelles.
+    
+    * Maîtriser son temps d'écran
+    
+    
+??? Info "Sites incontournables pour s'informer "
+    [AFP](https://www.afp.com/fr){target=_blank}
+    ...
+    
+??? info "Ressources pour l'EMI"
+    [Padlet de ressources](https://padlet.com/cdinddmporsmeur/emi){target=_blank}
+    
 ___
 ## Disciplines
 ### Arts plastiques
