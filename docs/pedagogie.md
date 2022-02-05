@@ -6,14 +6,14 @@
     - [Apprendre à réviser](https://apprendre-reviser-memoriser.fr/){target=_blank}
          
 
-??? "Recherche d'informations"
+??? "Rechercher des informations"
     - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
     - [Elaborer une problématique]
     - [Valider les sources d'internet](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
     - [Prendre des notes](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     
 
-??? "Présentation et restitution, fiches outils et conseils..."
+??? "Présenter le résultat de ses recherhces, fiches outils et conseils..."
     - [Faire un exposé](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
     - [Réaliser une revue de presse](./pdf/Méthodologie_Réaliser une revue de presse){target=_blank}
     - [Réaliser une affiche](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
@@ -25,8 +25,62 @@
     - [Tutoriel pour une présentation avec PREZI](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
 
 ___
-## Seconde générale
+## EMI
+??? Pourquoi "Pourquoi et comment s'informer ?" 
+    
+    * S'informer pour comprendre le monde
+    
+    * Connaître et croiser les sources d'informations
+    
+    * Développer son esprit critique.
+    
+    * Lutter conte la désinformation
+    
+    * Gérer ses données personnelles.
+    
+    * Maîtriser son temps d'écran
+    
+    
+??? Info "Sites incontournables pour s'informer "
+    [AFP](https://www.afp.com/fr){target=_blank}
+    [Reporters sans frontières](https://rsf.org/){target=_blank}
+    ...
+    
+??? info "Ressources pour l'EMI"
+    [Padlet de ressources](https://padlet.com/cdinddmporsmeur/emi){target=_blank}
 
+
+___
+## Concours scolaires
+
+??? info "Concours de critique"
+    En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association **"Bruit de lire"**. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le **Prix Goncourt des Lycéens**.
+    
+    En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers leur autonomie. Au-delà du « j’aime » / « je n’aime pas », les élèves apprennent à formuler une appréciation personnelle sur l’œuvre qu’ils ont choisie et à justifier leur avis. En s’exerçant à ce genre particulier, ils développent de véritables compétences d’argumentation.
+___
+
+??? info "Si on lisait à voix haute"
+    Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours **["Si on lisait à voix haute"](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank}** organisé par François Busnel et la Grande Librairie.
+    
+    Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses : pour certains la **curiosité**, pour d’autres, l’**envie de travailler l’oral** et de **gagner en aisance**, pour d’autres encore, aimant déjà lire à voix haute, le **désir de participer à un concours national**, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.
+    
+    Ensembles, ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
+
+    Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie){target=_blank}.
+
+<figure>
+<video width="560" height="315" controls>
+  <source src="./videos/Finaliste_2022_compressee.mp4" type="video/mp4">  
+</video>
+</figure>
+___
+
+??? info "Prix folio des lycéens"
+    Petit parcours vers la **littérature contemporaine** : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré. 
+    Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
+    [**Prix folio**](https://www.prixdeslyceensfolio.fr/){target=_blank}
+___
+## Seconde générale
 
 ??? info "AP 2nde générale"
     Dans le cadre de l'**accompagnement personnalisé** de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**.
@@ -71,30 +125,6 @@ ___
     
     * Maths approfondies
 
-___
-## EMI
-??? Pourquoi "Pourquoi et c comment s'informer ?" 
-    * S'informer pour comprendre le monde
-    
-    * Connaître et croiser les sources d'informations
-    
-    * Développer son esprit critique.
-    
-    * Lutter conte la désinformation
-    
-    * Gérer ses données personnelles.
-    
-    * Maîtriser son temps d'écran
-    
-    
-??? Info "Sites incontournables pour s'informer "
-    [AFP](https://www.afp.com/fr){target=_blank}
-    [Reporters sans frontières](https://rsf.org/){target=_blank}
-    ...
-    
-??? info "Ressources pour l'EMI"
-    [Padlet de ressources](https://padlet.com/cdinddmporsmeur/emi){target=_blank}
-    
     
 ___
 ## Disciplines
@@ -132,38 +162,6 @@ Histoire géographie, géopolitique sciences politiques
 ### Physique Chimie 
 
 
-
-
-___
-## Concours scolaires
-
-
-??? info "Concours de critique"
-    En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association **"Bruit de lire"**. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le **Prix Goncourt des Lycéens**.
-    
-    En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers leur autonomie. Au-delà du « j’aime » / « je n’aime pas », les élèves apprennent à formuler une appréciation personnelle sur l’œuvre qu’ils ont choisie et à justifier leur avis. En s’exerçant à ce genre particulier, ils développent de véritables compétences d’argumentation.
-___
-
-??? info "Si on lisait à voix haute"
-    Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours **["Si on lisait à voix haute"](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank}** organisé par François Busnel et la Grande Librairie.
-    
-    Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses : pour certains la **curiosité**, pour d’autres, l’**envie de travailler l’oral** et de **gagner en aisance**, pour d’autres encore, aimant déjà lire à voix haute, le **désir de participer à un concours national**, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.
-    
-    Ensembles, ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
-
-    Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie){target=_blank}.
-
-<figure>
-<video width="560" height="315" controls>
-  <source src="./videos/Finaliste_2022_compressee.mp4" type="video/mp4">  
-</video>
-</figure>
-___
-
-??? info "Prix folio des lycéens"
-    Petit parcours vers la **littérature contemporaine** : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré. 
-    Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
-    [**Prix folio**](https://www.prixdeslyceensfolio.fr/){target=_blank}
 ___
 ## Réviser pour le BAC
 
