@@ -1,7 +1,7 @@
 ## Méthodologie
 ??? info "Information générale"
     "![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}"
-    [Source de la carte mentale](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/comment.htm){target=_blank}
+    [Des exemples ici](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/comment.htm){target=_blank}
     - [Un peu d'organisation](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
     - [Apprendre à réviser](https://apprendre-reviser-memoriser.fr/){target=_blank}
          
