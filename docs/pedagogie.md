@@ -13,7 +13,7 @@
     - [Prendre des notes](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     
 
-??? "Présenter le résultat de ses recherhces, fiches outils et conseils..."
+??? "Présenter le résultat de ses recherches, fiches outils et conseils..."
     - [Faire un exposé](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
     - [Réaliser une revue de presse](./pdf/Méthodologie_Réaliser une revue de presse){target=_blank}
     - [Réaliser une affiche](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
