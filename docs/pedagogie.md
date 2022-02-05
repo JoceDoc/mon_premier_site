@@ -92,7 +92,7 @@ ___
 ## Méthodologie
 ??? info "Information générale"
     - [S'organiser dans son travail](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
---8<-- "docs/images/00-carte_mentale_tutoriel.jpg" 
+    --8<-- "![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){width=30% align=right}"
 
 ??? "Recherche d'informations"
     - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
