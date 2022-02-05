@@ -20,6 +20,7 @@
     
 ??? "Tutoriels d'application en ligne..."
     - [Tutoriel pour une présentation avec PREZI](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
+
 ___
 ## Seconde générale
 
@@ -66,8 +67,8 @@ ___
     * S’initier au mangement
     
     * Maths approfondies
-___
 
+___
 ## EMI
 ??? Pourquoi "Pourquoi et c comment s'informer ?" 
     * S'informer pour comprendre le monde
