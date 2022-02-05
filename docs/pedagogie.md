@@ -7,10 +7,11 @@
          
 
 ??? "Rechercher des informations"
-    - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
-    - [Elaborer une problématique]
+    - [Base documentaire PMB du lycée](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
+    - [Chercher pour trouver](https://www.ebsi.umontreal.ca/jetrouve/)
     - [Valider les sources d'internet](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
     - [Prendre des notes](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
+    - [Elaborer une problématique]
     
 
 ??? "Présenter le résultat de ses recherches, fiches outils et conseils..."
