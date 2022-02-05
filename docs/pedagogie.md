@@ -67,6 +67,7 @@ ___
     
     * Maths approfondies
 ___
+
 ## EMI
 ??? Pourquoi "Pourquoi et c comment s'informer ?" 
     * S'informer pour comprendre le monde
@@ -84,10 +85,12 @@ ___
     
 ??? Info "Sites incontournables pour s'informer "
     [AFP](https://www.afp.com/fr){target=_blank}
+    [Reporters sans frontières](https://rsf.org/){target=_blank}
     ...
     
 ??? info "Ressources pour l'EMI"
     [Padlet de ressources](https://padlet.com/cdinddmporsmeur/emi){target=_blank}
+    
     
 ___
 ## Disciplines
