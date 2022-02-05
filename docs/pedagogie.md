@@ -1,9 +1,9 @@
 ## Méthodologie
 ??? info "Information générale"
+    "![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}"
     - [Un peu d'organisation](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
     - [Apprendre à réviser](https://apprendre-reviser-memoriser.fr/){target=_blank}
-     
-    "![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){width=70%}"
+         
 
 ??? "Recherche d'informations"
     - [Utiliser le logiciel documentaire PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
