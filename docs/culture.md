@@ -46,7 +46,9 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
 ## Ressources
 
 [**Ministère de la culture**](https://www.culture.gouv.fr/){target=_blank}
+
 [**Panorama des arts**](https://panoramadelart.com/){target=_blank}
+
 [**Culture et patrimoine**](https://www.cultureetpatrimoine.com/){target=_blank}
 
 ## Musées célèbres
