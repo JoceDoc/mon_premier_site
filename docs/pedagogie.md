@@ -3,7 +3,7 @@
     - [**Un peu d'organisation**](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
     - [**Apprendre à réviser**](https://apprendre-reviser-memoriser.fr/){target=_blank}
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
-    - [**D'autres exemples de cartes mentales ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/comment.htm){target=_blank}
+    - D'autres exemples de cartes mentales [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/comment.htm){target=_blank}
          
 
 ??? "Rechercher des informations"
