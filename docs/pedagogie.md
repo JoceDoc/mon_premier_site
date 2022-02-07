@@ -2,9 +2,9 @@
 ??? info "Information générale"
     - [**Un peu d'organisation**](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
     - [**Apprendre à réviser**](https://apprendre-reviser-memoriser.fr/){target=_blank}
+    - **D'autres exemples de cartes mentales** [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
-    - D'autres exemples de cartes mentales [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/comment.htm){target=_blank}
-         
+   
 
 ??? "Rechercher des informations"
     - [**Base documentaire PMB du lycée****](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
