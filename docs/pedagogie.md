@@ -1,29 +1,29 @@
 ## Méthodologie
 ??? info "Information générale"
-    - [Un peu d'organisation](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
-    - [Apprendre à réviser](https://apprendre-reviser-memoriser.fr/){target=_blank}
+    - [**Un peu d'organisation**](./pdf/Méthodologie_Apprendre_a_travailler){target=_blank}
+    - [**Apprendre à réviser**](https://apprendre-reviser-memoriser.fr/){target=_blank}
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
-    - [D'autres exemples de cartes mentales ici](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/comment.htm){target=_blank}
+    - [**D'autres exemples de cartes mentales ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/comment.htm){target=_blank}
          
 
 ??? "Rechercher des informations"
-    - [Base documentaire PMB du lycée](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
-    - [Chercher pour trouver](https://www.ebsi.umontreal.ca/jetrouve/)
-    - [Valider les sources d'internet](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
-    - [Prendre des notes](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
-    - [Elaborer une problématique]
+    - [**Base documentaire PMB du lycée****](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
+    - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/){target=_blank}
+    - [**Valider les sources d'internet**](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
+    - [**Prendre des notes**](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
+    - [**Elaborer une problématique**]
     
 
 ??? "Présenter le résultat de ses recherches, fiches outils et conseils..."
-    - [Faire un exposé](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
-    - [Réaliser une revue de presse](./pdf/Méthodologie_Réaliser une revue de presse){target=_blank}
-    - [Réaliser une affiche](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
-    - [Réaliser un diaporama](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
-    - [Citer ses sources](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
+    - [**Faire un exposé**](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
+    - [**Réaliser une revue de presse**](./pdf/Méthodologie_Réaliser une revue de presse){target=_blank}
+    - [**Réaliser une affiche**](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
+    - [**Réaliser un diaporama**](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
+    - [**Citer ses sources**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
     
 ??? "Tutoriels d'application en ligne..."
-    - [Tutoriel pour une présentation avec PREZI](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
+    - [**Tutoriel pour une présentation avec PREZI**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
 
 ___
 ## EMI
