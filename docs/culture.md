@@ -2,7 +2,7 @@
 
 La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs){target=_blank} propose une offre culturelle diversifiée. Sur le site de la ville, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmations des salles de spectacles, cinémas, bibliothèques...
 
-Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturels.
+Ci-dessous vous pouvez accéder directement aux sites officiels de ces lieux culturels.
 
 ??? info "Accès direct aux sites"
     * [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank}
