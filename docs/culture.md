@@ -47,6 +47,8 @@ Ci-dessous vous pouvez accéder directement aux sites officiels de ces lieux cul
 
 [**Ministère de la culture**](https://www.culture.gouv.fr/){target=_blank}
 
+[**Institut National d'Histoire de l'Art**](https://www.inha.fr/fr/ressources/eac/sitographie.html)
+
 [**Panorama des arts**](https://panoramadelart.com/){target=_blank}
 
 [**Culture et patrimoine**](https://www.cultureetpatrimoine.com/){target=_blank}
@@ -72,6 +74,7 @@ Autre lien intéressant les [**Expositions virtuelles de le BNF**](http://exposi
 ## Cinéma
 [**Cinémathèque de Bretagne**](https://www.cinematheque-bretagne.bzh/){target=_blank}
 
+[**Centre National du cinéma et de l'image animée**](https://www.cnc.fr/){target=_blank}
 
 
 
