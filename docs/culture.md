@@ -23,9 +23,9 @@ Ci-dessous vous accèderez directement aux sites officiels de ces lieux culturel
 ## Un peu plus loin...
 
 ??? info "Finistère"
-   * [**FHEL - Landerneau**](https://www.fonds-culturel-leclerc.fr/){target=_blank}
-   * [**Ateliers des Capucins**](https://www.ateliersdescapucins.fr/fr){target=_blank}
-   * [**Le Quartz**](https://www.lequartz.com/){target=_blank}
+    * [**FHEL - Landerneau**](https://www.fonds-culturel-leclerc.fr/){target=_blank}
+    * [**Ateliers des Capucins**](https://www.ateliersdescapucins.fr/fr){target=_blank}
+    * [**Le Quartz**](https://www.lequartz.com/){target=_blank}
     
 ??? info "Bretagne"
     * [**Espace des sciences**](https://www.espace-sciences.org/){target=_blank}
