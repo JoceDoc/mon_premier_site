@@ -24,7 +24,7 @@
 
     Cette exposition vise à faire connaître l'amitié franco-allemande et les projets et institutions qui en découlent.
     
-    Pour aller plus loin : [Sources bibliographiques](./pdf/Expo_Projet_franco_allemand_QR_sources.pdf){target=_blank}
+    Pour aller plus loin : [Sources bibliographiques](./pdf/Expo_Projet_franco_allemand_sources.pdf){target=_blank}
     
     ==**Visible au CDI jusqu'à fin mars**==
 
