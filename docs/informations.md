@@ -11,7 +11,7 @@
     Chacun est invité à respecter le calme exigé afin de permettre une concentration optimale et un travail de qualité.
 
 ??? info "Plan du CDI"
-    Pour vous repérer et identifier les différents espaces documentaires, consultez le [plan du CDI](./pdf/00_plan_CDI.pdf){target=_blank}
+    Pour vous repérer et identifier les différents espaces documentaires, consultez le [**plan du CDI**](./pdf/00_plan_CDI.pdf){target=_blank}
 
 
 ??? info "Prêt des documents"
