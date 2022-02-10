@@ -61,9 +61,9 @@ ___
 ___
 
 ??? info "Si on lisait à voix haute"
-   ![Concours](./images/Si on lisait à voix haute01.jpg "logo du concours"){width=20% align=right}
-   Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours **["Si on lisait à voix haute"](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank}** organisé par François Busnel et la Grande Librairie.
-    
+    ![Concours](./images/Si on lisait à voix haute01.jpg "logo du concours"){width=10% align=right}
+    Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours **["Si on lisait à voix haute"](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank}** organisé par François Busnel et la Grande Librairie.
+
     Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses : pour certains la **curiosité**, pour d’autres, l’**envie de travailler l’oral** et de **gagner en aisance**, pour d’autres encore, aimant déjà lire à voix haute, le **désir de participer à un concours national**, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.
     
     Ensembles, ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
