@@ -69,12 +69,11 @@ ___
 
    Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie){target=_blank}.
     ![Concours](./images/Si on lisait à voix haute01.jpg "logo du concours"){width=35% align=right}
-
-    <figure>
-    <video width="560" height="315" controls>
-    <source src="./videos/Finaliste_2022_compressee.mp4" type="video/mp4">  
-    </video>
-    </figure>
+   <figure>
+   <video width="560" height="315" controls>
+   <source src="./videos/Finaliste_2022_compressee.mp4" type="video/mp4">  
+   </video>
+   </figure>
 ___
 
 ??? info "Prix folio des lycéens"
