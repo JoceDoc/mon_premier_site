@@ -133,14 +133,23 @@ ___
 ___
 ## Disciplines
 ### Arts plastiques
-### Econome gestion
-### Langues vivantes
-### Lettres
+
 ### EPS
+
+### Français
+
+### Histoire Géographie EMC
+
+### Langues vivantes
+
 ### Mathématiques
+
 ### Philosophie
+
 ### Physique-Chimie
+
 ### SES
+
 ### SVT
 
 
