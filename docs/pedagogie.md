@@ -9,7 +9,7 @@
 ??? "Rechercher des informations"
     - [**Base documentaire PMB du lycée**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
     - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/){target=_blank}
-    - [**Valider les sources d'internet**](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
+    - [**Vérifier une information sur Internet**](https://fr.wikihow.com/vérifier-l'information-sur-internet){target=_blank}
     - [**Prendre des notes**](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     - [**Elaborer une problématique**]
     
