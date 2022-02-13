@@ -7,7 +7,7 @@
    
 
 ??? "Rechercher des informations"
-    - [**Base documentaire PMB du lycée****](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
+    - [**Base documentaire PMB du lycée**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
     - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/){target=_blank}
     - [**Valider les sources d'internet**](./pdf/Méthodologie_Valider les sources d'Internet.pdf){target=_blank}
     - [**Prendre des notes**](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
