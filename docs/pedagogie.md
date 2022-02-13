@@ -42,11 +42,12 @@ ___
     * Maîtriser son temps d'écrans.
     
     
-??? Info "Sites incontournables pour s'informer "
+??? Info "Sites incontournables pour s'informer"
     - [**AFP**](https://www.afp.com/fr){target=_blank}
     - [**Reporters sans frontières**](https://rsf.org/){target=_blank}
     ...
-    
+ 
+
 ??? info "Ressources pour l'EMI"
     [**Padlet de ressources**](https://padlet.com/cdinddmporsmeur/emi){target=_blank}
 
