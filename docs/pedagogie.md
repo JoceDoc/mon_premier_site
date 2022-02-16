@@ -62,7 +62,7 @@ ___
 ___
 
 ??? info "Si on lisait à voix haute"
-    Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours **["Si on lisait à voix haute"](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank}** organisé par François Busnel et la Grande Librairie.
+    Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours [**"Si on lisait à voix haute"**](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank} organisé par François Busnel et la Grande Librairie.
 
     Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses : pour certains la **curiosité**, pour d’autres, l’**envie de travailler l’oral** et de **gagner en aisance**, pour d’autres encore, aimant déjà lire à voix haute, le **désir de participer à un concours national**, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.
     
@@ -210,16 +210,19 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt){target=_blank}
 
 ??? "Ressources" 
-    - [Spécialité maths](http://specialite-maths.fr/){target=_blank}
-    - [M@th et tiques](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank}
-    - [Podcast - France Culture](https://www.franceculture.fr/theme/mathematiques){target=_blank}
+    - [**Spécialité maths**](http://specialite-maths.fr/){target=_blank}
+    - [**M@th et tiques**](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank}
+    - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques...
+    - [**Podcast - France Culture**](https://www.franceculture.fr/theme/mathematiques){target=_blank}
     
 ### NSI
 ??? "Programmes"
-    Sur le site [**Eduscol**](){target=_blank}
+    Sur le site [**Eduscol**](https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g){target=_blank}
 
 ??? "Ressources" 
-    - [](){target=_blank}
+    - [**Histoire de l'informatique, d'Internet et du Web**](https://delmas-rigoutsos.nom.fr/documents/YDelmas-histoire_informatique/index.html){target=_blank}
+    - [**Cours sur Python**](https://courspython.com/){target=_blank}
+    - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques, sciences, informatique, économie et finance, arts.
     
     
 ### SVT
