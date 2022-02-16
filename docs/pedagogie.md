@@ -239,21 +239,21 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
     Sur le site [**Eduscol**](){target=_blank}
 
 ??? "Ressources" 
-    - [](){target=_blank
+    - [](){target=_blank}
 
 ### SES
 ??? "Programmes"
     Sur le site [**Eduscol**](){target=_blank}
 
 ??? "Ressources" 
-    - [](){target=_blank
+    - [](){target=_blank}
 
 ### Physique Chimie 
 ??? "Programmes"
     Sur le site [**Eduscol**](){target=_blank}
 
 ??? "Ressources" 
-    - [](){target=_blank
+    - [](){target=_blank}
 
 ___
 ## Réviser pour le BAC
