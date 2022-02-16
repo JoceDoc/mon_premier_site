@@ -180,13 +180,12 @@ ___
     
     
 ??? "Séances pédagogiques"   
-    [Faire une revue de presse]()
+    [**Faire une revue de presse thématique**](./pdf/HGGSP_1re_revue de presse thématique.pdf){target=_blank}
     
     
 ??? "Etudes et géopolitique"
-    Si la géopolitque vous intéresse, pourquoi ne pas continuer vos études dans cette voix à l'[Institut Français de géopolitique](https://www.geopolitique.net/fr/){target=_blank}
-    
-    
+    Si la géopolitique vous intéresse, pourquoi ne pas continuer vos études dans cette voix à l'[Institut Français de géopolitique](https://www.geopolitique.net/fr/){target=_blank}
+       
     
 
 
