@@ -186,7 +186,6 @@ ___
 ??? "Etudes et géopolitique"
     Si la géopolitique vous intéresse, pourquoi ne pas continuer vos études dans cette voix à l'[**Institut Français de géopolitique**](https://www.geopolitique.net/fr/){target=_blank}
        
-    
 
 
 ### HLP
@@ -199,19 +198,57 @@ ___
 
     
 ### LLCE
+??? "Programmes"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1684/programmes-et-ressources-en-langues-litteratures-et-cultures-etrangeres-et-regionales-voie-g){target=_blank}
 
+??? "Ressources" 
+    
+    
+    
 ### Mathématiques
+??? "Programmes"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt){target=_blank}
 
+??? "Ressources" 
+    - [Spécialité maths](http://specialite-maths.fr/){target=_blank}
+    - [M@th et tiques](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank}
+    - [Podcast - France Culture](https://www.franceculture.fr/theme/mathematiques){target=_blank}
+    
 ### NSI
+??? "Programmes"
+    Sur le site [**Eduscol**](){target=_blank}
 
+??? "Ressources" 
+    - [](){target=_blank}
+    
+    
 ### SVT
+??? "Programmes"
+    Sur le site [**Eduscol**](){target=_blank}
 
+??? "Ressources" 
+    - [](){target=_blank
+    
 ### SI
+??? "Programmes"
+    Sur le site [**Eduscol**](){target=_blank}
+
+??? "Ressources" 
+    - [](){target=_blank
 
 ### SES
+??? "Programmes"
+    Sur le site [**Eduscol**](){target=_blank}
+
+??? "Ressources" 
+    - [](){target=_blank
 
 ### Physique Chimie 
+??? "Programmes"
+    Sur le site [**Eduscol**](){target=_blank}
 
+??? "Ressources" 
+    - [](){target=_blank
 
 ___
 ## Réviser pour le BAC
