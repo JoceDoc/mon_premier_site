@@ -229,10 +229,10 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
     
 ### SVT
 ??? "Programmes"
-    Sur le site [**Eduscol**](){target=_blank}
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1664/programmes-et-ressources-en-sciences-de-la-vie-et-de-la-terre-voie-gt){target=_blank}
 
 ??? "Ressources" 
-    - [](){target=_blank
+    - [**Vive les SVT**](https://www.vivelessvt.com/){target=_blank}
     
 ### SI
 ??? "Programmes"
