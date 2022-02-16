@@ -161,6 +161,8 @@ ___
     Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2  des spécialités étudiés en 1re.
     
     Pour bien choisir vos spécialités et découvrir les programmes de première et de terminale, pour chaque spécialité, rendez-vous sur le site du [**Ministère de l'éducation nationale**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-specialites-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank}.
+    
+    Pour plus d'informations sur les spécialités, rendez-vous sur l'onglet [**orientation**](https://jocedoc.github.io/mon_premier_site/orientation/){target=_blank} du présent site.
    
 ### HGGSP
 Histoire géographie, géopolitique sciences politiques
