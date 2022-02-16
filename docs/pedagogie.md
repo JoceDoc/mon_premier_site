@@ -1,4 +1,4 @@
-La rubrique méthodologie propose des outils interdisciplinaires.
+Sur cette page, des ==**outils méthodologiques**== et des des ==**ressources par discipline**==.
 
 ## Méthodologie
 ??? info "Information générale"
