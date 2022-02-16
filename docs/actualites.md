@@ -33,6 +33,7 @@
    
 ???+ info "**Le kiosque du mois**"
 
+    [![01.NET](./images/abonnements/01.NET_02 février 2022_967.jpg "01.NET, 02 février 2022, n°967"){width=20%}](./images/abonnements/01.NET_02_février 2022_967_sommaire.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_février 2022_420.jpg "Alternatives Economiques, février 2022, n°420"){width=20%}](./images/abonnements/Alternatives Economiques_février 2022_420_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m intéresse_février 2022_492.jpg "Ca m'intéresse, février 2022, n°492"){width=20%}](./images/abonnements/Ca m intéresse_février 2022_492_sommaire.pdf){target=_blank}
     [![La Croix Campus](./images/abonnements/La Croix Campus_février 2022_242.jpg "La Croix Campus, février 2022, n°242"){width=20%}](./images/abonnements/La Croix Campus_février 2022_242_sommaire.pdf){target=_blank}
