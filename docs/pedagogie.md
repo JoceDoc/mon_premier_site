@@ -167,7 +167,28 @@ ___
     Ci-dessous, des ressources utiles pour l'enseignement des spécialités proposées dans notre lycée.
    
 ### HGGSP
-Histoire géographie, géopolitique sciences politiques
+
+??? "Programmes et Ressources"
+    [Eduscol](https://eduscol.education.fr/1676/programmes-et-ressources-en-histoire-geographie-geopolitique-et-sciences-politiques-voie-g){target=_blank}
+    
+    
+??? "Sites incontournables" 
+    - [Le dessous des cartes](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} : le magazine géopolitique d'Arte.
+    - [France Culture](https://www.franceculture.fr/geopolitique){target=_blank} : Analyses et décryptages : comprendre les relations internationales et la géopolitique du monde actuel grâce aux émissions et podcasts de France Culture.
+    - [Lumni](https://www.lumni.fr/recherche?query=G%C3%A9opolitique&establishment=lycee&schoolLevel=seconde){targert=_blank} : Série Géopoliticus pour décrypter la géopolitique à l’aide d’infographies animées pour comprendre le monde et les grands enjeux politiques de notre temps.
+    - [IRIS - Institut de Relations Internationales et Stratégiques](https://www.iris-france.org/){target=_blank}
+    
+    
+??? "Séances pédagogiques"   
+    [Faire une revue de presse]()
+    
+    
+??? "Etudes et géopolitique"
+    Si la géopolitque vous intéresse, pourquoi ne pas continuer vos études dans cette voix à l'[Institut Français de géopolitique](https://www.geopolitique.net/fr/){target=_blank}
+    
+    
+    
+
 
 ### HLP
 
