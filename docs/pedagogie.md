@@ -1,4 +1,4 @@
-Dans cette page des ressources pour les disciplines 
+La rubrique méthodologie propose des outils interdisciplinaires.
 
 ## Méthodologie
 ??? info "Information générale"
@@ -24,7 +24,8 @@ Dans cette page des ressources pour les disciplines
     - [**Citer ses sources**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
     
-??? "Tutoriels d'application en ligne..."
+??? "Applications"
+    - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
     - [**Tutoriel pour une présentation avec PREZI**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
 
 ___
