@@ -157,7 +157,7 @@ ___
 ___
 ## Enseignements de spécialité (au lycée)
 
-??? info "Choix des spécialités"
+???+ info "Choix des spécialités"
     Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re..
     
     Pour bien choisir vos spécialités, découvrir les attendus et les programmes de première et de terminale, pour chacune d'entre elles, rendez-vous sur le site du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-specialites-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} ou sur le site de [**l'Etudiant**](https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites/){target=_blank}.
