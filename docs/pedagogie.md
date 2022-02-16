@@ -168,11 +168,11 @@ ___
    
 ### HGGSP
 
-??? "Programmes et Ressources"
+??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1676/programmes-et-ressources-en-histoire-geographie-geopolitique-et-sciences-politiques-voie-g){target=_blank}.
     
     
-??? "Sites incontournables" 
+??? "Ressources" 
     - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} : le magazine géopolitique d'Arte.
     - [**France Culture**](https://www.franceculture.fr/geopolitique){target=_blank} : Analyses et décryptages : comprendre les relations internationales et la géopolitique du monde actuel grâce aux émissions et podcasts de France Culture.
     - [**Lumni**](https://www.lumni.fr/recherche?query=G%C3%A9opolitique&establishment=lycee&schoolLevel=seconde){targert=_blank} : Série Géopoliticus pour décrypter la géopolitique à l’aide d’infographies animées pour comprendre le monde et les grands enjeux politiques de notre temps.
@@ -190,7 +190,14 @@ ___
 
 
 ### HLP
+??? "Programmes"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1711/programmes-et-ressources-en-humanites-litterature-et-philosophie-voie-g){target=_blank}
+    
+??? "Ressources" 
+    - [Le pouvoir de la parole](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/le-pouvoir-de-la-parole-14-parler-est-ce-agir){target=_blank} : Série de quatre émissions sur le pouvoir de la parole, diffusées sur France Culture en novembre 2019. (Episode 1 : Parler est-ce agir ? - Épisode 2 : Quand la parole ne suffit pas : les stoïciens au secours de l’écologie - Épisode 3 : Quand dire, c’est guérir - Épisode 4 : Devient-on quelqu’un d’autre quand on ment ?).
 
+
+    
 ### LLCE
 
 ### Mathématiques
