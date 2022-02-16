@@ -1,4 +1,4 @@
-Sur cette page, des ==**outils méthodologiques**== et des des ==**ressources par discipline**==.
+Sur cette page, des ==**outils méthodologiques**==, des ==**ressources par discipline**==  et divers ==**projets pédagogiques**==.
 
 ## Méthodologie
 ??? info "Information générale"
