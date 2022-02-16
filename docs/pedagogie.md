@@ -223,7 +223,7 @@ ___
     - [**Histoire de l'informatique, d'Internet et du Web**](https://delmas-rigoutsos.nom.fr/documents/YDelmas-histoire_informatique/index.html){target=_blank}
     - [**Cours sur Python**](https://courspython.com/){target=_blank}
     - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques, sciences, informatique, économie et finance, arts.
-    
+    - [**PIXEES**](https://pixees.fr/){target=_blank} : ressources pour les sciences du numérique.
     
 ### SVT
 ??? "Programmes"
