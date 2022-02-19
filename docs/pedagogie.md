@@ -149,9 +149,24 @@ ___
 ### Mathématiques
 
 ### Philosophie
-
+??? "Ressources"
+    - [**Encyclopédie philosophie**](https://encyclo-philo.fr/){target=_blank}
+    - [**La philosophie**](https://la-philosophie.com/){target=_blank} : Les grands philosophes, les courants... préparation du BAC PHILO (Conseils méthodologiques - Résumés - Citations...)
+    - [**Histoire de la philosophie**](http://www.histophilo.com/index.php){target=_blank}
+    - [**Les philosophes dans le métro**](https://lesphilosophesdanslemetro.com/plan/){target=_blank}
+    
 ### Physique-Chimie
-
+??? "Programmes"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/2318/physique-chimie?menu_id=2867){target=_blank}
+    
+    
+??? "Ressources"
+    - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, viédos, conseils méthodologiques.
+    - [**CultureSciences - Chimie**](https://culturesciences.chimie.ens.fr/){target=_blank}
+    - [**Chimie générale**](https://fr.khanacademy.org/science/chemistry){target=_blank} : sur le site Kahn Academy.
+    - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée. 
+    
+    
 ### SES
 
 ### SVT
@@ -196,16 +211,20 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
     
 ??? "Ressources" 
     - [**Le pouvoir de la parole**](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/le-pouvoir-de-la-parole-14-parler-est-ce-agir){target=_blank} : Série de quatre émissions sur le pouvoir de la parole, diffusées sur France Culture en novembre 2019. (^^Episode 1^^ : Parler est-ce agir ? - ^^Épisode 2^^ : Quand la parole ne suffit pas : les stoïciens au secours de l’écologie - ^^Épisode 3^^ : Quand dire, c’est guérir - ^^Épisode 4^^ : Devient-on quelqu’un d’autre quand on ment ?).
-
-
-    
+   
+   
 ### LLCE
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1684/programmes-et-ressources-en-langues-litteratures-et-cultures-etrangeres-et-regionales-voie-g){target=_blank}
 
 ??? "Ressources" 
-    
-    
+    - [**Lingolia**](https://www.lingolia.com/fr/){target=_blank}
+    - [**Fiches de vocabulaire**](https://fichesvocabulaire.com/){target=_blank}
+    - [**Duolingo**](https://fr.duolingo.com/){target=_blank}
+    - [**Memrise**](https://app.memrise.com/bienvenue#1){target=_blank}
+    - [**British Council**](http://learnenglishteens.britishcouncil.org/){target=_blank}
+    - [**BBC**](https://www.bbc.com/news/uk){target=_blank}
+   
     
 ### Mathématiques
 ??? "Programmes"
@@ -214,8 +233,10 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
 ??? "Ressources" 
     - [**Spécialité maths**](http://specialite-maths.fr/){target=_blank}
     - [**M@th et tiques**](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank}
+    - [**Méthode Math**](https://www.methodemaths.fr/){target=_blank}
     - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques...
     - [**Podcast - France Culture**](https://www.franceculture.fr/theme/mathematiques){target=_blank}
+    - [**Annales**](https://www.annales2maths.com/){target=_blank}
     
 ### NSI
 ??? "Programmes"
