@@ -136,12 +136,14 @@ ___
 
     
 ___
-## Disciplines et enseignements de spécialités
+## Disciplines et enseignements de spécialité
+
+??? info+ "Avertissement"
 Ci-dessous les ==**programmes scolaires**== et des ==**ressources**== pour les enseignements du lycée général et technologique.
 
-Par souci de clarté sont regroupés les disciplines du tronc commun et les enseignements des spécialités correspondantes.
+Par souci de clarté sont regroupés les disciplines du tronc commun et les enseignements de spécialité correspondants.
 
-Ne sont présentés que les enseignements de spécialités proposés au lycée.
+Ne sont présentés que les enseignements de spécialité proposés au lycée.
     
 ### Français / EAF
 
