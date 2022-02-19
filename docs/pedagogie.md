@@ -269,7 +269,7 @@ Ne sont présentés que les enseignements de spécialités proposés au lycée.
 
 ### EPS
 ___
-## Série STMG  
+### Série STMG  
 
 ___
 ## Réviser pour le BAC
