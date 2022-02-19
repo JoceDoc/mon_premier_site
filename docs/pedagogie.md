@@ -137,20 +137,29 @@ ___
     
 ___
 ## Disciplines
+???+ "info"
+    Pour les enseignements communs suivants :
+    
+    - Histoire géographie - EMC
+     
+    - Langues
+        
+    - Mathématiques
+    
+    - Physique - Chimie
+    
+    - SES
+    
+    Veuillez consulter ci-dessous la rubrique consacrée à l'**enseignement de spécialité** correspondant.
+   
 ### Arts plastiques
 
 ### EPS
 
 ### Français
 
-### Histoire Géographie EMC
 
-### Langues vivantes
 
-### Mathématiques
-???+ info
-    Programmes et ressources pour les mathématiques : voir dans les enseignements de spécialité ci-dessous.
-    
 ### Philosophie
 ??? "Ressources"
     - [**Encyclopédie philosophie**](https://encyclo-philo.fr/){target=_blank}
@@ -158,22 +167,6 @@ ___
     - [**Histoire de la philosophie**](http://www.histophilo.com/index.php){target=_blank}
     - [**Les philosophes dans le métro**](https://lesphilosophesdanslemetro.com/plan/){target=_blank}
     
-### Physique-Chimie
-??? "Programmes"
-    Sur le site [**Eduscol**](https://eduscol.education.fr/2318/physique-chimie?menu_id=2867){target=_blank}
-    
-    
-??? "Ressources"
-    - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, viédos, conseils méthodologiques.
-    - [**CultureSciences - Chimie**](https://culturesciences.chimie.ens.fr/){target=_blank}
-    - [**Chimie générale**](https://fr.khanacademy.org/science/chemistry){target=_blank} : sur le site Kahn Academy.
-    - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée. 
-    
-    
-### SES
-
-### SVT
-
 
 ___
 ## Enseignements de spécialité (au lycée)
@@ -209,6 +202,9 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
 
 
 ### HLP
+???+ "info"
+    Pour la spécialité **Humanité Lettres Philosophie**, d'autres ressources accessibles dans les rubriques **Lettres** ou **Philosophie** ci-dessus.
+
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1711/programmes-et-ressources-en-humanites-litterature-et-philosophie-voie-g){target=_blank}
     
@@ -258,37 +254,47 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
 ??? "Ressources" 
     - [**Vive les SVT**](https://www.vivelessvt.com/){target=_blank}
     - [**Planète énergie**](https://www.planete-energies.com/fr){target=_blank}
+    
 ### SI
 ??? "Programmes"
-    Sur le site [**Eduscol**](){target=_blank}
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1646/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt){target=_blank}
 
 ??? "Ressources" 
     - [](){target=_blank}
 
 ### SES
 ??? "Programmes"
-    Sur le site [**Eduscol**](){target=_blank}
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1658/programmes-et-ressources-en-sciences-economiques-et-sociales-voie-gt){target=_blank}
 
 ??? "Ressources" 
-    - [**CCI Bretagne**](https://www.bretagne.cci.fr/){target=_blank}
+    - [**Cité de l'économie](https://www.citeco.fr/){target=_blank} : Leçons d'économie : vidéos de 2mn pour faire le tour des questions essentielles de la discipline  (marchés, échanges, régulation, TVA, CAC 40...) - Histoire de la pensée économique (fresque) - Les clés de l'éco : explication des Mécanismes économiques, monétaires, financiers - WEBséries : vidéos et quiz.
+    - [**CCI Bretagne**](https://www.bretagne.cci.fr/){target=_blank} : Le site de la **Chambre de Commmerce et d'Industrie** de bretagne.
+    - [**DGCCRF**](https://www.economie.gouv.fr/dgccrf){target=_blank} / Direction générale de la concurrence, de la consommation et de la répression des fraudes, du site du Ministère de l'économie, des finances et de la relance.
+    - [**INSEE**](https://www.insee.fr/fr/accueil){target=_blank} :  Insitut national de la statistique et des études économiques.
     - [**Institut National de la consommation**](https://www.inc-conso.fr/){target=_blank}
-    - [**Ministère de l'économie, des finances et de la relance**](https://www.economie.gouv.fr/dgccrf){target=_blank}
-    - [**Ressources en SESµµ](http://ses.ens-lyon.fr/){target=_blank}
+    - [**60 millions de consommateurs**](https://www.60millions-mag.com/){target=_blank}
+    - [**Pour l'éco**](https://www.pourleco.com/){target=_blank} : le site de la revue.
+    - [**Autres ressources en SES**](http://ses.ens-lyon.fr/){target=_blank}
     
 
 ### Physique Chimie 
 ??? "Programmes"
-    Sur le site [**Eduscol**](){target=_blank}
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt){target=_blank}
 
-??? "Ressources" 
-    - [](){target=_blank}
+??? "Ressources"
+    - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, viédos, conseils méthodologiques.
+    - [**CultureSciences - Chimie**](https://culturesciences.chimie.ens.fr/){target=_blank}
+    - [**Chimie générale**](https://fr.khanacademy.org/science/chemistry){target=_blank} : sur le site Kahn Academy.
+    - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée. 
+
+
 
 ___
 ## Réviser pour le BAC
 
 ??? info "S'organiser"
 
-??? info "Sites pour réviser"
+??? info "Des sites pour réviser"
 
 
   
