@@ -27,6 +27,7 @@ Sur cette page, des ==**outils méthodologiques**==, des ==**ressources par disc
 ??? "Applications"
     - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
     - [**Tutoriel pour une présentation avec PREZI**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
+    - [**Excel Pratique**](https://www.excel-pratique.com/){target=_blank}
 
 ___
 ## EMI
@@ -147,7 +148,9 @@ ___
 ### Langues vivantes
 
 ### Mathématiques
-
+???+ info
+    Programmes et ressources pour les mathématiques : voir dans les enseignements de spécialité ci-dessous.
+    
 ### Philosophie
 ??? "Ressources"
     - [**Encyclopédie philosophie**](https://encyclo-philo.fr/){target=_blank}
@@ -254,7 +257,7 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
 
 ??? "Ressources" 
     - [**Vive les SVT**](https://www.vivelessvt.com/){target=_blank}
-    
+    - [**Planète énergie**](https://www.planete-energies.com/fr){target=_blank}
 ### SI
 ??? "Programmes"
     Sur le site [**Eduscol**](){target=_blank}
@@ -267,7 +270,11 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
     Sur le site [**Eduscol**](){target=_blank}
 
 ??? "Ressources" 
-    - [](){target=_blank}
+    - [**CCI Bretagne**](https://www.bretagne.cci.fr/){target=_blank}
+    - [**Institut National de la consommation**](https://www.inc-conso.fr/){target=_blank}
+    - [**Ministère de l'économie, des finances et de la relance**](https://www.economie.gouv.fr/dgccrf){target=_blank}
+    - [**Ressources en SESµµ](http://ses.ens-lyon.fr/){target=_blank}
+    
 
 ### Physique Chimie 
 ??? "Programmes"
