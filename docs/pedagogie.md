@@ -136,50 +136,24 @@ ___
 
     
 ___
-## Disciplines
+## Disciplines et enseignements de spécialités
 ???+ "info"
-    Pour les enseignements communs suivants :
+    Les ==**programmes scolaires**== et des ==**ressources**== pour les enseignements du tronc commun et les enseignements de spécialités.
     
-    - Histoire géographie - EMC
-     
-    - Langues
-        
-    - Mathématiques
-    
-    - Physique - Chimie
-    
-    - SES
-    
-    Veuillez consulter ci-dessous la rubrique consacrée à l'**enseignement de spécialité** correspondant.
-   
-### Arts plastiques
-
-### EPS
-
-### Français
+  
+### Français / EAF
 
 
-
-### Philosophie
-??? "Ressources"
-    - [**Encyclopédie philosophie**](https://encyclo-philo.fr/){target=_blank}
-    - [**La philosophie**](https://la-philosophie.com/){target=_blank} : Les grands philosophes, les courants... préparation du BAC PHILO (Conseils méthodologiques - Résumés - Citations...)
-    - [**Histoire de la philosophie**](http://www.histophilo.com/index.php){target=_blank}
-    - [**Les philosophes dans le métro**](https://lesphilosophesdanslemetro.com/plan/){target=_blank}
-    
-
-___
-## Enseignements de spécialité (au lycée)
-Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re..
-    
 ???+ info "Choix des spécialités"
+    Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re..
+    
     Pour bien choisir vos spécialités, découvrir les attendus et les programmes de première et de terminale, pour chacune d'entre elles, rendez-vous sur le site du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-specialites-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} ou sur le site de [**l'Etudiant**](https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites/){target=_blank}.
     
     D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**orientation**](https://jocedoc.github.io/mon_premier_site/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
     
     Ci-dessous, des ressources utiles pour l'enseignement des spécialités proposées dans notre lycée.
    
-### HGGSP
+### HGGSP / Histoire-géographie
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1676/programmes-et-ressources-en-histoire-geographie-geopolitique-et-sciences-politiques-voie-g){target=_blank}.
@@ -201,7 +175,7 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
        
 
 
-### HLP
+### HLP / Philosophie
 ???+ "info"
     Pour la spécialité **Humanité Lettres Philosophie**, d'autres ressources accessibles dans les rubriques **Lettres** ou **Philosophie** ci-dessus.
 
@@ -209,10 +183,14 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
     Sur le site [**Eduscol**](https://eduscol.education.fr/1711/programmes-et-ressources-en-humanites-litterature-et-philosophie-voie-g){target=_blank}
     
 ??? "Ressources" 
+    - [**Encyclopédie philosophie**](https://encyclo-philo.fr/){target=_blank}
+    - [**La philosophie**](https://la-philosophie.com/){target=_blank} : Les grands philosophes, les courants... préparation du BAC PHILO (Conseils méthodologiques - Résumés - Citations...)
+    - [**Histoire de la philosophie**](http://www.histophilo.com/index.php){target=_blank}
+    - [**Les philosophes dans le métro**](https://lesphilosophesdanslemetro.com/plan/){target=_blank}
     - [**Le pouvoir de la parole**](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/le-pouvoir-de-la-parole-14-parler-est-ce-agir){target=_blank} : Série de quatre émissions sur le pouvoir de la parole, diffusées sur France Culture en novembre 2019. (^^Episode 1^^ : Parler est-ce agir ? - ^^Épisode 2^^ : Quand la parole ne suffit pas : les stoïciens au secours de l’écologie - ^^Épisode 3^^ : Quand dire, c’est guérir - ^^Épisode 4^^ : Devient-on quelqu’un d’autre quand on ment ?).
    
    
-### LLCE
+### LLCE / Langues vivantes
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1684/programmes-et-ressources-en-langues-litteratures-et-cultures-etrangeres-et-regionales-voie-g){target=_blank}
 
@@ -225,7 +203,7 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
     - [**BBC**](https://www.bbc.com/news/uk){target=_blank}
    
     
-### Mathématiques
+### Mathématiques / SNT
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt){target=_blank}
 
@@ -287,7 +265,11 @@ Pour le bac général et technologique, pendant l’année de 2de, les élèves 
     - [**Chimie générale**](https://fr.khanacademy.org/science/chemistry){target=_blank} : sur le site Kahn Academy.
     - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée. 
 
+### Arts plastiques et Option
 
+### EPS
+___
+## Série STMG  
 
 ___
 ## Réviser pour le BAC
@@ -296,8 +278,7 @@ ___
 
 ??? info "Des sites pour réviser"
 
-
-  
+ 
 ## Le Grand oral
    
 ??? info "Se préparer pour l'oral"
