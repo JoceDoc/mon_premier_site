@@ -137,12 +137,13 @@ ___
     
 ___
 ## Disciplines et enseignements de spécialités
-???+ "info"
-    Les ==**programmes scolaires**== et des ==**ressources**== pour les enseignements du tronc commun et les enseignements de spécialités.
-    
-  
-### Français / EAF
+Ci-dessous les ==**programmes scolaires**== et des ==**ressources**== pour les enseignements du lycée général et technologique.
 
+Par souci de clarté sont regroupés les disciplines du tronc commun et les enseignements des spécialités correspondantes.
+
+Ne sont présentés que les enseignements de spécialités proposés au lycée.
+    
+### Français / EAF
 
 ???+ info "Choix des spécialités"
     Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re..
@@ -151,8 +152,7 @@ ___
     
     D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**orientation**](https://jocedoc.github.io/mon_premier_site/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
     
-    Ci-dessous, des ressources utiles pour l'enseignement des spécialités proposées dans notre lycée.
-   
+       
 ### HGGSP / Histoire-géographie
 
 ??? "Programmes"
