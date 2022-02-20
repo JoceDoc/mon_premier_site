@@ -156,13 +156,21 @@ Par contre seuls les enseignements de spécialité proposés au lycée sont ptr�
 ___
 ### EPS
 ___
-### Français / EAF  
+### Français / EAF
+??? "Programmes"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1712/programmes-et-ressources-en-francais-voie-gt){target=_blank}.
+
+??? "Ressources" 
+    - [Grammaire du Français](https://cache.media.eduscol.education.fr/file/Programmes/52/6/Livre_Terminologie_grammaticale_web_1308526.pdf){target=_blank}
+    - [Conjugaison - L'OBS](https://la-conjugaison.nouvelobs.com/){target=_blank} : pour ne plus faire de fautes de conjugaison.
+    - [En Français dans le texte](https://www.franceculture.fr/emissions/ecoutez-revisez){target=_blank} : Emission de France Culture proposant la lecture, par une comédienne ou un comédien, d'un texte (de littérature française le plus souvent, ou d'histoire ou de philosophie) au programme des classes de première ou de terminale, lecture suivie d'une analyse par des professeurs et d'une dictée proposée à l'antenne et sur les réseaux sociaux.
+    - [Outils numériques pour les lettres et LCA](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
+    
 ___       
 ### HGGSP / Histoire-géographie
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1676/programmes-et-ressources-en-histoire-geographie-geopolitique-et-sciences-politiques-voie-g){target=_blank}.
-    
     
 ??? "Ressources" 
     - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} : le magazine géopolitique d'Arte.
@@ -232,21 +240,15 @@ ___
     - [**PIXEES**](https://pixees.fr/){target=_blank} : ressources pour les sciences du numérique.
 
 ___
-### SVT
+### Physique Chimie 
 ??? "Programmes"
-    Sur le site [**Eduscol**](https://eduscol.education.fr/1664/programmes-et-ressources-en-sciences-de-la-vie-et-de-la-terre-voie-gt){target=_blank}
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt){target=_blank}
 
-??? "Ressources" 
-    - [**Vive les SVT**](https://www.vivelessvt.com/){target=_blank}
-    - [**Planète énergie**](https://www.planete-energies.com/fr){target=_blank}
-
-___
-### SI
-??? "Programmes"
-    Sur le site [**Eduscol**](https://eduscol.education.fr/1646/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt){target=_blank}
-
-??? "Ressources" 
-    - [](){target=_blank}
+??? "Ressources"
+    - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, viédos, conseils méthodologiques.
+    - [**CultureSciences - Chimie**](https://culturesciences.chimie.ens.fr/){target=_blank}
+    - [**Chimie générale**](https://fr.khanacademy.org/science/chemistry){target=_blank} : sur le site Kahn Academy.
+    - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée. 
 
 ___
 ### SES
@@ -264,20 +266,30 @@ ___
     - [**Autres ressources en SES**](http://ses.ens-lyon.fr/){target=_blank}
     
 ___
-### Physique Chimie 
+### SI
 ??? "Programmes"
-    Sur le site [**Eduscol**](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt){target=_blank}
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1646/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt){target=_blank}
 
-??? "Ressources"
-    - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, viédos, conseils méthodologiques.
-    - [**CultureSciences - Chimie**](https://culturesciences.chimie.ens.fr/){target=_blank}
-    - [**Chimie générale**](https://fr.khanacademy.org/science/chemistry){target=_blank} : sur le site Kahn Academy.
-    - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée. 
+??? "Ressources" 
+    - [](){target=_blank}
 
+___
+### SVT
+??? "Programmes"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1664/programmes-et-ressources-en-sciences-de-la-vie-et-de-la-terre-voie-gt){target=_blank}
+
+??? "Ressources" 
+    - [**Vive les SVT**](https://www.vivelessvt.com/){target=_blank}
+    - [**Planète énergie**](https://www.planete-energies.com/fr){target=_blank}
 
 ___
 ### Série STMG  
+??? "Programmes"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1742/programmes-et-ressources-en-serie-stmg){target=_blank}
 
+??? "Ressources" 
+
+    
 ___
 ## Réviser pour le BAC
 
