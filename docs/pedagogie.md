@@ -141,8 +141,7 @@ ___
 ???+ attention "Avertissement"
     Ci-dessous les ==**programmes scolaires**== et des ==**ressources**== pour les enseignements du lycée général et technologique.
 
-    Par souci de clarté sont regroupés sous la même rubrique les disciplines du tronc commun et les enseignements de spécialité correspondants.
-Par contre seuls les enseignements de spécialité proposés au lycée sont présentés.
+    Par souci de clarté sont regroupés sous la même rubrique les disciplines du tronc commun et les enseignements de spécialité proposés au lycée.
 
 ???+ "Choix des spécialités"
     Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re..
@@ -161,10 +160,10 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1712/programmes-et-ressources-en-francais-voie-gt){target=_blank}.
 
 ??? "Ressources" 
-    - [Grammaire du Français](https://cache.media.eduscol.education.fr/file/Programmes/52/6/Livre_Terminologie_grammaticale_web_1308526.pdf){target=_blank}
-    - [Conjugaison - L'OBS](https://la-conjugaison.nouvelobs.com/){target=_blank} : pour ne plus faire de fautes de conjugaison.
-    - [En Français dans le texte](https://www.franceculture.fr/emissions/ecoutez-revisez){target=_blank} : Emission de France Culture proposant la lecture, par une comédienne ou un comédien, d'un texte (de littérature française le plus souvent, ou d'histoire ou de philosophie) au programme des classes de première ou de terminale, lecture suivie d'une analyse par des professeurs et d'une dictée proposée à l'antenne et sur les réseaux sociaux.
-    - [Outils numériques pour les lettres et LCA](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
+    - [**Grammaire du Français**](https://cache.media.eduscol.education.fr/file/Programmes/52/6/Livre_Terminologie_grammaticale_web_1308526.pdf){target=_blank}
+    - [**Conjugaison - L'OBS**](https://la-conjugaison.nouvelobs.com/){target=_blank} : pour ne plus faire de fautes de conjugaison.
+    - [**En Français dans le texte**](https://www.franceculture.fr/emissions/ecoutez-revisez){target=_blank} : Emission de France Culture proposant la lecture, par une comédienne ou un comédien, d'un texte (de littérature française le plus souvent, ou d'histoire ou de philosophie) au programme des classes de première ou de terminale, lecture suivie d'une analyse par des professeurs et d'une dictée proposée à l'antenne et sur les réseaux sociaux.
+    - [**Outils numériques pour les lettres et LCA**](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
     
 ___       
 ### HGGSP / Histoire-géographie
