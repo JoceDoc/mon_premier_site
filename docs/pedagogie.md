@@ -1,5 +1,5 @@
 Sur cette page, des ==**outils méthodologiques**==, des ==**ressources par discipline**==  et divers ==**projets pédagogiques**==.
-
+___
 ## Méthodologie
 ??? info "Information générale"
     - [**Apprendre à s'organiser**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
@@ -144,7 +144,11 @@ Ci-dessous les ==**programmes scolaires**== et des ==**ressources**== pour les e
 Par souci de clarté sont regroupés les disciplines du tronc commun et les enseignements de spécialité correspondants.
 
 Ne sont présentés que les enseignements de spécialité proposés au lycée.
-    
+___  
+### Arts plastiques et Option
+___
+### EPS
+___
 ### Français / EAF
 
 ???+ info "Choix des spécialités"
@@ -154,7 +158,7 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
     
     D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**orientation**](https://jocedoc.github.io/mon_premier_site/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
     
-       
+___       
 ### HGGSP / Histoire-géographie
 
 ??? "Programmes"
@@ -176,7 +180,7 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
     Si la géopolitique vous intéresse, pourquoi ne pas continuer vos études dans cette voix à l'[**Institut Français de géopolitique**](https://www.geopolitique.net/fr/){target=_blank}
        
 
-
+___
 ### HLP / Philosophie
 ???+ "info"
     Pour la spécialité **Humanité Lettres Philosophie**, d'autres ressources accessibles dans les rubriques **Lettres** ou **Philosophie** ci-dessus.
@@ -191,7 +195,7 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
     - [**Les philosophes dans le métro**](https://lesphilosophesdanslemetro.com/plan/){target=_blank}
     - [**Le pouvoir de la parole**](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/le-pouvoir-de-la-parole-14-parler-est-ce-agir){target=_blank} : Série de quatre émissions sur le pouvoir de la parole, diffusées sur France Culture en novembre 2019. (^^Episode 1^^ : Parler est-ce agir ? - ^^Épisode 2^^ : Quand la parole ne suffit pas : les stoïciens au secours de l’écologie - ^^Épisode 3^^ : Quand dire, c’est guérir - ^^Épisode 4^^ : Devient-on quelqu’un d’autre quand on ment ?).
    
-   
+___  
 ### LLCE / Langues vivantes
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1684/programmes-et-ressources-en-langues-litteratures-et-cultures-etrangeres-et-regionales-voie-g){target=_blank}
@@ -204,7 +208,7 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
     - [**British Council**](http://learnenglishteens.britishcouncil.org/){target=_blank}
     - [**BBC**](https://www.bbc.com/news/uk){target=_blank}
    
-    
+___    
 ### Mathématiques / SNT
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt){target=_blank}
@@ -216,7 +220,8 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
     - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques...
     - [**Podcast - France Culture**](https://www.franceculture.fr/theme/mathematiques){target=_blank}
     - [**Annales**](https://www.annales2maths.com/){target=_blank}
-    
+
+___
 ### NSI
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g){target=_blank}
@@ -226,7 +231,8 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
     - [**Cours sur Python**](https://courspython.com/){target=_blank}
     - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques, sciences, informatique, économie et finance, arts.
     - [**PIXEES**](https://pixees.fr/){target=_blank} : ressources pour les sciences du numérique.
-    
+
+___
 ### SVT
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1664/programmes-et-ressources-en-sciences-de-la-vie-et-de-la-terre-voie-gt){target=_blank}
@@ -234,7 +240,8 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
 ??? "Ressources" 
     - [**Vive les SVT**](https://www.vivelessvt.com/){target=_blank}
     - [**Planète énergie**](https://www.planete-energies.com/fr){target=_blank}
-    
+
+___
 ### SI
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1646/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt){target=_blank}
@@ -242,6 +249,7 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
 ??? "Ressources" 
     - [](){target=_blank}
 
+___
 ### SES
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1658/programmes-et-ressources-en-sciences-economiques-et-sociales-voie-gt){target=_blank}
@@ -256,7 +264,7 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
     - [**Pour l'éco**](https://www.pourleco.com/){target=_blank} : le site de la revue.
     - [**Autres ressources en SES**](http://ses.ens-lyon.fr/){target=_blank}
     
-
+___
 ### Physique Chimie 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt){target=_blank}
@@ -267,9 +275,7 @@ Ne sont présentés que les enseignements de spécialité proposés au lycée.
     - [**Chimie générale**](https://fr.khanacademy.org/science/chemistry){target=_blank} : sur le site Kahn Academy.
     - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée. 
 
-### Arts plastiques et Option
 
-### EPS
 ___
 ### Série STMG  
 
@@ -280,7 +286,7 @@ ___
 
 ??? info "Des sites pour réviser"
 
- 
+___ 
 ## Le Grand oral
    
 ??? info "Se préparer pour l'oral"
