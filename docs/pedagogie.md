@@ -141,7 +141,7 @@ ___
 ???+ attention "Avertissement"
     Ci-dessous les ==**programmes scolaires**== et des ==**ressources**== pour les enseignements du lycée général et technologique.
 
-    Par souci de clarté sont regroupés sous la même rubrique les disciplines du tronc commun et les enseignements de spécialité proposés au lycée.
+    Par souci de clarté sont regroupés sous la même rubrique les ==**disciplines du tronc commun**== et les ==**enseignements de spécialité**== proposés au lycée.
 
 ???+ "Choix des spécialités"
     Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re..
