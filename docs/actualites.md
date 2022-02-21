@@ -5,7 +5,7 @@
     ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
 	Exposition sur **Frida Kahlo** réalisée par les élèves du cours d'Espagnol.
 		
-    Pour aller plus loin : [Frida Kahlo - France Culture]( https://www.franceculture.fr/personne-frida-kahlo.html)
+    Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
 
 
     
