@@ -2,8 +2,8 @@ Sur cette page, des ==**outils méthodologiques**==, des ==**ressources par disc
 ___
 ## Méthodologie
 ???+ "S'organiser"
-    - [**Apprendre à s'organiser**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
-    - [**Apprendre à réviser**](https://apprendre-reviser-memoriser.fr/){target=_blank}
+    - [**Apprendre à travailler**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
+    - [**Apprendre efficacement**](https://apprendre-reviser-memoriser.fr/){target=_blank}
     - **D'autres exemples de cartes mentales** [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
     
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
@@ -159,7 +159,14 @@ ___
   
   
 ### Arts plastiques et Option
-___
+
+??? "Programmes"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1713/programmes-et-ressources-en-arts-plastiques-voie-gt){target=_blank}.
+
+??? "Ressources" 
+    - [**Arts plastique - Ministère de la culture**](https://www.culture.gouv.fr/Thematiques/Arts-plastiques){target=_blank}.
+    
+
 ### EPS
 ___
 ### Français / EAF
