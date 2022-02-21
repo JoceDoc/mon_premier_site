@@ -321,9 +321,9 @@ ___
 ___
 ## Réviser pour le BAC
 
-??? info "S'organiser"
+??? "S'organiser, planifier son travail"
 
-??? info "Des sites pour réviser"
+??? "Des sites pour réviser"
 
 ___ 
 ## Le Grand oral
