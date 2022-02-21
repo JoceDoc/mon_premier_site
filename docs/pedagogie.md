@@ -157,8 +157,8 @@ ___
     
     D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**orientation**](https://jocedoc.github.io/mon_premier_site/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
   
-  
-### Arts plastiques et Option
+___   
+### Arts plastiques
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1713/programmes-et-ressources-en-arts-plastiques-voie-gt){target=_blank}.
@@ -166,9 +166,17 @@ ___
 ??? "Ressources" 
     - [**Arts plastique - Ministère de la culture**](https://www.culture.gouv.fr/Thematiques/Arts-plastiques){target=_blank}.
     
-
+___ 
 ### EPS
-___
+    
+??? "Programmes"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1748/programmes-et-ressources-en-eps-voie-gt){target=_blank}
+    
+??? "Ressources"
+    [**Portail des associations sportives par région**](https://portail.sportsregions.fr/){target=_blank}
+    
+    
+___ 
 ### Français / EAF
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1712/programmes-et-ressources-en-francais-voie-gt){target=_blank}.
