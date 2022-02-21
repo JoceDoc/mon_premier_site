@@ -1,15 +1,16 @@
 Sur cette page, des ==**outils méthodologiques**==, des ==**ressources par discipline**==  et divers ==**projets pédagogiques**==.
 ___
 ## Méthodologie
-??? "S'organiser"
+???+ "S'organiser"
     - [**Apprendre à s'organiser**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
     - [**Apprendre à réviser**](https://apprendre-reviser-memoriser.fr/){target=_blank}
     - **D'autres exemples de cartes mentales** [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
+    
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
     
 ??? "Améliorer sa rédaction"   
     - [**La langue française - Le Robert**](https://www.lalanguefrancaise.com/){target=_blank} : dictionnaire, conjugaison, orthographe, expressions...
-    - [**Questions d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank}
+    - [**Questions d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank} : des
     - [**Questions de conjugaison**](https://la-conjugaison.nouvelobs.com/){target=_blank} : pour ne plus faire de fautes de conjugaison.
     - [**Argumenter**](https://www.assistancescolaire.com/eleve/2nde/francais/reviser-le-cours/2_f401){target=_blank}
     
@@ -31,7 +32,7 @@ ___
     - [**Citer ses sources**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
     
-??? "Applications"
+??? "Applications utiles"
     - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
     - [**Tutoriel pour une présentation avec PREZI**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
     - [**Excel Pratique**](https://www.excel-pratique.com/){target=_blank}
