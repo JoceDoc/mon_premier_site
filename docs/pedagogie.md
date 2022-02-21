@@ -1,14 +1,21 @@
 Sur cette page, des ==**outils méthodologiques**==, des ==**ressources par discipline**==  et divers ==**projets pédagogiques**==.
 ___
 ## Méthodologie
-??? info "Information générale"
+??? "S'organiser"
     - [**Apprendre à s'organiser**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
     - [**Apprendre à réviser**](https://apprendre-reviser-memoriser.fr/){target=_blank}
     - **D'autres exemples de cartes mentales** [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
-   
-
-??? "Rechercher des informations"
+    
+??? "Améliorer sa rédaction"   
+    - [**La langue française - Le Robert**](https://www.lalanguefrancaise.com/){target=_blank} : dictionnaire, conjugaison, orthographe, expressions...
+    - [**Questions d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank}
+    - [**Questions de conjugaison**](https://la-conjugaison.nouvelobs.com/){target=_blank} : pour ne plus faire de fautes de conjugaison.
+    - [**Argumenter**](https://www.assistancescolaire.com/eleve/2nde/francais/reviser-le-cours/2_f401){target=_blank}
+    
+    Les **manuels scolaires** fourmillent de conseils et fiches méthodes pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat ( commentaires, dissertations...) dans les différentes disciplines.
+        
+??? "Chercher des informations"
     - [**Base documentaire PMB du lycée**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
     - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/){target=_blank}
     - [**Vérifier une information sur Internet**](https://fr.wikihow.com/v%C3%A9rifier-l%E2%80%99information-sur-internet){target=_blank}
@@ -49,9 +56,8 @@ ___
 ??? Info "Sites incontournables pour s'informer"
     - [**AFP**](https://www.afp.com/fr){target=_blank}
     - [**Reporters sans frontières**](https://rsf.org/){target=_blank}
-    ...
+    
  
-
 ??? info "Ressources pour l'EMI"
     [**Padlet de ressources**](https://padlet.com/cdinddmporsmeur/emi){target=_blank}
 
@@ -161,7 +167,6 @@ ___
 
 ??? "Ressources" 
     - [**Grammaire du Français**](https://cache.media.eduscol.education.fr/file/Programmes/52/6/Livre_Terminologie_grammaticale_web_1308526.pdf){target=_blank}
-    - [**Conjugaison - L'OBS**](https://la-conjugaison.nouvelobs.com/){target=_blank} : pour ne plus faire de fautes de conjugaison.
     - [**En Français dans le texte**](https://www.franceculture.fr/emissions/ecoutez-revisez){target=_blank} : Emission de France Culture proposant la lecture, par une comédienne ou un comédien, d'un texte (de littérature française le plus souvent, ou d'histoire ou de philosophie) au programme des classes de première ou de terminale, lecture suivie d'une analyse par des professeurs et d'une dictée proposée à l'antenne et sur les réseaux sociaux.
     - [**Outils numériques pour les lettres et LCA**](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
     
