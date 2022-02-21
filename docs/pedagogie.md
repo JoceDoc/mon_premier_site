@@ -173,9 +173,10 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1748/programmes-et-ressources-en-eps-voie-gt){target=_blank}
     
 ??? "Ressources"
-    [**Portail des associations sportives par région**](https://portail.sportsregions.fr/){target=_blank}
+    - [**Ministère des sports**](https://www.sports.gouv.fr/){target=_blank}
+    - [**Portail des associations sportives par région**](https://portail.sportsregions.fr/){target=_blank}
     
-    
+  
 ___ 
 ### Français / EAF
 ??? "Programmes"
