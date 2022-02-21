@@ -10,9 +10,9 @@ ___
     
 ??? "Améliorer sa rédaction"   
     - [**La langue française - Le Robert**](https://www.lalanguefrancaise.com/){target=_blank} : dictionnaire, conjugaison, orthographe, expressions...
-    - [**Questions d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank} : des
-    - [**Questions de conjugaison**](https://la-conjugaison.nouvelobs.com/){target=_blank} : pour ne plus faire de fautes de conjugaison.
-    - [**Argumenter**](https://www.assistancescolaire.com/eleve/2nde/francais/reviser-le-cours/2_f401){target=_blank}
+    - [**Question d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank} : consultez le site du projet Voltaire.
+    - [**Question de conjugaison**](https://www.toutelaconjugaison.com/){target=_blank}
+    - [**Argumenter**](https://www.assistancescolaire.com/eleve/2nde/francais/reviser-le-cours/2_f401){target=_blank} : explications, conseils, et méthode...
     
     Les **manuels scolaires** fourmillent de conseils et fiches méthodes pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat ( commentaires, dissertations...) dans les différentes disciplines.
         
