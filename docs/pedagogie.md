@@ -194,8 +194,6 @@ ___
 
 ___
 ### HLP / Philosophie
-???+ "info"
-    Pour la spécialité **Humanité Lettres Philosophie**, d'autres ressources accessibles dans les rubriques **Lettres** ou **Philosophie** ci-dessus.
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1711/programmes-et-ressources-en-humanites-litterature-et-philosophie-voie-g){target=_blank}
@@ -209,6 +207,7 @@ ___
    
 ___  
 ### LLCE / Langues vivantes
+
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1684/programmes-et-ressources-en-langues-litteratures-et-cultures-etrangeres-et-regionales-voie-g){target=_blank}
 
@@ -222,6 +221,7 @@ ___
    
 ___    
 ### Mathématiques / SNT
+
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt){target=_blank}
 
@@ -235,6 +235,7 @@ ___
 
 ___
 ### NSI
+
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g){target=_blank}
 
@@ -245,7 +246,8 @@ ___
     - [**PIXEES**](https://pixees.fr/){target=_blank} : ressources pour les sciences du numérique.
 
 ___
-### Physique Chimie 
+### Physique Chimie
+
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt){target=_blank}
 
@@ -257,6 +259,7 @@ ___
 
 ___
 ### SES
+
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1658/programmes-et-ressources-en-sciences-economiques-et-sociales-voie-gt){target=_blank}
 
@@ -272,6 +275,7 @@ ___
     
 ___
 ### SI
+
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1646/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt){target=_blank}
 
@@ -280,6 +284,7 @@ ___
 
 ___
 ### SVT
+
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1664/programmes-et-ressources-en-sciences-de-la-vie-et-de-la-terre-voie-gt){target=_blank}
 
