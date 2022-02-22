@@ -61,23 +61,25 @@ Tout comme le site des  plus beaux [**musées de France**](https://www.les-musee
 
 Autre lien intéressant les [**Expositions virtuelles de le BNF**](http://expositions.bnf.fr/){target=blank}
 
-??? "Quelques musées"
-    * [**Le Louvre**](https://www.louvre.fr/visites-en-ligne){target=_blank}
-    * [**Musée d'Orsay**](https://www.musee-orsay.fr/fr){target=_blank}
+??? "Musées"
+    - [**Le Louvre**](https://www.louvre.fr/visites-en-ligne){target=_blank}
+    - [**Musée d'Orsay**](https://www.musee-orsay.fr/fr){target=_blank}
 
 
 ### A l'étranger
 [**British Museum**](https://www.britishmuseum.org/){target=_blank}
 
 ## Théâtre
-[**Tréâtral magazine**](https://www.theatral-magazine.com/){target=_blank} : L'actualité de la création théâtale.
-[**Sceneweb**](https://sceneweb.fr/){target=_blank} : L'actualité du spectacle vivant.
-[**Captations complètes ou extraits**](http://www.pearltrees.com/bordeauxdaac/captation-complete-extraits/id12715437){target=_blank}
+- [**Tréâtral magazine**](https://www.theatral-magazine.com/){target=_blank} : L'actualité de la création théâtale.
+
+- [**Sceneweb**](https://sceneweb.fr/){target=_blank} : L'actualité du spectacle vivant.
+
+- [**Captations complètes ou extraits**](http://www.pearltrees.com/bordeauxdaac/captation-complete-extraits/id12715437){target=_blank}
 
 ## Cinéma
-[**Cinémathèque de Bretagne**](https://www.cinematheque-bretagne.bzh/){target=_blank}
+- [**Cinémathèque de Bretagne**](https://www.cinematheque-bretagne.bzh/){target=_blank}
 
-[**Centre National du cinéma et de l'image animée**](https://www.cnc.fr/){target=_blank}
+- [**Centre National du cinéma et de l'image animée**](https://www.cnc.fr/){target=_blank}
 
 
 
