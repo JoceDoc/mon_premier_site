@@ -74,7 +74,7 @@ Autre lien intéressant les [**Expositions virtuelles de le BNF**](http://exposi
 
 - [**Sceneweb**](https://sceneweb.fr/){target=_blank} : L'actualité du spectacle vivant.
 
-- [**Captations complètes ou extraits**](http://www.pearltrees.com/bordeauxdaac/captation-complete-extraits/id12715437){target=_blank}
+- [**Captations complètes ou extraits**](http://www.pearltrees.com/bordeauxdaac/captation-complete-extraits/id12715437){target=_blank} de pièces de théâtre.
 
 ## Cinéma
 - [**Cinémathèque de Bretagne**](https://www.cinematheque-bretagne.bzh/){target=_blank}
