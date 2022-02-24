@@ -14,7 +14,7 @@ ___
     - [**Question de conjugaison**](https://www.toutelaconjugaison.com/){target=_blank}
     - [**Argumenter**](https://www.assistancescolaire.com/eleve/2nde/francais/reviser-le-cours/2_f401){target=_blank} : explications, conseils, et méthode...
     
-    Les **manuels scolaires** fourmillent de conseils et fiches méthodes pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat ( commentaires, dissertations...) dans les différentes disciplines.
+    Les **manuels scolaires** fourmillent de ==**conseils**== et ==**fiches méthodes**== pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat ( commentaires, dissertations...) dans les différentes disciplines.
         
 ??? "Chercher des informations"
     - [**Base documentaire PMB du lycée**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
@@ -196,7 +196,7 @@ ___
 ??? "Ressources" 
     - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} : le magazine géopolitique d'Arte.
     - [**France Culture**](https://www.franceculture.fr/geopolitique){target=_blank} : Analyses et décryptages : comprendre les relations internationales et la géopolitique du monde actuel grâce aux émissions et podcasts de France Culture.
-    - [**Lumni**](https://www.lumni.fr/recherche?query=G%C3%A9opolitique&establishment=lycee&schoolLevel=seconde){targert=_blank} : Série Géopoliticus pour décrypter la géopolitique à l’aide d’infographies animées pour comprendre le monde et les grands enjeux politiques de notre temps.
+    - [**Lumni**](https://www.lumni.fr/recherche?query=G%C3%A9opolitique&establishment=lycee&schoolLevel=seconde){target=_blank} : Série Géopoliticus pour décrypter la géopolitique à l’aide d’infographies animées pour comprendre le monde et les grands enjeux politiques de notre temps.
     - [**IRIS - Institut de Relations Internationales et Stratégiques**](https://www.iris-france.org/){target=_blank}
     
     
@@ -298,7 +298,7 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1646/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt){target=_blank}
 
 ??? "Ressources" 
-    - [](){target=_blank}
+    - [**Techniques de l'ingénieur**](https://www.techniques-ingenieur.fr/){target=_blank}
 
 ___
 ### SVT
