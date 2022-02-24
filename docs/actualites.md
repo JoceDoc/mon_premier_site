@@ -50,7 +50,9 @@ Expositions du moment à découvrir au CDI.
     [![Virgule](./images/abonnements/Virgule_février 2022_203.jpg "Virgule, février 2022, n°203"){width=20%}](./images/abonnements/Virgule_février 2022_203_sommaire.pdf){target=_blank}
 
     
-???+ info "**Les langues vivantes**
+    
+    
+???+ info "**Les langues vivantes**"
     [![I love English world](./images/abonnements/IloveEnglishWorld_février-2022.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_février-2022_sommaire.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/Vocable_Allemand_20220203_857.jpg "Vocable Allemand, 03 février 2022, n°857"){width=20%}](./images/abonnements/Vocable_Allemand_20220203_857_sommaire.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/Vocable_Allemand_20220217_858.jpg "Vocable Allemand, 17 février 2022, n°858"){width=20%}](./images/abonnements/Vocable_Allemand_20220217_858_sommaire.pdf){target=_blank}
