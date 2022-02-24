@@ -322,13 +322,13 @@ ___
 ## Réviser pour le BAC
 
 ??? "S'organiser, planifier son travail"
-    [Vidéos Lumni- Révisions BAC - Méthodologie](https://www.lumni.fr/dossier/revisions-bac-methodologie){target=_blank}
+    -[**Vidéos Lumni- Révisions BAC - Méthodologie**](https://www.lumni.fr/dossier/revisions-bac-methodologie){target=_blank}
    
             
 ??? "Des sites pour réviser et s'entraîner"
-    [Tout pour le BAC](https://www.phosphore.com/tout-pour-le-bac/) : Le site Phosphore propose des outils réviser le BAC 2022.
-    [Banque de sujets](https://eduscol.education.fr/prep-exam/){target=_blank} : banque de données des sujets d'examens du baccalauréat général, technologique et professionnel.
-    [Studyrama](https://www.studyrama.com/revision-examen/bac){target=_blank}
+    - [**Tout pour le BAC**](https://www.phosphore.com/tout-pour-le-bac/) : Le site Phosphore propose des outils réviser le BAC 2022.
+    - [**Banque de sujets**](https://eduscol.education.fr/prep-exam/){target=_blank} : banque de données des sujets d'examens du baccalauréat général, technologique et professionnel.
+    - [**Studyrama**](https://www.studyrama.com/revision-examen/bac){target=_blank}
     
     
 ___ 
