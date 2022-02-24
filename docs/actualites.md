@@ -31,6 +31,8 @@ Expositions du moment à découvrir au CDI.
 
 
 ## Nouveautés 
+
+### Presse
    
 ???+ info "**Le kiosque du mois**"
 
@@ -52,7 +54,8 @@ Expositions du moment à découvrir au CDI.
     [![Sciences Ouest](./images/abonnements/Sciences Ouest_février 2022_396.jpg "Sciences Ouest, janvier 2022, n°396"){width=20%}](./images/abonnements/Sciences Ouest_février 2022_396_sommaire.pdf){target=_blank}
     [![Virgule](./images/abonnements/Virgule_février 2022_203.jpg "Virgule, février 2022, n°203"){width=20%}](./images/abonnements/Virgule_février 2022_203_sommaire.pdf){target=_blank}
 
-    
+
+???+ info "**Le kiosque du mois dernier**"    
     
     
 ???+ info "**Les langues vivantes**"
@@ -62,10 +65,14 @@ Expositions du moment à découvrir au CDI.
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220203_850.jpg "Vocable Espagnol, 03 février 2022, n°850"){width=20%}](./images/abonnements/Vocable_Espagnol_20220203_850_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220217_851.jpg "Vocable Espagnol, 17 février 2022, n°851"){width=20%}](./images/abonnements/Vocable_Espagnol_20220217_851_sommaire.pdf){target=_blank}
 
-???+ info "**Le kiosque du mois dernier**"
+???+ info "**Pour les enseignants**"
+    [![Cahiers pédagogiques](./images/abonnements/Cahiers_pédagogiques_février_2022_575.jpg "Cahiers pédagogiques, février 2022, n°575"){width=20%}](./images/abonnements/Cahiers_pédagogiques_février_2022_575_sommaire.pdf){target=_blank}
 
+
+
+### **Kiosque ONISEP**
     
-## **Coups de coeur** :heart: 
+### **Coups de coeur** :heart: 
 
 Informations à venir...
 
