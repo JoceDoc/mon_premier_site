@@ -325,12 +325,11 @@ ___
     [Vidéos Lumni- Révisions BAC - Méthodologie](https://www.lumni.fr/dossier/revisions-bac-methodologie){target=_blank}
    
             
-??? "Des sites pour réviser"
+??? "Des sites pour réviser et s'entraîner"
     [Tout pour le BAC](https://www.phosphore.com/tout-pour-le-bac/) : Le site Phosphore propose des outils réviser le BAC 2022.
-    
-    
-??? "Annales"   
     [Banque de sujets](https://eduscol.education.fr/prep-exam/){target=_blank} : banque de données des sujets d'examens du baccalauréat général, technologique et professionnel.
+     
+    
     
 ___ 
 ## Le Grand oral
