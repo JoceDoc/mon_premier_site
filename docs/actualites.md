@@ -75,7 +75,10 @@ Expositions du moment à découvrir au CDI.
 
 
 ### **Kiosque ONISEP**
-    
+???+ info "**Dans la presse**"
+    ![Le Monde Campus](./images/kiosqueonisep/Campus_20220210.jpg "Le Monde Campus, 10 février 2022"){width=20%}
+    ![Le Monde Campus](./images/kiosqueonisep/Campus_20220217.jpg "Le Monde Campus, 17 février 2022"){width=20%}
+
 ### **Coups de coeur** :heart: 
 
 Informations à venir...
