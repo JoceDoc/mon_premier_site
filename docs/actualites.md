@@ -1,15 +1,16 @@
 ## Expositions
 
-???+ info "**Frida KAHLO**"
+Expositions du moment à découvrir au CDI.
+
+??? info "**Frida KAHLO**"
      
     ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
 	Exposition sur **Frida Kahlo** réalisée par les élèves du cours d'Espagnol.
 		
     Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
 
-
     
-???+ info "**Projets franco-allemand**"
+??? info "**Projets franco-allemand**"
     
     ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=50% align=left}
     ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=50% align=left}
@@ -53,8 +54,9 @@
     
     [![I love English world](./images/abonnements/IloveEnglishWorld_février-2022.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_février-2022_sommaire.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/Vocable_Allemand_20220203_857.jpg "Vocable Allemand, 03 février 2022, n°857"){width=20%}](./images/abonnements/Vocable_Allemand_20220203_857_sommaire.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/Vocable_Allemand_20220217_858.jpg "Vocable Allemand, 17 février 2022, n°858"){width=20%}](./images/abonnements/Vocable_Allemand_20220217_858_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220203_850.jpg "Vocable Espagnol, 03 février 2022, n°850"){width=20%}](./images/abonnements/Vocable_Espagnol_20220203_850_sommaire.pdf){target=_blank}
-
+    [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220217_851.jpg "Vocable Espagnol, 17 février 2022, n°851"){width=20%}](./images/abonnements/Vocable_Espagnol_20220217_851_sommaire.pdf){target=_blank}
 
 ???+ info "**Le kiosque du mois dernier**"
 
