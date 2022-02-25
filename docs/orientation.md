@@ -2,7 +2,7 @@
 
 ==**MESSAGE DE M. QUINIO** (24/02/2021) à l'intention des élèves de terminale==
 
-![Accompagnement_PARCOURSUP](./images/Accompagnement PARCOURSUP.png "Accompagnement PARCOURSUP"){align=left width=40%}
+![Accompagnement_PARCOURSUP](./images/Accompagnement_PARCOURSUP.png "Accompagnement PARCOURSUP"){align=left width=40%}
 La période des portes ouvertes des établissements supérieurs bat son plein et nous recevons chaque jour des invitations à vous transmettre. Il est important de vous rendre aux portes ouvertes des formations qui vous intéressent le plus dans la mesure de vos disponibilités.
 
 En parallèle, vous allez devoir remplir votre dossier Parcoursup et en particulier renseigner vos projets motivés. Pour vous accompagner dans ces démarches et bien davantage, je vous joins ci-dessous des liens et une proposition de l'association morlaisienne "L'atelier des Parcours".
