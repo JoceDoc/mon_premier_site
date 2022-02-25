@@ -157,7 +157,9 @@ ___
     
     D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**orientation**](https://jocedoc.github.io/mon_premier_site/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
   
-???+ tip "L'actualité des disciplines"
+### Actualité des disciplines
+
+???+ tip "Semaine des mathématiques"
    ==**Du 7 au 14 mars 2022** c'est la semaine des mathématiques==. L'occasion de renforcer l'attractivité de mathématiques.
     - [**Programme et thématiques de l'année**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} : **"Maths en forme(s)"** , proposition d'activités. 
     - [**M@ths en formes**](https://www.mathsenvie.fr/?p=10530){target=_blank}
