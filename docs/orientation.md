@@ -1,6 +1,6 @@
 # Actualités
 
-MESSAGE DE M. QUINIO (24/02/2021) à l'intention des élèves de terminale.
+==**MESSAGE DE M. QUINIO** (24/02/2021) à l'intention des élèves de terminale==
 
 "La période des portes ouvertes des établissements supérieurs bat son plein et nous recevons chaque jour des invitations à vous transmettre. Il est important de vous rendre aux portes ouvertes des formations qui vous intéressent le plus dans la mesure de vos disponibilités.
 
