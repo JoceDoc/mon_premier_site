@@ -6,6 +6,15 @@
 ???+ info "Orientation et Parcours avenir"  
     L'actualité de l'orientation, les sites incontournables, des ressources par niveau, les salons et forums, la vie étudiante...
     
+    La période des portes ouvertes des établissements supérieurs bat son plein et nous recevons chaque jour des invitations à vous transmettre. Ces invitations sont regroupées sur le padlet orientation du CDI. Il est important de vous rendre aux portes ouvertes des formations qui vous intéressent le plus dans la mesure de vos possibilités.
+
+En parallèle, vous allez devoir remplir votre dossier Parcoursup et en particulier renseigner vos projets motivés. Pour vous accompagner dans ces démarches et bien davantage, je vous joins ci-dessous des liens et une proposition de l'association morlaisienne "L'atelier des Parcours"
+
+    Conseils pour rédiger le « projet de formation motivé » + vidéo
+    Conseils pour rédiger « activités et centres d’intérêt » (l’équivalent du CV sur Parcoursup)
+    Conseils pour remplir le dossier social de l’étudiant : dossier de Bourse (logement et bourse d’études)
+    La FAQ très détaillé de Parcoursup
+    
 === "Parcours AVENIR"
     - [**Réussir au lycée et après**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326)
     - [**Ressources communes pour les lycéens**](https://padlet.com/cdinddmporsmeur/ORI_2020)
