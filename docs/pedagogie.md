@@ -235,7 +235,7 @@ ___
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1684/programmes-et-ressources-en-langues-litteratures-et-cultures-etrangeres-et-regionales-voie-g){target=_blank}
 
-??? "Ressources" 
+??? "Ressources communes" 
     - [**Lingolia**](https://www.lingolia.com/fr/){target=_blank}
     - [**Fiches de vocabulaire**](https://fichesvocabulaire.com/){target=_blank}
     - [**Question de conjugaison**](https://la-conjugaison.nouvelobs.com/){target=_blank} : Français, Anglais, Espagnol, Allemand, Italien...
@@ -244,10 +244,12 @@ ___
     - [**Memrise**](https://app.memrise.com/bienvenue#1){target=_blank}
     - [**British Council**](http://learnenglishteens.britishcouncil.org/){target=_blank}
     - [**BBC**](https://www.bbc.com/news/uk){target=_blank}
-   
+ 
+??? "Allemand"
+    - [**L'Allemand un plus**](https://www.goethe.de/resources/files/pdf216/unplus_broschuere_2022_web.pdf){target=_blank} : Pourquoi choisir l'Allemand ? Brochure éditée par le Goethe Institut, le ministère de l'Education de la jeunesse et des sports et L'Institut Français.
+    
 ___    
 ### Mathématiques / SNT
-
 
 
 ??? "Programmes"
