@@ -157,6 +157,12 @@ ___
     
     D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**orientation**](https://jocedoc.github.io/mon_premier_site/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
   
+???+ tip "L'actualité des disciplines"
+   ==**Du 7 au 14 mars 2022** c'est la semaine des mathématiques==. L'occasion de renforcer l'attractivité de mathématiques.
+    - [**Programme et thématiques de l'année**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} : **"Maths en forme(s)"** , proposition d'activités. 
+    - [**M@ths en formes**](https://www.mathsenvie.fr/?p=10530){target=_blank}
+    - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
+
 ___   
 ### Arts plastiques
 
@@ -240,6 +246,8 @@ ___
 ___    
 ### Mathématiques / SNT
 
+
+
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt){target=_blank}
 
@@ -248,6 +256,7 @@ ___
     - [**M@th et tiques**](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank}
     - [**Méthode Math**](https://www.methodemaths.fr/){target=_blank}
     - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques...
+    - [**Mathsenvie**](https://www.mathsenvie.fr/?p=10530){target=_blank} : Une façon originale d’aborder les mathématiques : motivante, concrète et en lien avec le quotidien des élèves. Activités de la maternelle au lycée...
     - [**Podcast - France Culture**](https://www.franceculture.fr/theme/mathematiques){target=_blank}
     - [**Annales**](https://www.annales2maths.com/){target=_blank}
 
